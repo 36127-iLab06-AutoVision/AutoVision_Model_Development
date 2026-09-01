@@ -27,7 +27,7 @@ A short description of the project.
 │                         `1.0-jqp-initial-data-exploration`.
 │
 ├── pyproject.toml     <- Project configuration file with package metadata for 
-│                         Autovision_Model_Development and configuration for tools like black
+│                         vehicle_metadata and configuration for tools like black
 │
 ├── references         <- Data dictionaries, manuals, and all other explanatory materials.
 │
@@ -39,9 +39,9 @@ A short description of the project.
 │
 ├── setup.cfg          <- Configuration file for flake8
 │
-└── Autovision_Model_Development   <- Source code for use in this project.
+└── vehicle_metadata  <- Source code for use in this project.
     │
-    ├── __init__.py             <- Makes Autovision_Model_Development a Python module
+    ├── __init__.py             <- Makes vehicle_metadata a Python module
     │
     ├── config.py               <- Store useful variables and configuration
     │

@@ -64,7 +64,7 @@ create_environment:
 ## Make dataset
 .PHONY: data
 data: requirements
-	$(PYTHON_INTERPRETER) Autovision_Model_Development/dataset.py
+	$(PYTHON_INTERPRETER) vehicle_metadata/dataset.py
 
 
 #################################################################################
