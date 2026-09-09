@@ -1,0 +1,14 @@
+{
+  "architecture": "ResNet50",
+  "pretraining": "ImageNet",
+  "classes": 20,
+  "training_images": 1600,
+  "validation_images": 200,
+  "test_images": 200,
+  "test_top1_accuracy": 0.81,
+  "test_top5_accuracy": 0.995,
+  "test_macro_f1": 0.8107712372206247,
+  "gpu": "NVIDIA GeForce RTX 2060",
+  "pytorch_version": "2.14.0+cu130",
+  "cuda_version": "13.0"
+}
