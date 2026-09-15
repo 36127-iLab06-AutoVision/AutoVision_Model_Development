@@ -11,12 +11,15 @@ authors = [
 ]
 
 readme = "README.md"
+
 classifiers = [
-    "Programming Language :: Python :: 3",
-    
+  "Programming Language :: Python :: 3",
 ]
+
 requires-python = "~=3.11.0"
 
+[tool.flit.module]
+name = "vehicle_metadata"
 
 [tool.ruff]
 line-length = 99
@@ -24,9 +27,8 @@ src = ["vehicle_metadata"]
 include = ["pyproject.toml", "vehicle_metadata/**/*.py"]
 
 [tool.ruff.lint]
-extend-select = ["I"]  # Add import sorting
+extend-select = ["I"]
 
 [tool.ruff.lint.isort]
 known-first-party = ["vehicle_metadata"]
 force-sort-within-sections = true
-

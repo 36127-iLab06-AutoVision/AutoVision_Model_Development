@@ -1,0 +1,17 @@
+{
+  "architecture": "ViT-B/16",
+  "pretraining": "ImageNet",
+  "classes": 20,
+  "training_images": 1600,
+  "validation_images": 200,
+  "test_images": 200,
+  "batch_size": 8,
+  "selected_stage": "stage2_last_block_finetune",
+  "validation_top1_accuracy": 0.72,
+  "test_top1_accuracy": 0.74,
+  "test_top5_accuracy": 0.99,
+  "test_macro_f1": 0.7418292943925598,
+  "gpu": "NVIDIA GeForce RTX 5060 Laptop GPU",
+  "pytorch_version": "2.14.0+cu130",
+  "cuda_version": "13.0"
+}
