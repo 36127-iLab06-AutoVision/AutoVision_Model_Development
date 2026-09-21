@@ -1,0 +1,8 @@
+{
+  "Model": "vit_b32",
+  "Validation Top-1": 0.71,
+  "Test Top-1": 0.695,
+  "Test Top-5": 0.97,
+  "Macro F1": 0.6895967868564613,
+  "GPU": "NVIDIA GeForce RTX 5060 Laptop GPU"
+}
