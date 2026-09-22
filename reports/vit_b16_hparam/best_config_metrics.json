@@ -1,0 +1,15 @@
+{
+  "best_config": {
+    "name": "unfreeze_4_blocks",
+    "finetune_lr": 2e-05,
+    "weight_decay": 0.0001,
+    "last_blocks": 4,
+    "label_smoothing": 0.1,
+    "augmentation": "standard"
+  },
+  "validation_top1": 0.785,
+  "test_top1": 0.78,
+  "test_top5": 0.995,
+  "test_macro_f1": 0.776034842780199,
+  "gpu": "NVIDIA GeForce RTX 5060 Laptop GPU"
+}

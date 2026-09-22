@@ -1,0 +1,9 @@
+name,finetune_lr,weight_decay,last_blocks,label_smoothing,augmentation,selected_stage,validation_top1,checkpoint,total_seconds
+unfreeze_4_blocks,2e-05,0.0001,4,0.1,standard,fine_tune,0.785,C:\Users\elesh\Academics\UTS\36127InnovationLab\Development\AutoVision_Model_Development\models\vit_b16_hparam\unfreeze_4_blocks_best.pt,333.3547089000349
+unfreeze_2_blocks,5e-05,0.0001,2,0.1,standard,fine_tune,0.775,C:\Users\elesh\Academics\UTS\36127InnovationLab\Development\AutoVision_Model_Development\models\vit_b16_hparam\unfreeze_2_blocks_best.pt,320.8326216999558
+lr_1e-4,0.0001,0.0001,1,0.1,standard,fine_tune,0.745,C:\Users\elesh\Academics\UTS\36127InnovationLab\Development\AutoVision_Model_Development\models\vit_b16_hparam\lr_1e-4_best.pt,347.35561759996926
+strong_augmentation,5e-05,0.0001,1,0.1,strong,fine_tune,0.73,C:\Users\elesh\Academics\UTS\36127InnovationLab\Development\AutoVision_Model_Development\models\vit_b16_hparam\strong_augmentation_best.pt,358.44410650007194
+no_label_smoothing,5e-05,0.0001,1,0.0,standard,fine_tune,0.72,C:\Users\elesh\Academics\UTS\36127InnovationLab\Development\AutoVision_Model_Development\models\vit_b16_hparam\no_label_smoothing_best.pt,332.01352139998926
+weight_decay_1e-5,5e-05,1e-05,1,0.1,standard,fine_tune,0.72,C:\Users\elesh\Academics\UTS\36127InnovationLab\Development\AutoVision_Model_Development\models\vit_b16_hparam\weight_decay_1e-5_best.pt,326.29153339995537
+baseline,5e-05,0.0001,1,0.1,standard,fine_tune,0.705,C:\Users\elesh\Academics\UTS\36127InnovationLab\Development\AutoVision_Model_Development\models\vit_b16_hparam\baseline_best.pt,338.6565201000194
+lr_1e-5,1e-05,0.0001,1,0.1,standard,fine_tune,0.66,C:\Users\elesh\Academics\UTS\36127InnovationLab\Development\AutoVision_Model_Development\models\vit_b16_hparam\lr_1e-5_best.pt,341.24875440000324
