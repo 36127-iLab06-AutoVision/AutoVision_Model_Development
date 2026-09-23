@@ -1,0 +1,17 @@
+{
+  "architecture": "Swin-T",
+  "best_config": {
+    "name": "longer_finetune",
+    "finetune_lr": 3e-05,
+    "weight_decay": 0.0001,
+    "unfreeze_depth": "last_2_stages",
+    "label_smoothing": 0.1,
+    "augmentation": "standard",
+    "stage2_epochs": 6
+  },
+  "validation_top1": 0.87,
+  "test_top1": 0.85,
+  "test_top5": 0.995,
+  "test_macro_f1": 0.8541135068547909,
+  "gpu": "NVIDIA GeForce RTX 5060 Laptop GPU"
+}

@@ -1,0 +1,10 @@
+name,finetune_lr,weight_decay,unfreeze_depth,label_smoothing,augmentation,stage2_epochs,selected_stage,validation_top1,checkpoint,total_seconds
+longer_finetune,3e-05,0.0001,last_2_stages,0.1,standard,6,fine_tune,0.87,C:\Users\elesh\Academics\UTS\36127InnovationLab\Development\AutoVision_Model_Development\models\swin_t_hparam\longer_finetune_best.pt,416.1125252000056
+unfreeze_2_stages,3e-05,0.0001,last_2_stages,0.1,standard,3,fine_tune,0.805,C:\Users\elesh\Academics\UTS\36127InnovationLab\Development\AutoVision_Model_Development\models\swin_t_hparam\unfreeze_2_stages_best.pt,272.31101270008367
+lr_1e-4,0.0001,0.0001,last_stage,0.1,standard,3,fine_tune,0.79,C:\Users\elesh\Academics\UTS\36127InnovationLab\Development\AutoVision_Model_Development\models\swin_t_hparam\lr_1e-4_best.pt,265.17547759984154
+weight_decay_1e-5,5e-05,1e-05,last_stage,0.1,standard,3,fine_tune,0.765,C:\Users\elesh\Academics\UTS\36127InnovationLab\Development\AutoVision_Model_Development\models\swin_t_hparam\weight_decay_1e-5_best.pt,264.53545730013866
+unfreeze_3_stages,2e-05,0.0001,last_3_stages,0.1,standard,3,fine_tune,0.76,C:\Users\elesh\Academics\UTS\36127InnovationLab\Development\AutoVision_Model_Development\models\swin_t_hparam\unfreeze_3_stages_best.pt,274.9903002998326
+no_label_smoothing,5e-05,0.0001,last_stage,0.0,standard,3,fine_tune,0.755,C:\Users\elesh\Academics\UTS\36127InnovationLab\Development\AutoVision_Model_Development\models\swin_t_hparam\no_label_smoothing_best.pt,264.6055237001274
+strong_augmentation,5e-05,0.0001,last_stage,0.1,strong,3,fine_tune,0.745,C:\Users\elesh\Academics\UTS\36127InnovationLab\Development\AutoVision_Model_Development\models\swin_t_hparam\strong_augmentation_best.pt,288.78301260003354
+baseline,5e-05,0.0001,last_stage,0.1,standard,3,fine_tune,0.73,C:\Users\elesh\Academics\UTS\36127InnovationLab\Development\AutoVision_Model_Development\models\swin_t_hparam\baseline_best.pt,340.21853559999727
+lr_1e-5,1e-05,0.0001,last_stage,0.1,standard,3,fine_tune,0.62,C:\Users\elesh\Academics\UTS\36127InnovationLab\Development\AutoVision_Model_Development\models\swin_t_hparam\lr_1e-5_best.pt,267.01121960009914
