@@ -1,0 +1,8 @@
+{
+  "Model": "convnext_tiny",
+  "Validation Top-1": 0.84,
+  "Test Top-1": 0.835,
+  "Test Top-5": 1.0,
+  "Macro F1": 0.8336413448952149,
+  "GPU": "NVIDIA GeForce RTX 5060 Laptop GPU"
+}

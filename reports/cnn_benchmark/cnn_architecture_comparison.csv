@@ -1,0 +1,4 @@
+Model,Validation Top-1,Test Top-1,Test Top-5,Macro F1,GPU
+convnext_tiny,0.84,0.835,1.0,0.8336413448952149,NVIDIA GeForce RTX 5060 Laptop GPU
+mobilenet_v3_large,0.695,0.735,0.975,0.731191591170828,NVIDIA GeForce RTX 5060 Laptop GPU
+efficientnet_b0,0.555,0.5,0.875,0.4928923436870334,NVIDIA GeForce RTX 5060 Laptop GPU

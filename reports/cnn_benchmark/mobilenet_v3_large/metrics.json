@@ -1,0 +1,8 @@
+{
+  "Model": "mobilenet_v3_large",
+  "Validation Top-1": 0.695,
+  "Test Top-1": 0.735,
+  "Test Top-5": 0.975,
+  "Macro F1": 0.731191591170828,
+  "GPU": "NVIDIA GeForce RTX 5060 Laptop GPU"
+}

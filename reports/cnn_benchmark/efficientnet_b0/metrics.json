@@ -1,0 +1,8 @@
+{
+  "Model": "efficientnet_b0",
+  "Validation Top-1": 0.555,
+  "Test Top-1": 0.5,
+  "Test Top-5": 0.875,
+  "Macro F1": 0.4928923436870334,
+  "GPU": "NVIDIA GeForce RTX 5060 Laptop GPU"
+}

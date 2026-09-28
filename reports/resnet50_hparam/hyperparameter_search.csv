@@ -1,0 +1,10 @@
+name,finetune_lr,weight_decay,unfreeze_depth,label_smoothing,augmentation,stage2_epochs,selected_stage,validation_top1,checkpoint,total_seconds
+lr_5e-4,0.0005,0.0001,layer4,0.1,standard,3,fine_tune,0.825,C:\Users\elesh\Academics\UTS\36127InnovationLab\Development\AutoVision_Model_Development\models\resnet50_hparam\lr_5e-4_best.pt,312.0050564999692
+weight_decay_1e-5,0.0001,1e-05,layer4,0.1,standard,3,fine_tune,0.77,C:\Users\elesh\Academics\UTS\36127InnovationLab\Development\AutoVision_Model_Development\models\resnet50_hparam\weight_decay_1e-5_best.pt,252.6266798998695
+strong_augmentation,0.0001,0.0001,layer4,0.1,strong,3,fine_tune,0.755,C:\Users\elesh\Academics\UTS\36127InnovationLab\Development\AutoVision_Model_Development\models\resnet50_hparam\strong_augmentation_best.pt,284.0045485000592
+unfreeze_layer3_layer4,5e-05,0.0001,layer3_layer4,0.1,standard,3,fine_tune,0.75,C:\Users\elesh\Academics\UTS\36127InnovationLab\Development\AutoVision_Model_Development\models\resnet50_hparam\unfreeze_layer3_layer4_best.pt,294.2740617998643
+longer_finetune,5e-05,0.0001,layer3_layer4,0.1,standard,6,fine_tune,0.74,C:\Users\elesh\Academics\UTS\36127InnovationLab\Development\AutoVision_Model_Development\models\resnet50_hparam\longer_finetune_best.pt,383.991332699894
+baseline,0.0001,0.0001,layer4,0.1,standard,3,fine_tune,0.725,C:\Users\elesh\Academics\UTS\36127InnovationLab\Development\AutoVision_Model_Development\models\resnet50_hparam\baseline_best.pt,334.9749929999234
+no_label_smoothing,0.0001,0.0001,layer4,0.0,standard,3,fine_tune,0.725,C:\Users\elesh\Academics\UTS\36127InnovationLab\Development\AutoVision_Model_Development\models\resnet50_hparam\no_label_smoothing_best.pt,293.98067720013205
+lr_5e-5,5e-05,0.0001,layer4,0.1,standard,3,fine_tune,0.665,C:\Users\elesh\Academics\UTS\36127InnovationLab\Development\AutoVision_Model_Development\models\resnet50_hparam\lr_5e-5_best.pt,293.4856421998702
+lr_1e-5,1e-05,0.0001,layer4,0.1,standard,3,fine_tune,0.485,C:\Users\elesh\Academics\UTS\36127InnovationLab\Development\AutoVision_Model_Development\models\resnet50_hparam\lr_1e-5_best.pt,283.7005005001556
