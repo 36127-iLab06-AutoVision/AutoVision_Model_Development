@@ -1,0 +1,17 @@
+{
+  "architecture": "ConvNeXt-Tiny",
+  "best_config": {
+    "name": "unfreeze_2_stages_lr_5e-5",
+    "finetune_lr": 5e-05,
+    "weight_decay": 0.0001,
+    "unfreeze_depth": "last_2_stages",
+    "label_smoothing": 0.1,
+    "augmentation": "standard",
+    "stage2_epochs": 5
+  },
+  "validation_top1": 0.92,
+  "test_top1": 0.89,
+  "test_top5": 0.995,
+  "test_macro_f1": 0.8884387550873619,
+  "gpu": "NVIDIA GeForce RTX 5060 Laptop GPU"
+}
