@@ -1,0 +1,15 @@
+{
+  "subset": "same 200-image test split used in the controlled 20-class CompCars benchmark",
+  "models": [
+    "yolo11n.pt",
+    "yolo11s.pt"
+  ],
+  "confidence_threshold": 0.25,
+  "image_size": 640,
+  "target_classes": [
+    "bus",
+    "car",
+    "truck"
+  ],
+  "gpu": "NVIDIA GeForce RTX 5060 Laptop GPU"
+}

@@ -1,0 +1,3 @@
+model,images,images_with_car,detection_coverage,total_detections,mean_detections_per_image,mean_detection_confidence,mean_inference_ms,median_inference_ms,approx_fps
+yolo11n.pt,200,200,1.0,423,2.115,0.7188352752239147,32.94655700007752,31.711700000414567,30.35218520702018
+yolo11s.pt,200,200,1.0,450,2.25,0.7680932889382045,31.974404500015225,31.661349999922095,31.27501561442759

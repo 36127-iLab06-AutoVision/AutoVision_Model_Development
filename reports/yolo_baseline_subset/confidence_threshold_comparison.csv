@@ -1,0 +1,5 @@
+model,confidence_threshold,images_with_car,total_images,detection_coverage,total_detections
+yolo11s.pt,0.15,200,200,1.0,516
+yolo11s.pt,0.25,200,200,1.0,458
+yolo11s.pt,0.4,200,200,1.0,408
+yolo11s.pt,0.5,200,200,1.0,381

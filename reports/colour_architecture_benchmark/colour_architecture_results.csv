@@ -1,0 +1,5 @@
+task,model,num_classes,num_train,num_val,num_test,selected_stage,validation_top1,validation_loss,test_top1,test_top5,test_macro_f1,gpu
+colour,swin_t,10,800,100,100,fine_tune,0.9,0.8516554307937622,0.82,1.0,0.8224992432772751,NVIDIA GeForce RTX 5060 Laptop GPU
+colour,convnext_tiny,10,800,100,100,fine_tune,0.86,0.8838868856430053,0.85,0.99,0.8489830637199057,NVIDIA GeForce RTX 5060 Laptop GPU
+colour,efficientnet_b0,10,800,100,100,fine_tune,0.86,0.9128753423690796,0.76,0.99,0.7529481681029668,NVIDIA GeForce RTX 5060 Laptop GPU
+colour,resnet50,10,800,100,100,fine_tune,0.74,1.1020544934272767,0.79,0.99,0.7981554429552141,NVIDIA GeForce RTX 5060 Laptop GPU

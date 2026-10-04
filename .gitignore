@@ -207,3 +207,6 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 data/veri_kaggle/
+
+# Generated YOLO outputs
+reports/yolo_baseline_subset/**/*.jpg

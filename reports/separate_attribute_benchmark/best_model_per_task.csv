@@ -1,0 +1,4 @@
+task,model,num_classes,num_train,num_val,num_test,selected_stage,validation_top1,test_top1,test_top5,test_macro_f1,gpu
+body_type,convnext_tiny,12,960,120,120,fine_tune,0.6083333333333333,0.5833333333333334,0.9,0.5852450401721838,NVIDIA GeForce RTX 5060 Laptop GPU
+make,convnext_tiny,20,1600,200,200,fine_tune,0.405,0.47,0.8,0.46690309779958444,NVIDIA GeForce RTX 5060 Laptop GPU
+make_model,resnet50,20,1600,200,200,fine_tune,0.9,0.905,0.99,0.9046583258502763,NVIDIA GeForce RTX 5060 Laptop GPU
