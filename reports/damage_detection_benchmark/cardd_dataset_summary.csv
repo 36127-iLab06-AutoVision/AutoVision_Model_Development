@@ -1,0 +1,4 @@
+split,images,label_files,images_without_label_file,damage_instances
+train,2816,2816,0,6211
+val,810,810,0,1744
+test,374,374,0,785

@@ -1,0 +1,2 @@
+experiment,checkpoint,test_precision,test_recall,test_map50,test_map50_95,test_inference_ms
+640_longer,C:\Users\elesh\Academics\UTS\36127InnovationLab\Development\AutoVision_Model_Development\models\damage_hyperparameter_tuning\640_longer\weights\best.pt,0.7646742942276067,0.6866253062109627,0.7416232697372838,0.5823045748162061,4.901740106646305

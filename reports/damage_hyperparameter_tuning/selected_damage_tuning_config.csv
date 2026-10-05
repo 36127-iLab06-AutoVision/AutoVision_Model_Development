@@ -1,0 +1,2 @@
+experiment,checkpoint,imgsz,batch,max_epochs,val_precision,val_recall,val_map50,val_map50_95,val_inference_ms
+640_longer,C:\Users\elesh\Academics\UTS\36127InnovationLab\Development\AutoVision_Model_Development\models\damage_hyperparameter_tuning\640_longer\weights\best.pt,640,8,40,0.752430394871003,0.6954847568710575,0.7320044954957865,0.5800460323238329,4.232675802605055

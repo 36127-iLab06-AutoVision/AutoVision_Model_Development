@@ -1,0 +1,4 @@
+confidence_threshold,images_evaluated,images_with_any_damage_prediction,prediction_image_rate,total_damage_predictions
+0.25,500,266,0.532,407
+0.35,500,195,0.39,255
+0.5,500,125,0.25,147

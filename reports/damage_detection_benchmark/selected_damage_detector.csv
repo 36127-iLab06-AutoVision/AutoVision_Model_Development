@@ -1,0 +1,2 @@
+model,checkpoint,val_precision,val_recall,val_map50,val_map50_95,test_precision,test_recall,test_map50,test_map50_95,test_inference_ms_per_image
+yolo11s,C:\Users\elesh\Academics\UTS\36127InnovationLab\Development\AutoVision_Model_Development\models\damage_detection_benchmark\yolo11s_cardd_640px\weights\best.pt,0.7323672853889313,0.6885789304881672,0.7178415919694808,0.5715971778959934,0.6792868349647501,0.7107359217749304,0.7220240971154506,0.5650080011473229,5.29983770034561

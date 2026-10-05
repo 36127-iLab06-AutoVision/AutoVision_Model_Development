@@ -210,3 +210,12 @@ data/veri_kaggle/
 
 # Generated YOLO outputs
 reports/yolo_baseline_subset/**/*.jpg
+
+# Ultralytics / YOLO generated training outputs
+runs/
+models/damage_detection_benchmark/
+models/damage_hyperparameter_tuning/
+models/damage_negative_training/
+
+# Model checkpoints
+*.pt
