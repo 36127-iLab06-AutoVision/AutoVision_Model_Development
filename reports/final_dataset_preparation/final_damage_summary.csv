@@ -1,0 +1,7 @@
+split,source,has_damage,images
+clean_holdout,explicit_clean_negative,False,120
+test,CarDD,True,374
+train,CarDD,True,2816
+train,explicit_clean_negative,False,600
+val,CarDD,True,810
+val,explicit_clean_negative,False,80

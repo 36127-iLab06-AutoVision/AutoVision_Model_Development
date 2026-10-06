@@ -1,0 +1,3307 @@
+class_id,make,model_name,make_model,split,images
+0,AC Schnitzer,AC Schnitzer 5 Class,AC Schnitzer || AC Schnitzer 5 Class,test,5
+0,AC Schnitzer,AC Schnitzer 5 Class,AC Schnitzer || AC Schnitzer 5 Class,train,43
+0,AC Schnitzer,AC Schnitzer 5 Class,AC Schnitzer || AC Schnitzer 5 Class,val,5
+1,AC Schnitzer,AC Schnitzer X6,AC Schnitzer || AC Schnitzer X6,test,8
+1,AC Schnitzer,AC Schnitzer X6,AC Schnitzer || AC Schnitzer X6,train,61
+1,AC Schnitzer,AC Schnitzer X6,AC Schnitzer || AC Schnitzer X6,val,8
+2,Acura,Acura ILX,Acura || Acura ILX,test,12
+2,Acura,Acura ILX,Acura || Acura ILX,train,96
+2,Acura,Acura ILX,Acura || Acura ILX,val,12
+3,Acura,Acura MDX,Acura || Acura MDX,test,12
+3,Acura,Acura MDX,Acura || Acura MDX,train,96
+3,Acura,Acura MDX,Acura || Acura MDX,val,12
+4,Acura,Acura NSX,Acura || Acura NSX,test,10
+4,Acura,Acura NSX,Acura || Acura NSX,train,76
+4,Acura,Acura NSX,Acura || Acura NSX,val,10
+5,Acura,Acura RDX,Acura || Acura RDX,test,12
+5,Acura,Acura RDX,Acura || Acura RDX,train,96
+5,Acura,Acura RDX,Acura || Acura RDX,val,12
+6,Acura,Acura RL,Acura || Acura RL,test,12
+6,Acura,Acura RL,Acura || Acura RL,train,96
+6,Acura,Acura RL,Acura || Acura RL,val,12
+7,Acura,Acura RLX,Acura || Acura RLX,test,12
+7,Acura,Acura RLX,Acura || Acura RLX,train,93
+7,Acura,Acura RLX,Acura || Acura RLX,val,12
+8,Acura,Acura TL,Acura || Acura TL,test,12
+8,Acura,Acura TL,Acura || Acura TL,train,96
+8,Acura,Acura TL,Acura || Acura TL,val,12
+9,Acura,Acura TLX,Acura || Acura TLX,test,12
+9,Acura,Acura TLX,Acura || Acura TLX,train,96
+9,Acura,Acura TLX,Acura || Acura TLX,val,12
+10,Acura,Acura ZDX,Acura || Acura ZDX,test,12
+10,Acura,Acura ZDX,Acura || Acura ZDX,train,96
+10,Acura,Acura ZDX,Acura || Acura ZDX,val,12
+11,Alfa Romeo,4C,Alfa Romeo || 4C,test,12
+11,Alfa Romeo,4C,Alfa Romeo || 4C,train,96
+11,Alfa Romeo,4C,Alfa Romeo || 4C,val,12
+12,Alfa Romeo,8C,Alfa Romeo || 8C,test,7
+12,Alfa Romeo,8C,Alfa Romeo || 8C,train,58
+12,Alfa Romeo,8C,Alfa Romeo || 8C,val,7
+13,Alfa Romeo,Disco Volante,Alfa Romeo || Disco Volante,test,5
+13,Alfa Romeo,Disco Volante,Alfa Romeo || Disco Volante,train,41
+13,Alfa Romeo,Disco Volante,Alfa Romeo || Disco Volante,val,5
+14,Alfa Romeo,Giulietta,Alfa Romeo || Giulietta,test,12
+14,Alfa Romeo,Giulietta,Alfa Romeo || Giulietta,train,96
+14,Alfa Romeo,Giulietta,Alfa Romeo || Giulietta,val,12
+15,Alfa Romeo,MiTo,Alfa Romeo || MiTo,test,12
+15,Alfa Romeo,MiTo,Alfa Romeo || MiTo,train,96
+15,Alfa Romeo,MiTo,Alfa Romeo || MiTo,val,12
+16,Aston Martin,Cygnet,Aston Martin || Cygnet,test,10
+16,Aston Martin,Cygnet,Aston Martin || Cygnet,train,82
+16,Aston Martin,Cygnet,Aston Martin || Cygnet,val,10
+17,Aston Martin,DB9,Aston Martin || DB9,test,12
+17,Aston Martin,DB9,Aston Martin || DB9,train,96
+17,Aston Martin,DB9,Aston Martin || DB9,val,12
+18,Aston Martin,DBS,Aston Martin || DBS,test,11
+18,Aston Martin,DBS,Aston Martin || DBS,train,86
+18,Aston Martin,DBS,Aston Martin || DBS,val,11
+19,Aston Martin,Lagonda,Aston Martin || Lagonda,test,5
+19,Aston Martin,Lagonda,Aston Martin || Lagonda,train,42
+19,Aston Martin,Lagonda,Aston Martin || Lagonda,val,5
+20,Aston Martin,ONE-77,Aston Martin || ONE-77,test,9
+20,Aston Martin,ONE-77,Aston Martin || ONE-77,train,72
+20,Aston Martin,ONE-77,Aston Martin || ONE-77,val,9
+21,Aston Martin,Rapide,Aston Martin || Rapide,test,12
+21,Aston Martin,Rapide,Aston Martin || Rapide,train,96
+21,Aston Martin,Rapide,Aston Martin || Rapide,val,12
+22,Aston Martin,V12 Vantage,Aston Martin || V12 Vantage,test,12
+22,Aston Martin,V12 Vantage,Aston Martin || V12 Vantage,train,96
+22,Aston Martin,V12 Vantage,Aston Martin || V12 Vantage,val,12
+23,Aston Martin,V8 Vantage,Aston Martin || V8 Vantage,test,12
+23,Aston Martin,V8 Vantage,Aston Martin || V8 Vantage,train,91
+23,Aston Martin,V8 Vantage,Aston Martin || V8 Vantage,val,12
+24,Aston Martin,Vanquish,Aston Martin || Vanquish,test,12
+24,Aston Martin,Vanquish,Aston Martin || Vanquish,train,96
+24,Aston Martin,Vanquish,Aston Martin || Vanquish,val,12
+25,Aston Martin,Virage,Aston Martin || Virage,test,12
+25,Aston Martin,Virage,Aston Martin || Virage,train,94
+25,Aston Martin,Virage,Aston Martin || Virage,val,12
+26,Audi,Audi A1,Audi || Audi A1,test,12
+26,Audi,Audi A1,Audi || Audi A1,train,96
+26,Audi,Audi A1,Audi || Audi A1,val,12
+27,Audi,Audi A3 hatchback,Audi || Audi A3 hatchback,test,14
+27,Audi,Audi A3 hatchback,Audi || Audi A3 hatchback,train,112
+27,Audi,Audi A3 hatchback,Audi || Audi A3 hatchback,val,14
+28,Audi,Audi A3 sedan,Audi || Audi A3 sedan,test,7
+28,Audi,Audi A3 sedan,Audi || Audi A3 sedan,train,54
+28,Audi,Audi A3 sedan,Audi || Audi A3 sedan,val,7
+29,Audi,Audi A4L,Audi || Audi A4L,test,17
+29,Audi,Audi A4L,Audi || Audi A4L,train,132
+29,Audi,Audi A4L,Audi || Audi A4L,val,17
+30,Audi,Audi A5 convertible,Audi || Audi A5 convertible,test,15
+30,Audi,Audi A5 convertible,Audi || Audi A5 convertible,train,124
+30,Audi,Audi A5 convertible,Audi || Audi A5 convertible,val,15
+31,Audi,Audi A5 coupe,Audi || Audi A5 coupe,test,20
+31,Audi,Audi A5 coupe,Audi || Audi A5 coupe,train,157
+31,Audi,Audi A5 coupe,Audi || Audi A5 coupe,val,20
+32,Audi,Audi A5 hatchback,Audi || Audi A5 hatchback,test,23
+32,Audi,Audi A5 hatchback,Audi || Audi A5 hatchback,train,183
+32,Audi,Audi A5 hatchback,Audi || Audi A5 hatchback,val,23
+33,Audi,Audi A6,Audi || Audi A6,test,12
+33,Audi,Audi A6,Audi || Audi A6,train,96
+33,Audi,Audi A6,Audi || Audi A6,val,12
+34,Audi,Audi A6L,Audi || Audi A6L,test,14
+34,Audi,Audi A6L,Audi || Audi A6L,train,107
+34,Audi,Audi A6L,Audi || Audi A6L,val,14
+35,Audi,Audi A7,Audi || Audi A7,test,12
+35,Audi,Audi A7,Audi || Audi A7,train,95
+35,Audi,Audi A7,Audi || Audi A7,val,12
+36,Audi,Audi A8L,Audi || Audi A8L,test,18
+36,Audi,Audi A8L,Audi || Audi A8L,train,143
+36,Audi,Audi A8L,Audi || Audi A8L,val,18
+37,Audi,Audi Q3,Audi || Audi Q3,test,12
+37,Audi,Audi Q3,Audi || Audi Q3,train,96
+37,Audi,Audi Q3,Audi || Audi Q3,val,12
+38,Audi,Audi Q5,Audi || Audi Q5,test,15
+38,Audi,Audi Q5,Audi || Audi Q5,train,123
+38,Audi,Audi Q5,Audi || Audi Q5,val,15
+39,Audi,Audi Q7,Audi || Audi Q7,test,14
+39,Audi,Audi Q7,Audi || Audi Q7,train,117
+39,Audi,Audi Q7,Audi || Audi Q7,val,14
+40,Audi,Audi R18,Audi || Audi R18,test,5
+40,Audi,Audi R18,Audi || Audi R18,train,41
+40,Audi,Audi R18,Audi || Audi R18,val,5
+41,Audi,Audi R8,Audi || Audi R8,test,12
+41,Audi,Audi R8,Audi || Audi R8,train,96
+41,Audi,Audi R8,Audi || Audi R8,val,12
+42,Audi,Audi RS Q3,Audi || Audi RS Q3,test,12
+42,Audi,Audi RS Q3,Audi || Audi RS Q3,train,96
+42,Audi,Audi RS Q3,Audi || Audi RS Q3,val,12
+43,Audi,Audi RS3,Audi || Audi RS3,test,8
+43,Audi,Audi RS3,Audi || Audi RS3,train,60
+43,Audi,Audi RS3,Audi || Audi RS3,val,8
+44,Audi,Audi RS4,Audi || Audi RS4,test,12
+44,Audi,Audi RS4,Audi || Audi RS4,train,94
+44,Audi,Audi RS4,Audi || Audi RS4,val,12
+45,Audi,Audi RS5,Audi || Audi RS5,test,12
+45,Audi,Audi RS5,Audi || Audi RS5,train,96
+45,Audi,Audi RS5,Audi || Audi RS5,val,12
+46,Audi,Audi RS6,Audi || Audi RS6,test,12
+46,Audi,Audi RS6,Audi || Audi RS6,train,96
+46,Audi,Audi RS6,Audi || Audi RS6,val,12
+47,Audi,Audi RS7,Audi || Audi RS7,test,12
+47,Audi,Audi RS7,Audi || Audi RS7,train,96
+47,Audi,Audi RS7,Audi || Audi RS7,val,12
+48,Audi,Audi S1,Audi || Audi S1,test,10
+48,Audi,Audi S1,Audi || Audi S1,train,85
+48,Audi,Audi S1,Audi || Audi S1,val,10
+49,Audi,Audi S3 sedan,Audi || Audi S3 sedan,test,5
+49,Audi,Audi S3 sedan,Audi || Audi S3 sedan,train,41
+49,Audi,Audi S3 sedan,Audi || Audi S3 sedan,val,5
+50,Audi,Audi S4,Audi || Audi S4,test,10
+50,Audi,Audi S4,Audi || Audi S4,train,79
+50,Audi,Audi S4,Audi || Audi S4,val,10
+51,Audi,Audi S5 convertible,Audi || Audi S5 convertible,test,6
+51,Audi,Audi S5 convertible,Audi || Audi S5 convertible,train,53
+51,Audi,Audi S5 convertible,Audi || Audi S5 convertible,val,6
+52,Audi,Audi S5 coupe,Audi || Audi S5 coupe,test,6
+52,Audi,Audi S5 coupe,Audi || Audi S5 coupe,train,48
+52,Audi,Audi S5 coupe,Audi || Audi S5 coupe,val,6
+53,Audi,Audi S7,Audi || Audi S7,test,12
+53,Audi,Audi S7,Audi || Audi S7,train,96
+53,Audi,Audi S7,Audi || Audi S7,val,12
+54,Audi,Audi S8,Audi || Audi S8,test,12
+54,Audi,Audi S8,Audi || Audi S8,train,96
+54,Audi,Audi S8,Audi || Audi S8,val,12
+55,Audi,Audi SQ5,Audi || Audi SQ5,test,12
+55,Audi,Audi SQ5,Audi || Audi SQ5,train,96
+55,Audi,Audi SQ5,Audi || Audi SQ5,val,12
+56,Audi,Audi TT RS,Audi || Audi TT RS,test,12
+56,Audi,Audi TT RS,Audi || Audi TT RS,train,96
+56,Audi,Audi TT RS,Audi || Audi TT RS,val,12
+57,Audi,Audi TT coupe,Audi || Audi TT coupe,test,8
+57,Audi,Audi TT coupe,Audi || Audi TT coupe,train,69
+57,Audi,Audi TT coupe,Audi || Audi TT coupe,val,8
+58,Audi,Audi TTS coupe,Audi || Audi TTS coupe,test,7
+58,Audi,Audi TTS coupe,Audi || Audi TTS coupe,train,52
+58,Audi,Audi TTS coupe,Audi || Audi TTS coupe,val,7
+59,Audi,Audi e-tron,Audi || Audi e-tron,test,12
+59,Audi,Audi e-tron,Audi || Audi e-tron,train,96
+59,Audi,Audi e-tron,Audi || Audi e-tron,val,12
+60,Audi,Audi quattro,Audi || Audi quattro,test,11
+60,Audi,Audi quattro,Audi || Audi quattro,train,87
+60,Audi,Audi quattro,Audi || Audi quattro,val,11
+61,Audi,Crosslane Coupe,Audi || Crosslane Coupe,test,5
+61,Audi,Crosslane Coupe,Audi || Crosslane Coupe,train,44
+61,Audi,Crosslane Coupe,Audi || Crosslane Coupe,val,5
+62,BAW,BAW BJ40,BAW || BAW BJ40,test,12
+62,BAW,BAW BJ40,BAW || BAW BJ40,train,95
+62,BAW,BAW BJ40,BAW || BAW BJ40,val,12
+63,BAW,BAW E Series hatchback,BAW || BAW E Series hatchback,test,18
+63,BAW,BAW E Series hatchback,BAW || BAW E Series hatchback,train,141
+63,BAW,BAW E Series hatchback,BAW || BAW E Series hatchback,val,18
+64,BAW,BAW E Series sedan,BAW || BAW E Series sedan,test,11
+64,BAW,BAW E Series sedan,BAW || BAW E Series sedan,train,90
+64,BAW,BAW E Series sedan,BAW || BAW E Series sedan,val,11
+65,BMW,Active Tourer,BMW || Active Tourer,test,12
+65,BMW,Active Tourer,BMW || Active Tourer,train,96
+65,BMW,Active Tourer,BMW || Active Tourer,val,12
+66,BMW,BMW 1 Series M,BMW || BMW 1 Series M,test,12
+66,BMW,BMW 1 Series M,BMW || BMW 1 Series M,train,95
+66,BMW,BMW 1 Series M,BMW || BMW 1 Series M,val,12
+67,BMW,BMW 1 Series coupe,BMW || BMW 1 Series coupe,test,7
+67,BMW,BMW 1 Series coupe,BMW || BMW 1 Series coupe,train,53
+67,BMW,BMW 1 Series coupe,BMW || BMW 1 Series coupe,val,7
+68,BMW,BMW 1 Series hatchback,BMW || BMW 1 Series hatchback,test,7
+68,BMW,BMW 1 Series hatchback,BMW || BMW 1 Series hatchback,train,53
+68,BMW,BMW 1 Series hatchback,BMW || BMW 1 Series hatchback,val,7
+69,BMW,BMW 2 Series,BMW || BMW 2 Series,test,12
+69,BMW,BMW 2 Series,BMW || BMW 2 Series,train,95
+69,BMW,BMW 2 Series,BMW || BMW 2 Series,val,12
+70,BMW,BMW 2 Series Active Tourer,BMW || BMW 2 Series Active Tourer,test,12
+70,BMW,BMW 2 Series Active Tourer,BMW || BMW 2 Series Active Tourer,train,96
+70,BMW,BMW 2 Series Active Tourer,BMW || BMW 2 Series Active Tourer,val,12
+71,BMW,BMW 3 Series,BMW || BMW 3 Series,test,28
+71,BMW,BMW 3 Series,BMW || BMW 3 Series,train,227
+71,BMW,BMW 3 Series,BMW || BMW 3 Series,val,28
+72,BMW,BMW 3 Series GT,BMW || BMW 3 Series GT,test,12
+72,BMW,BMW 3 Series GT,BMW || BMW 3 Series GT,train,96
+72,BMW,BMW 3 Series GT,BMW || BMW 3 Series GT,val,12
+73,BMW,BMW 3 Series convertible,BMW || BMW 3 Series convertible,test,12
+73,BMW,BMW 3 Series convertible,BMW || BMW 3 Series convertible,train,96
+73,BMW,BMW 3 Series convertible,BMW || BMW 3 Series convertible,val,12
+74,BMW,BMW 3 Series coupe,BMW || BMW 3 Series coupe,test,10
+74,BMW,BMW 3 Series coupe,BMW || BMW 3 Series coupe,train,79
+74,BMW,BMW 3 Series coupe,BMW || BMW 3 Series coupe,val,10
+75,BMW,BMW 3 Series estate,BMW || BMW 3 Series estate,test,12
+75,BMW,BMW 3 Series estate,BMW || BMW 3 Series estate,train,99
+75,BMW,BMW 3 Series estate,BMW || BMW 3 Series estate,val,12
+76,BMW,BMW 4 Series convertible,BMW || BMW 4 Series convertible,test,9
+76,BMW,BMW 4 Series convertible,BMW || BMW 4 Series convertible,train,76
+76,BMW,BMW 4 Series convertible,BMW || BMW 4 Series convertible,val,9
+77,BMW,BMW 4 Series coupe,BMW || BMW 4 Series coupe,test,6
+77,BMW,BMW 4 Series coupe,BMW || BMW 4 Series coupe,train,48
+77,BMW,BMW 4 Series coupe,BMW || BMW 4 Series coupe,val,6
+78,BMW,BMW 5 Series,BMW || BMW 5 Series,test,23
+78,BMW,BMW 5 Series,BMW || BMW 5 Series,train,187
+78,BMW,BMW 5 Series,BMW || BMW 5 Series,val,23
+79,BMW,BMW 5 Series GT,BMW || BMW 5 Series GT,test,12
+79,BMW,BMW 5 Series GT,BMW || BMW 5 Series GT,train,96
+79,BMW,BMW 5 Series GT,BMW || BMW 5 Series GT,val,12
+80,BMW,BMW 5 Series estate,BMW || BMW 5 Series estate,test,12
+80,BMW,BMW 5 Series estate,BMW || BMW 5 Series estate,train,101
+80,BMW,BMW 5 Series estate,BMW || BMW 5 Series estate,val,12
+81,BMW,BMW 6 Series,BMW || BMW 6 Series,test,6
+81,BMW,BMW 6 Series,BMW || BMW 6 Series,train,49
+81,BMW,BMW 6 Series,BMW || BMW 6 Series,val,6
+82,BMW,BMW 6 Series convertible,BMW || BMW 6 Series convertible,test,7
+82,BMW,BMW 6 Series convertible,BMW || BMW 6 Series convertible,train,57
+82,BMW,BMW 6 Series convertible,BMW || BMW 6 Series convertible,val,7
+83,BMW,BMW 6 Series coupe,BMW || BMW 6 Series coupe,test,9
+83,BMW,BMW 6 Series coupe,BMW || BMW 6 Series coupe,train,76
+83,BMW,BMW 6 Series coupe,BMW || BMW 6 Series coupe,val,9
+84,BMW,BMW 7 Series,BMW || BMW 7 Series,test,12
+84,BMW,BMW 7 Series,BMW || BMW 7 Series,train,95
+84,BMW,BMW 7 Series,BMW || BMW 7 Series,val,12
+85,BMW,BMW M3 coupe,BMW || BMW M3 coupe,test,6
+85,BMW,BMW M3 coupe,BMW || BMW M3 coupe,train,53
+85,BMW,BMW M3 coupe,BMW || BMW M3 coupe,val,6
+86,BMW,BMW M4 coupe,BMW || BMW M4 coupe,test,6
+86,BMW,BMW M4 coupe,BMW || BMW M4 coupe,train,50
+86,BMW,BMW M4 coupe,BMW || BMW M4 coupe,val,6
+87,BMW,BMW M5,BMW || BMW M5,test,12
+87,BMW,BMW M5,BMW || BMW M5,train,96
+87,BMW,BMW M5,BMW || BMW M5,val,12
+88,BMW,BMW X1,BMW || BMW X1,test,15
+88,BMW,BMW X1,BMW || BMW X1,train,119
+88,BMW,BMW X1,BMW || BMW X1,val,15
+89,BMW,BMW X3,BMW || BMW X3,test,14
+89,BMW,BMW X3,BMW || BMW X3,train,115
+89,BMW,BMW X3,BMW || BMW X3,val,14
+90,BMW,BMW X4,BMW || BMW X4,test,12
+90,BMW,BMW X4,BMW || BMW X4,train,95
+90,BMW,BMW X4,BMW || BMW X4,val,12
+91,BMW,BMW X5,BMW || BMW X5,test,15
+91,BMW,BMW X5,BMW || BMW X5,train,120
+91,BMW,BMW X5,BMW || BMW X5,val,15
+92,BMW,BMW X5 M,BMW || BMW X5 M,test,12
+92,BMW,BMW X5 M,BMW || BMW X5 M,train,96
+92,BMW,BMW X5 M,BMW || BMW X5 M,val,12
+93,BMW,BMW X6,BMW || BMW X6,test,12
+93,BMW,BMW X6,BMW || BMW X6,train,96
+93,BMW,BMW X6,BMW || BMW X6,val,12
+94,BMW,BMW X6 M,BMW || BMW X6 M,test,12
+94,BMW,BMW X6 M,BMW || BMW X6 M,train,96
+94,BMW,BMW X6 M,BMW || BMW X6 M,val,12
+95,BMW,BMW Z4,BMW || BMW Z4,test,14
+95,BMW,BMW Z4,BMW || BMW Z4,train,111
+95,BMW,BMW Z4,BMW || BMW Z4,val,14
+96,BMW,BMW i3,BMW || BMW i3,test,12
+96,BMW,BMW i3,BMW || BMW i3,train,96
+96,BMW,BMW i3,BMW || BMW i3,val,12
+97,BMW,BMW i8,BMW || BMW i8,test,12
+97,BMW,BMW i8,BMW || BMW i8,train,96
+97,BMW,BMW i8,BMW || BMW i8,val,12
+98,BMW,ConnectedDrive,BMW || ConnectedDrive,test,5
+98,BMW,ConnectedDrive,BMW || ConnectedDrive,train,42
+98,BMW,ConnectedDrive,BMW || ConnectedDrive,val,5
+99,BMW,EfficientDynamics,BMW || EfficientDynamics,test,6
+99,BMW,EfficientDynamics,BMW || EfficientDynamics,train,52
+99,BMW,EfficientDynamics,BMW || EfficientDynamics,val,6
+100,BMW,Zagato Coupe,BMW || Zagato Coupe,test,5
+100,BMW,Zagato Coupe,BMW || Zagato Coupe,train,44
+100,BMW,Zagato Coupe,BMW || Zagato Coupe,val,5
+101,BYD,BYD F0,BYD || BYD F0,test,12
+101,BYD,BYD F0,BYD || BYD F0,train,96
+101,BYD,BYD F0,BYD || BYD F0,val,12
+102,BYD,BYD F3,BYD || BYD F3,test,12
+102,BYD,BYD F3,BYD || BYD F3,train,96
+102,BYD,BYD F3,BYD || BYD F3,val,12
+103,BYD,BYD F3R,BYD || BYD F3R,test,12
+103,BYD,BYD F3R,BYD || BYD F3R,train,94
+103,BYD,BYD F3R,BYD || BYD F3R,val,12
+104,BYD,BYD F6,BYD || BYD F6,test,12
+104,BYD,BYD F6,BYD || BYD F6,train,96
+104,BYD,BYD F6,BYD || BYD F6,val,12
+105,BYD,BYD G3,BYD || BYD G3,test,12
+105,BYD,BYD G3,BYD || BYD G3,train,91
+105,BYD,BYD G3,BYD || BYD G3,val,12
+106,BYD,BYD G3R,BYD || BYD G3R,test,11
+106,BYD,BYD G3R,BYD || BYD G3R,train,84
+106,BYD,BYD G3R,BYD || BYD G3R,val,11
+107,BYD,BYD G5,BYD || BYD G5,test,12
+107,BYD,BYD G5,BYD || BYD G5,train,95
+107,BYD,BYD G5,BYD || BYD G5,val,12
+108,BYD,BYD G6,BYD || BYD G6,test,12
+108,BYD,BYD G6,BYD || BYD G6,train,94
+108,BYD,BYD G6,BYD || BYD G6,val,12
+109,BYD,BYD L3,BYD || BYD L3,test,12
+109,BYD,BYD L3,BYD || BYD L3,train,96
+109,BYD,BYD L3,BYD || BYD L3,val,12
+110,BYD,BYD M6,BYD || BYD M6,test,12
+110,BYD,BYD M6,BYD || BYD M6,train,96
+110,BYD,BYD M6,BYD || BYD M6,val,12
+111,BYD,BYD S6,BYD || BYD S6,test,12
+111,BYD,BYD S6,BYD || BYD S6,train,96
+111,BYD,BYD S6,BYD || BYD S6,val,12
+112,BYD,BYD S7,BYD || BYD S7,test,12
+112,BYD,BYD S7,BYD || BYD S7,train,96
+112,BYD,BYD S7,BYD || BYD S7,val,12
+113,BYD,BYD e6,BYD || BYD e6,test,12
+113,BYD,BYD e6,BYD || BYD e6,train,96
+113,BYD,BYD e6,BYD || BYD e6,val,12
+114,BYD,Qin,BYD || Qin,test,12
+114,BYD,Qin,BYD || Qin,train,96
+114,BYD,Qin,BYD || Qin,val,12
+115,BYD,Si Rui,BYD || Si Rui,test,12
+115,BYD,Si Rui,BYD || Si Rui,train,92
+115,BYD,Si Rui,BYD || Si Rui,val,12
+116,BYD,Su Rui,BYD || Su Rui,test,12
+116,BYD,Su Rui,BYD || Su Rui,train,92
+116,BYD,Su Rui,BYD || Su Rui,val,12
+117,Baihc,Yusheng 007,Baihc || Yusheng 007,test,7
+117,Baihc,Yusheng 007,Baihc || Yusheng 007,train,52
+117,Baihc,Yusheng 007,Baihc || Yusheng 007,val,7
+118,Baojun,Baojun 610,Baojun || Baojun 610,test,12
+118,Baojun,Baojun 610,Baojun || Baojun 610,train,95
+118,Baojun,Baojun 610,Baojun || Baojun 610,val,12
+119,Baojun,Baojun 630,Baojun || Baojun 630,test,12
+119,Baojun,Baojun 630,Baojun || Baojun 630,train,96
+119,Baojun,Baojun 630,Baojun || Baojun 630,val,12
+120,Baojun,Baojun 730,Baojun || Baojun 730,test,12
+120,Baojun,Baojun 730,Baojun || Baojun 730,train,95
+120,Baojun,Baojun 730,Baojun || Baojun 730,val,12
+121,Baojun,Lechi,Baojun || Lechi,test,12
+121,Baojun,Lechi,Baojun || Lechi,train,96
+121,Baojun,Lechi,Baojun || Lechi,val,12
+122,Beiqi New Energy,BAW E150 EV,Beiqi New Energy || BAW E150 EV,test,10
+122,Beiqi New Energy,BAW E150 EV,Beiqi New Energy || BAW E150 EV,train,82
+122,Beiqi New Energy,BAW E150 EV,Beiqi New Energy || BAW E150 EV,val,10
+123,Beiqihuansu,Huansu S2,Beiqihuansu || Huansu S2,test,12
+123,Beiqihuansu,Huansu S2,Beiqihuansu || Huansu S2,train,95
+123,Beiqihuansu,Huansu S2,Beiqihuansu || Huansu S2,val,12
+124,Beiqihuansu,Huansu S3,Beiqihuansu || Huansu S3,test,12
+124,Beiqihuansu,Huansu S3,Beiqihuansu || Huansu S3,train,96
+124,Beiqihuansu,Huansu S3,Beiqihuansu || Huansu S3,val,12
+125,Beiqiweiwang,Weiwang 205,Beiqiweiwang || Weiwang 205,test,11
+125,Beiqiweiwang,Weiwang 205,Beiqiweiwang || Weiwang 205,train,91
+125,Beiqiweiwang,Weiwang 205,Beiqiweiwang || Weiwang 205,val,11
+126,Beiqiweiwang,Weiwang 306,Beiqiweiwang || Weiwang 306,test,11
+126,Beiqiweiwang,Weiwang 306,Beiqiweiwang || Weiwang 306,train,87
+126,Beiqiweiwang,Weiwang 306,Beiqiweiwang || Weiwang 306,val,11
+127,Beiqiweiwang,Weiwang 307,Beiqiweiwang || Weiwang 307,test,8
+127,Beiqiweiwang,Weiwang 307,Beiqiweiwang || Weiwang 307,train,69
+127,Beiqiweiwang,Weiwang 307,Beiqiweiwang || Weiwang 307,val,8
+128,Beiqiweiwang,Weiwang M20,Beiqiweiwang || Weiwang M20,test,12
+128,Beiqiweiwang,Weiwang M20,Beiqiweiwang || Weiwang M20,train,91
+128,Beiqiweiwang,Weiwang M20,Beiqiweiwang || Weiwang M20,val,12
+129,Bentley,Arnage,Bentley || Arnage,test,5
+129,Bentley,Arnage,Bentley || Arnage,train,42
+129,Bentley,Arnage,Bentley || Arnage,val,5
+130,Bentley,Brooklands,Bentley || Brooklands,test,6
+130,Bentley,Brooklands,Bentley || Brooklands,train,47
+130,Bentley,Brooklands,Bentley || Brooklands,val,6
+131,Bentley,Flying Spur,Bentley || Flying Spur,test,12
+131,Bentley,Flying Spur,Bentley || Flying Spur,train,96
+131,Bentley,Flying Spur,Bentley || Flying Spur,val,12
+132,Bentley,Mulsanne,Bentley || Mulsanne,test,12
+132,Bentley,Mulsanne,Bentley || Mulsanne,train,96
+132,Bentley,Mulsanne,Bentley || Mulsanne,val,12
+133,Bentley,Super Sport,Bentley || Super Sport,test,12
+133,Bentley,Super Sport,Bentley || Super Sport,train,96
+133,Bentley,Super Sport,Bentley || Super Sport,val,12
+134,Benz,AMG GT,Benz || AMG GT,test,12
+134,Benz,AMG GT,Benz || AMG GT,train,95
+134,Benz,AMG GT,Benz || AMG GT,val,12
+135,Benz,Benz A Class,Benz || Benz A Class,test,12
+135,Benz,Benz A Class,Benz || Benz A Class,train,95
+135,Benz,Benz A Class,Benz || Benz A Class,val,12
+136,Benz,Benz A Class AMG,Benz || Benz A Class AMG,test,10
+136,Benz,Benz A Class AMG,Benz || Benz A Class AMG,train,83
+136,Benz,Benz A Class AMG,Benz || Benz A Class AMG,val,10
+137,Benz,Benz B Class,Benz || Benz B Class,test,12
+137,Benz,Benz B Class,Benz || Benz B Class,train,96
+137,Benz,Benz B Class,Benz || Benz B Class,val,12
+138,Benz,Benz C Class,Benz || Benz C Class,test,14
+138,Benz,Benz C Class,Benz || Benz C Class,train,108
+138,Benz,Benz C Class,Benz || Benz C Class,val,14
+139,Benz,Benz C Class AMG,Benz || Benz C Class AMG,test,12
+139,Benz,Benz C Class AMG,Benz || Benz C Class AMG,train,96
+139,Benz,Benz C Class AMG,Benz || Benz C Class AMG,val,12
+140,Benz,Benz C Class estate,Benz || Benz C Class estate,test,13
+140,Benz,Benz C Class estate,Benz || Benz C Class estate,train,102
+140,Benz,Benz C Class estate,Benz || Benz C Class estate,val,13
+141,Benz,Benz CL Class AMG,Benz || Benz CL Class AMG,test,8
+141,Benz,Benz CL Class AMG,Benz || Benz CL Class AMG,train,61
+141,Benz,Benz CL Class AMG,Benz || Benz CL Class AMG,val,8
+142,Benz,Benz CLA Class,Benz || Benz CLA Class,test,12
+142,Benz,Benz CLA Class,Benz || Benz CLA Class,train,96
+142,Benz,Benz CLA Class,Benz || Benz CLA Class,val,12
+143,Benz,Benz CLA Class AMG,Benz || Benz CLA Class AMG,test,12
+143,Benz,Benz CLA Class AMG,Benz || Benz CLA Class AMG,train,96
+143,Benz,Benz CLA Class AMG,Benz || Benz CLA Class AMG,val,12
+144,Benz,Benz CLS Class,Benz || Benz CLS Class,test,12
+144,Benz,Benz CLS Class,Benz || Benz CLS Class,train,96
+144,Benz,Benz CLS Class,Benz || Benz CLS Class,val,12
+145,Benz,Benz CLS Class AMG,Benz || Benz CLS Class AMG,test,12
+145,Benz,Benz CLS Class AMG,Benz || Benz CLS Class AMG,train,96
+145,Benz,Benz CLS Class AMG,Benz || Benz CLS Class AMG,val,12
+146,Benz,Benz E Class,Benz || Benz E Class,test,27
+146,Benz,Benz E Class,Benz || Benz E Class,train,218
+146,Benz,Benz E Class,Benz || Benz E Class,val,27
+147,Benz,Benz E Class AMG,Benz || Benz E Class AMG,test,12
+147,Benz,Benz E Class AMG,Benz || Benz E Class AMG,train,96
+147,Benz,Benz E Class AMG,Benz || Benz E Class AMG,val,12
+148,Benz,Benz E Class convertible,Benz || Benz E Class convertible,test,13
+148,Benz,Benz E Class convertible,Benz || Benz E Class convertible,train,107
+148,Benz,Benz E Class convertible,Benz || Benz E Class convertible,val,13
+149,Benz,Benz E Class coupe,Benz || Benz E Class coupe,test,20
+149,Benz,Benz E Class coupe,Benz || Benz E Class coupe,train,160
+149,Benz,Benz E Class coupe,Benz || Benz E Class coupe,val,20
+150,Benz,Benz F800,Benz || Benz F800,test,8
+150,Benz,Benz F800,Benz || Benz F800,train,60
+150,Benz,Benz F800,Benz || Benz F800,val,8
+151,Benz,Benz G Class,Benz || Benz G Class,test,12
+151,Benz,Benz G Class,Benz || Benz G Class,train,95
+151,Benz,Benz G Class,Benz || Benz G Class,val,12
+152,Benz,Benz G Class AMG,Benz || Benz G Class AMG,test,8
+152,Benz,Benz G Class AMG,Benz || Benz G Class AMG,train,68
+152,Benz,Benz G Class AMG,Benz || Benz G Class AMG,val,8
+153,Benz,Benz GL Class,Benz || Benz GL Class,test,12
+153,Benz,Benz GL Class,Benz || Benz GL Class,train,96
+153,Benz,Benz GL Class,Benz || Benz GL Class,val,12
+154,Benz,Benz GL Class AMG,Benz || Benz GL Class AMG,test,8
+154,Benz,Benz GL Class AMG,Benz || Benz GL Class AMG,train,60
+154,Benz,Benz GL Class AMG,Benz || Benz GL Class AMG,val,8
+155,Benz,Benz GLA Class,Benz || Benz GLA Class,test,17
+155,Benz,Benz GLA Class,Benz || Benz GLA Class,train,133
+155,Benz,Benz GLA Class,Benz || Benz GLA Class,val,17
+156,Benz,Benz GLA Class AMG,Benz || Benz GLA Class AMG,test,13
+156,Benz,Benz GLA Class AMG,Benz || Benz GLA Class AMG,train,104
+156,Benz,Benz GLA Class AMG,Benz || Benz GLA Class AMG,val,13
+157,Benz,Benz GLK Class,Benz || Benz GLK Class,test,17
+157,Benz,Benz GLK Class,Benz || Benz GLK Class,train,132
+157,Benz,Benz GLK Class,Benz || Benz GLK Class,val,17
+158,Benz,Benz M Class,Benz || Benz M Class,test,12
+158,Benz,Benz M Class,Benz || Benz M Class,train,96
+158,Benz,Benz M Class,Benz || Benz M Class,val,12
+159,Benz,Benz M Class AMG,Benz || Benz M Class AMG,test,12
+159,Benz,Benz M Class AMG,Benz || Benz M Class AMG,train,96
+159,Benz,Benz M Class AMG,Benz || Benz M Class AMG,val,12
+160,Benz,Benz R Class,Benz || Benz R Class,test,12
+160,Benz,Benz R Class,Benz || Benz R Class,train,95
+160,Benz,Benz R Class,Benz || Benz R Class,val,12
+161,Benz,Benz S Class,Benz || Benz S Class,test,12
+161,Benz,Benz S Class,Benz || Benz S Class,train,96
+161,Benz,Benz S Class,Benz || Benz S Class,val,12
+162,Benz,Benz S Class AMG,Benz || Benz S Class AMG,test,12
+162,Benz,Benz S Class AMG,Benz || Benz S Class AMG,train,96
+162,Benz,Benz S Class AMG,Benz || Benz S Class AMG,val,12
+163,Benz,Benz S Class hybird,Benz || Benz S Class hybird,test,8
+163,Benz,Benz S Class hybird,Benz || Benz S Class hybird,train,63
+163,Benz,Benz S Class hybird,Benz || Benz S Class hybird,val,8
+164,Benz,Benz SL Class,Benz || Benz SL Class,test,12
+164,Benz,Benz SL Class,Benz || Benz SL Class,train,96
+164,Benz,Benz SL Class,Benz || Benz SL Class,val,12
+165,Benz,Benz SL Class AMG,Benz || Benz SL Class AMG,test,12
+165,Benz,Benz SL Class AMG,Benz || Benz SL Class AMG,train,96
+165,Benz,Benz SL Class AMG,Benz || Benz SL Class AMG,val,12
+166,Benz,Benz SLK Class,Benz || Benz SLK Class,test,12
+166,Benz,Benz SLK Class,Benz || Benz SLK Class,train,96
+166,Benz,Benz SLK Class,Benz || Benz SLK Class,val,12
+167,Benz,Benz SLK Class AMG,Benz || Benz SLK Class AMG,test,12
+167,Benz,Benz SLK Class AMG,Benz || Benz SLK Class AMG,train,93
+167,Benz,Benz SLK Class AMG,Benz || Benz SLK Class AMG,val,12
+168,Benz,Benz SLS Class AMG,Benz || Benz SLS Class AMG,test,12
+168,Benz,Benz SLS Class AMG,Benz || Benz SLS Class AMG,train,96
+168,Benz,Benz SLS Class AMG,Benz || Benz SLS Class AMG,val,12
+169,Benz,Benz V Class,Benz || Benz V Class,test,9
+169,Benz,Benz V Class,Benz || Benz V Class,train,76
+169,Benz,Benz V Class,Benz || Benz V Class,val,9
+170,Benz,Coupe SUV,Benz || Coupe SUV,test,8
+170,Benz,Coupe SUV,Benz || Coupe SUV,train,62
+170,Benz,Coupe SUV,Benz || Coupe SUV,val,8
+171,Benz,Sprinter,Benz || Sprinter,test,12
+171,Benz,Sprinter,Benz || Sprinter,train,94
+171,Benz,Sprinter,Benz || Sprinter,val,12
+172,Benz,Sprinter abroad version,Benz || Sprinter abroad version,test,6
+172,Benz,Sprinter abroad version,Benz || Sprinter abroad version,train,52
+172,Benz,Sprinter abroad version,Benz || Sprinter abroad version,val,6
+173,Benz,Wei Ting,Benz || Wei Ting,test,12
+173,Benz,Wei Ting,Benz || Wei Ting,train,95
+173,Benz,Wei Ting,Benz || Wei Ting,val,12
+174,Benz,Wei Yanuo,Benz || Wei Yanuo,test,12
+174,Benz,Wei Yanuo,Benz || Wei Yanuo,train,96
+174,Benz,Wei Yanuo,Benz || Wei Yanuo,val,12
+175,Besturn,Besturn B50,Besturn || Besturn B50,test,12
+175,Besturn,Besturn B50,Besturn || Besturn B50,train,96
+175,Besturn,Besturn B50,Besturn || Besturn B50,val,12
+176,Besturn,Besturn B70,Besturn || Besturn B70,test,15
+176,Besturn,Besturn B70,Besturn || Besturn B70,train,119
+176,Besturn,Besturn B70,Besturn || Besturn B70,val,15
+177,Besturn,Besturn B90,Besturn || Besturn B90,test,12
+177,Besturn,Besturn B90,Besturn || Besturn B90,train,96
+177,Besturn,Besturn B90,Besturn || Besturn B90,val,12
+178,Besturn,Besturn X80,Besturn || Besturn X80,test,12
+178,Besturn,Besturn X80,Besturn || Besturn X80,train,96
+178,Besturn,Besturn X80,Besturn || Besturn X80,val,12
+179,Brabus,Brabus CLS Class,Brabus || Brabus CLS Class,test,7
+179,Brabus,Brabus CLS Class,Brabus || Brabus CLS Class,train,52
+179,Brabus,Brabus CLS Class,Brabus || Brabus CLS Class,val,7
+180,Brabus,Brabus E Class,Brabus || Brabus E Class,test,8
+180,Brabus,Brabus E Class,Brabus || Brabus E Class,train,59
+180,Brabus,Brabus E Class,Brabus || Brabus E Class,val,8
+181,Brabus,Brabus G Class,Brabus || Brabus G Class,test,12
+181,Brabus,Brabus G Class,Brabus || Brabus G Class,train,95
+181,Brabus,Brabus G Class,Brabus || Brabus G Class,val,12
+182,Brabus,Brabus M Class,Brabus || Brabus M Class,test,9
+182,Brabus,Brabus M Class,Brabus || Brabus M Class,train,73
+182,Brabus,Brabus M Class,Brabus || Brabus M Class,val,9
+183,Brabus,Brabus S Class,Brabus || Brabus S Class,test,12
+183,Brabus,Brabus S Class,Brabus || Brabus S Class,train,94
+183,Brabus,Brabus S Class,Brabus || Brabus S Class,val,12
+184,Brabus,Brabus SLK Class,Brabus || Brabus SLK Class,test,8
+184,Brabus,Brabus SLK Class,Brabus || Brabus SLK Class,train,59
+184,Brabus,Brabus SLK Class,Brabus || Brabus SLK Class,val,8
+185,Brabus,Brabus smart fortwo,Brabus || Brabus smart fortwo,test,5
+185,Brabus,Brabus smart fortwo,Brabus || Brabus smart fortwo,train,41
+185,Brabus,Brabus smart fortwo,Brabus || Brabus smart fortwo,val,5
+186,Bugatti,Veyron,Bugatti || Veyron,test,12
+186,Bugatti,Veyron,Bugatti || Veyron,train,96
+186,Bugatti,Veyron,Bugatti || Veyron,val,12
+187,Buick,Buick GL8 Business,Buick || Buick GL8 Business,test,12
+187,Buick,Buick GL8 Business,Buick || Buick GL8 Business,train,96
+187,Buick,Buick GL8 Business,Buick || Buick GL8 Business,val,12
+188,Buick,Buick GL8 Luxury Business,Buick || Buick GL8 Luxury Business,test,8
+188,Buick,Buick GL8 Luxury Business,Buick || Buick GL8 Luxury Business,train,60
+188,Buick,Buick GL8 Luxury Business,Buick || Buick GL8 Luxury Business,val,8
+189,Buick,Buick Riviera,Buick || Buick Riviera,test,8
+189,Buick,Buick Riviera,Buick || Buick Riviera,train,67
+189,Buick,Buick Riviera,Buick || Buick Riviera,val,8
+190,Buick,EXCELLE GT,Buick || EXCELLE GT,test,30
+190,Buick,EXCELLE GT,Buick || EXCELLE GT,train,243
+190,Buick,EXCELLE GT,Buick || EXCELLE GT,val,30
+191,Buick,EXCELLE XT,Buick || EXCELLE XT,test,12
+191,Buick,EXCELLE XT,Buick || EXCELLE XT,train,96
+191,Buick,EXCELLE XT,Buick || EXCELLE XT,val,12
+192,Buick,Enclave,Buick || Enclave,test,12
+192,Buick,Enclave,Buick || Enclave,train,95
+192,Buick,Enclave,Buick || Enclave,val,12
+193,Buick,Envision,Buick || Envision,test,12
+193,Buick,Envision,Buick || Envision,train,96
+193,Buick,Envision,Buick || Envision,val,12
+194,Buick,Excelle,Buick || Excelle,test,12
+194,Buick,Excelle,Buick || Excelle,train,96
+194,Buick,Excelle,Buick || Excelle,val,12
+195,Buick,Lacrosse,Buick || Lacrosse,test,18
+195,Buick,Lacrosse,Buick || Lacrosse,train,146
+195,Buick,Lacrosse,Buick || Lacrosse,val,18
+196,Buick,Park Avenue,Buick || Park Avenue,test,12
+196,Buick,Park Avenue,Buick || Park Avenue,train,94
+196,Buick,Park Avenue,Buick || Park Avenue,val,12
+197,Buick,Regal,Buick || Regal,test,15
+197,Buick,Regal,Buick || Regal,train,122
+197,Buick,Regal,Buick || Regal,val,15
+198,Buick,Regal GS,Buick || Regal GS,test,10
+198,Buick,Regal GS,Buick || Regal GS,train,85
+198,Buick,Regal GS,Buick || Regal GS,val,10
+199,Buick,encore,Buick || encore,test,12
+199,Buick,encore,Buick || encore,train,96
+199,Buick,encore,Buick || encore,val,12
+200,CHTC,Tuteng T2,CHTC || Tuteng T2,test,5
+200,CHTC,Tuteng T2,CHTC || Tuteng T2,train,40
+200,CHTC,Tuteng T2,CHTC || Tuteng T2,val,5
+201,Cadillac,Cadillac ATS,Cadillac || Cadillac ATS,test,12
+201,Cadillac,Cadillac ATS,Cadillac || Cadillac ATS,train,96
+201,Cadillac,Cadillac ATS,Cadillac || Cadillac ATS,val,12
+202,Cadillac,Cadillac ATS-L,Cadillac || Cadillac ATS-L,test,12
+202,Cadillac,Cadillac ATS-L,Cadillac || Cadillac ATS-L,train,96
+202,Cadillac,Cadillac ATS-L,Cadillac || Cadillac ATS-L,val,12
+203,Cadillac,Cadillac CTS,Cadillac || Cadillac CTS,test,13
+203,Cadillac,Cadillac CTS,Cadillac || Cadillac CTS,train,103
+203,Cadillac,Cadillac CTS,Cadillac || Cadillac CTS,val,13
+204,Cadillac,Cadillac ELR,Cadillac || Cadillac ELR,test,12
+204,Cadillac,Cadillac ELR,Cadillac || Cadillac ELR,train,96
+204,Cadillac,Cadillac ELR,Cadillac || Cadillac ELR,val,12
+205,Cadillac,Cadillac SRX,Cadillac || Cadillac SRX,test,12
+205,Cadillac,Cadillac SRX,Cadillac || Cadillac SRX,train,96
+205,Cadillac,Cadillac SRX,Cadillac || Cadillac SRX,val,12
+206,Cadillac,Cadillac XTS,Cadillac || Cadillac XTS,test,12
+206,Cadillac,Cadillac XTS,Cadillac || Cadillac XTS,train,96
+206,Cadillac,Cadillac XTS,Cadillac || Cadillac XTS,val,12
+207,Cadillac,Escalade,Cadillac || Escalade,test,12
+207,Cadillac,Escalade,Cadillac || Escalade,train,96
+207,Cadillac,Escalade,Cadillac || Escalade,val,12
+208,Cadillac,Seville SLS,Cadillac || Seville SLS,test,12
+208,Cadillac,Seville SLS,Cadillac || Seville SLS,train,96
+208,Cadillac,Seville SLS,Cadillac || Seville SLS,val,12
+209,Changan Business,Changan Ounuo,Changan Business || Changan Ounuo,test,12
+209,Changan Business,Changan Ounuo,Changan Business || Changan Ounuo,train,93
+209,Changan Business,Changan Ounuo,Changan Business || Changan Ounuo,val,12
+210,Changan Business,Changan Star,Changan Business || Changan Star,test,12
+210,Changan Business,Changan Star,Changan Business || Changan Star,train,95
+210,Changan Business,Changan Star,Changan Business || Changan Star,val,12
+211,Changan Business,Changan Star 7,Changan Business || Changan Star 7,test,9
+211,Changan Business,Changan Star 7,Changan Business || Changan Star 7,train,69
+211,Changan Business,Changan Star 7,Changan Business || Changan Star 7,val,9
+212,Changan Business,Oulove,Changan Business || Oulove,test,12
+212,Changan Business,Oulove,Changan Business || Oulove,train,95
+212,Changan Business,Oulove,Changan Business || Oulove,val,12
+213,Changan Business,Ruixing,Changan Business || Ruixing,test,10
+213,Changan Business,Ruixing,Changan Business || Ruixing,train,79
+213,Changan Business,Ruixing,Changan Business || Ruixing,val,10
+214,Changan,Benben,Changan || Benben,test,12
+214,Changan,Benben,Changan || Benben,train,96
+214,Changan,Benben,Changan || Benben,val,12
+215,Changan,Benben LOVE,Changan || Benben LOVE,test,7
+215,Changan,Benben LOVE,Changan || Benben LOVE,train,53
+215,Changan,Benben LOVE,Changan || Benben LOVE,val,7
+216,Changan,Benben MINI,Changan || Benben MINI,test,12
+216,Changan,Benben MINI,Changan || Benben MINI,train,95
+216,Changan,Benben MINI,Changan || Benben MINI,val,12
+217,Changan,Changan CS30 sedan,Changan || Changan CS30 sedan,test,7
+217,Changan,Changan CS30 sedan,Changan || Changan CS30 sedan,train,59
+217,Changan,Changan CS30 sedan,Changan || Changan CS30 sedan,val,7
+218,Changan,Changan CS35,Changan || Changan CS35,test,12
+218,Changan,Changan CS35,Changan || Changan CS35,train,96
+218,Changan,Changan CS35,Changan || Changan CS35,val,12
+219,Changan,Changan CS75,Changan || Changan CS75,test,12
+219,Changan,Changan CS75,Changan || Changan CS75,train,96
+219,Changan,Changan CS75,Changan || Changan CS75,val,12
+220,Changan,Changan CX20,Changan || Changan CX20,test,12
+220,Changan,Changan CX20,Changan || Changan CX20,train,96
+220,Changan,Changan CX20,Changan || Changan CX20,val,12
+221,Changan,Ruiping,Changan || Ruiping,test,11
+221,Changan,Ruiping,Changan || Ruiping,train,90
+221,Changan,Ruiping,Changan || Ruiping,val,11
+222,Changan,Yidong,Changan || Yidong,test,11
+222,Changan,Yidong,Changan || Yidong,train,89
+222,Changan,Yidong,Changan || Yidong,val,11
+223,Changan,Yuexiang V3,Changan || Yuexiang V3,test,12
+223,Changan,Yuexiang V3,Changan || Yuexiang V3,train,96
+223,Changan,Yuexiang V3,Changan || Yuexiang V3,val,12
+224,Changan,Yuexiang V5,Changan || Yuexiang V5,test,12
+224,Changan,Yuexiang V5,Changan || Yuexiang V5,train,96
+224,Changan,Yuexiang V5,Changan || Yuexiang V5,val,12
+225,Changan,Yuexiang sedan,Changan || Yuexiang sedan,test,16
+225,Changan,Yuexiang sedan,Changan || Yuexiang sedan,train,129
+225,Changan,Yuexiang sedan,Changan || Yuexiang sedan,val,16
+226,Changan,Zhishang XT,Changan || Zhishang XT,test,12
+226,Changan,Zhishang XT,Changan || Zhishang XT,train,91
+226,Changan,Zhishang XT,Changan || Zhishang XT,val,12
+227,Changan,Zhixiang,Changan || Zhixiang,test,9
+227,Changan,Zhixiang,Changan || Zhixiang,train,68
+227,Changan,Zhixiang,Changan || Zhixiang,val,9
+228,Changhe,Ideal,Changhe || Ideal,test,6
+228,Changhe,Ideal,Changhe || Ideal,train,43
+228,Changhe,Ideal,Changhe || Ideal,val,6
+229,Cheetah,Cheetah CS7,Cheetah || Cheetah CS7,test,8
+229,Cheetah,Cheetah CS7,Cheetah || Cheetah CS7,train,63
+229,Cheetah,Cheetah CS7,Cheetah || Cheetah CS7,val,8
+230,Cheetah,Cheetah Q6,Cheetah || Cheetah Q6,test,7
+230,Cheetah,Cheetah Q6,Cheetah || Cheetah Q6,train,52
+230,Cheetah,Cheetah Q6,Cheetah || Cheetah Q6,val,7
+231,Cheetah,Feiteng,Cheetah || Feiteng,test,7
+231,Cheetah,Feiteng,Cheetah || Feiteng,train,60
+231,Cheetah,Feiteng,Cheetah || Feiteng,val,7
+232,Chery,Arrizo 7,Chery || Arrizo 7,test,12
+232,Chery,Arrizo 7,Chery || Arrizo 7,train,95
+232,Chery,Arrizo 7,Chery || Arrizo 7,val,12
+233,Chery,Chery A1,Chery || Chery A1,test,12
+233,Chery,Chery A1,Chery || Chery A1,train,95
+233,Chery,Chery A1,Chery || Chery A1,val,12
+234,Chery,Chery A3 hatchback,Chery || Chery A3 hatchback,test,9
+234,Chery,Chery A3 hatchback,Chery || Chery A3 hatchback,train,70
+234,Chery,Chery A3 hatchback,Chery || Chery A3 hatchback,val,9
+235,Chery,Chery A3 sedan,Chery || Chery A3 sedan,test,10
+235,Chery,Chery A3 sedan,Chery || Chery A3 sedan,train,82
+235,Chery,Chery A3 sedan,Chery || Chery A3 sedan,val,10
+236,Chery,Chery A5,Chery || Chery A5,test,8
+236,Chery,Chery A5,Chery || Chery A5,train,62
+236,Chery,Chery A5,Chery || Chery A5,val,8
+237,Chery,Chery E3,Chery || Chery E3,test,11
+237,Chery,Chery E3,Chery || Chery E3,train,92
+237,Chery,Chery E3,Chery || Chery E3,val,11
+238,Chery,Chery E5,Chery || Chery E5,test,12
+238,Chery,Chery E5,Chery || Chery E5,train,93
+238,Chery,Chery E5,Chery || Chery E5,val,12
+239,Chery,Chery QQ,Chery || Chery QQ,test,12
+239,Chery,Chery QQ,Chery || Chery QQ,train,96
+239,Chery,Chery QQ,Chery || Chery QQ,val,12
+240,Chery,Chery QQ3,Chery || Chery QQ3,test,12
+240,Chery,Chery QQ3,Chery || Chery QQ3,train,94
+240,Chery,Chery QQ3,Chery || Chery QQ3,val,12
+241,Chery,Chery QQme,Chery || Chery QQme,test,7
+241,Chery,Chery QQme,Chery || Chery QQme,train,56
+241,Chery,Chery QQme,Chery || Chery QQme,val,7
+242,Chery,Chery X1,Chery || Chery X1,test,12
+242,Chery,Chery X1,Chery || Chery X1,train,94
+242,Chery,Chery X1,Chery || Chery X1,val,12
+243,Chery,Cowin 1,Chery || Cowin 1,test,13
+243,Chery,Cowin 1,Chery || Cowin 1,train,105
+243,Chery,Cowin 1,Chery || Cowin 1,val,13
+244,Chery,Cowin 2,Chery || Cowin 2,test,12
+244,Chery,Cowin 2,Chery || Cowin 2,train,91
+244,Chery,Cowin 2,Chery || Cowin 2,val,12
+245,Chery,Cowin 3,Chery || Cowin 3,test,11
+245,Chery,Cowin 3,Chery || Cowin 3,train,88
+245,Chery,Cowin 3,Chery || Cowin 3,val,11
+246,Chery,Cowin 5,Chery || Cowin 5,test,12
+246,Chery,Cowin 5,Chery || Cowin 5,train,94
+246,Chery,Cowin 5,Chery || Cowin 5,val,12
+247,Chery,Eastar,Chery || Eastar,test,12
+247,Chery,Eastar,Chery || Eastar,train,94
+247,Chery,Eastar,Chery || Eastar,val,12
+248,Chery,Eastar Cross,Chery || Eastar Cross,test,9
+248,Chery,Eastar Cross,Chery || Eastar Cross,train,69
+248,Chery,Eastar Cross,Chery || Eastar Cross,val,9
+249,Chery,Fulwin 2 hatchback,Chery || Fulwin 2 hatchback,test,12
+249,Chery,Fulwin 2 hatchback,Chery || Fulwin 2 hatchback,train,99
+249,Chery,Fulwin 2 hatchback,Chery || Fulwin 2 hatchback,val,12
+250,Chery,Fulwin 2 sedan,Chery || Fulwin 2 sedan,test,7
+250,Chery,Fulwin 2 sedan,Chery || Fulwin 2 sedan,train,54
+250,Chery,Fulwin 2 sedan,Chery || Fulwin 2 sedan,val,7
+251,Chery,Tiggo,Chery || Tiggo,test,11
+251,Chery,Tiggo,Chery || Tiggo,train,91
+251,Chery,Tiggo,Chery || Tiggo,val,11
+252,Chery,Tiggo 3,Chery || Tiggo 3,test,12
+252,Chery,Tiggo 3,Chery || Tiggo 3,train,95
+252,Chery,Tiggo 3,Chery || Tiggo 3,val,12
+253,Chery,Tiggo 5,Chery || Tiggo 5,test,12
+253,Chery,Tiggo 5,Chery || Tiggo 5,train,95
+253,Chery,Tiggo 5,Chery || Tiggo 5,val,12
+254,Chevy,AVEO hatchback,Chevy || AVEO hatchback,test,14
+254,Chevy,AVEO hatchback,Chevy || AVEO hatchback,train,112
+254,Chevy,AVEO hatchback,Chevy || AVEO hatchback,val,14
+255,Chevy,Aveo,Chevy || Aveo,test,13
+255,Chevy,Aveo,Chevy || Aveo,train,107
+255,Chevy,Aveo,Chevy || Aveo,val,13
+256,Chevy,Aveo sedan,Chevy || Aveo sedan,test,24
+256,Chevy,Aveo sedan,Chevy || Aveo sedan,train,189
+256,Chevy,Aveo sedan,Chevy || Aveo sedan,val,24
+257,Chevy,CHEVY Orlando,Chevy || CHEVY Orlando,test,7
+257,Chevy,CHEVY Orlando,Chevy || CHEVY Orlando,train,55
+257,Chevy,CHEVY Orlando,Chevy || CHEVY Orlando,val,7
+258,Chevy,CHEVY SS,Chevy || CHEVY SS,test,9
+258,Chevy,CHEVY SS,Chevy || CHEVY SS,train,71
+258,Chevy,CHEVY SS,Chevy || CHEVY SS,val,9
+259,Chevy,CHEVY Tahoe,Chevy || CHEVY Tahoe,test,9
+259,Chevy,CHEVY Tahoe,Chevy || CHEVY Tahoe,train,73
+259,Chevy,CHEVY Tahoe,Chevy || CHEVY Tahoe,val,9
+260,Chevy,CHEVY Traverse,Chevy || CHEVY Traverse,test,5
+260,Chevy,CHEVY Traverse,Chevy || CHEVY Traverse,train,43
+260,Chevy,CHEVY Traverse,Chevy || CHEVY Traverse,val,5
+261,Chevy,CHEVY Trax,Chevy || CHEVY Trax,test,12
+261,Chevy,CHEVY Trax,Chevy || CHEVY Trax,train,92
+261,Chevy,CHEVY Trax,Chevy || CHEVY Trax,val,12
+262,Chevy,Camaro,Chevy || Camaro,test,11
+262,Chevy,Camaro,Chevy || Camaro,train,91
+262,Chevy,Camaro,Chevy || Camaro,val,11
+263,Chevy,Captiva,Chevy || Captiva,test,12
+263,Chevy,Captiva,Chevy || Captiva,train,96
+263,Chevy,Captiva,Chevy || Captiva,val,12
+264,Chevy,Colorado,Chevy || Colorado,test,10
+264,Chevy,Colorado,Chevy || Colorado,train,78
+264,Chevy,Colorado,Chevy || Colorado,val,10
+265,Chevy,Corvette,Chevy || Corvette,test,12
+265,Chevy,Corvette,Chevy || Corvette,train,96
+265,Chevy,Corvette,Chevy || Corvette,val,12
+266,Chevy,Cruze abroad version,Chevy || Cruze abroad version,test,12
+266,Chevy,Cruze abroad version,Chevy || Cruze abroad version,train,96
+266,Chevy,Cruze abroad version,Chevy || Cruze abroad version,val,12
+267,Chevy,Cruze hatchback,Chevy || Cruze hatchback,test,10
+267,Chevy,Cruze hatchback,Chevy || Cruze hatchback,train,82
+267,Chevy,Cruze hatchback,Chevy || Cruze hatchback,val,10
+268,Chevy,Cruze sedan,Chevy || Cruze sedan,test,17
+268,Chevy,Cruze sedan,Chevy || Cruze sedan,train,133
+268,Chevy,Cruze sedan,Chevy || Cruze sedan,val,17
+269,Chevy,Epica,Chevy || Epica,test,12
+269,Chevy,Epica,Chevy || Epica,train,91
+269,Chevy,Epica,Chevy || Epica,val,12
+270,Chevy,Equinox,Chevy || Equinox,test,9
+270,Chevy,Equinox,Chevy || Equinox,train,73
+270,Chevy,Equinox,Chevy || Equinox,val,9
+271,Chevy,Impala,Chevy || Impala,test,8
+271,Chevy,Impala,Chevy || Impala,train,67
+271,Chevy,Impala,Chevy || Impala,val,8
+272,Chevy,Lova,Chevy || Lova,test,12
+272,Chevy,Lova,Chevy || Lova,train,95
+272,Chevy,Lova,Chevy || Lova,val,12
+273,Chevy,Malibu,Chevy || Malibu,test,12
+273,Chevy,Malibu,Chevy || Malibu,train,96
+273,Chevy,Malibu,Chevy || Malibu,val,12
+274,Chevy,Sail SPRINGO,Chevy || Sail SPRINGO,test,11
+274,Chevy,Sail SPRINGO,Chevy || Sail SPRINGO,train,91
+274,Chevy,Sail SPRINGO,Chevy || Sail SPRINGO,val,11
+275,Chevy,Sail hatchback,Chevy || Sail hatchback,test,14
+275,Chevy,Sail hatchback,Chevy || Sail hatchback,train,115
+275,Chevy,Sail hatchback,Chevy || Sail hatchback,val,14
+276,Chevy,Sail sedan,Chevy || Sail sedan,test,29
+276,Chevy,Sail sedan,Chevy || Sail sedan,train,230
+276,Chevy,Sail sedan,Chevy || Sail sedan,val,29
+277,Chevy,Silverado,Chevy || Silverado,test,12
+277,Chevy,Silverado,Chevy || Silverado,train,96
+277,Chevy,Silverado,Chevy || Silverado,val,12
+278,Chevy,Sonic,Chevy || Sonic,test,12
+278,Chevy,Sonic,Chevy || Sonic,train,96
+278,Chevy,Sonic,Chevy || Sonic,val,12
+279,Chevy,Spark,Chevy || Spark,test,11
+279,Chevy,Spark,Chevy || Spark,train,92
+279,Chevy,Spark,Chevy || Spark,val,11
+280,Chevy,Trax,Chevy || Trax,test,12
+280,Chevy,Trax,Chevy || Trax,train,95
+280,Chevy,Trax,Chevy || Trax,val,12
+281,Chevy,Volt,Chevy || Volt,test,12
+281,Chevy,Volt,Chevy || Volt,train,96
+281,Chevy,Volt,Chevy || Volt,val,12
+282,Chrysler,Chrysler 200,Chrysler || Chrysler 200,test,12
+282,Chrysler,Chrysler 200,Chrysler || Chrysler 200,train,96
+282,Chrysler,Chrysler 200,Chrysler || Chrysler 200,val,12
+283,Chrysler,Chrysler 300C,Chrysler || Chrysler 300C,test,12
+283,Chrysler,Chrysler 300C,Chrysler || Chrysler 300C,train,95
+283,Chrysler,Chrysler 300C,Chrysler || Chrysler 300C,val,12
+284,Chrysler,Chrysler 300C SRT,Chrysler || Chrysler 300C SRT,test,11
+284,Chrysler,Chrysler 300C SRT,Chrysler || Chrysler 300C SRT,train,84
+284,Chrysler,Chrysler 300C SRT,Chrysler || Chrysler 300C SRT,val,11
+285,Chrysler,Chrysler Delta,Chrysler || Chrysler Delta,test,6
+285,Chrysler,Chrysler Delta,Chrysler || Chrysler Delta,train,51
+285,Chrysler,Chrysler Delta,Chrysler || Chrysler Delta,val,6
+286,Chrysler,Grand Voager,Chrysler || Grand Voager,test,9
+286,Chrysler,Grand Voager,Chrysler || Grand Voager,train,72
+286,Chrysler,Grand Voager,Chrysler || Grand Voager,val,9
+287,Chrysler,Prowler,Chrysler || Prowler,test,6
+287,Chrysler,Prowler,Chrysler || Prowler,train,51
+287,Chrysler,Prowler,Chrysler || Prowler,val,6
+288,Ciimo,Ciimo,Ciimo || Ciimo,test,12
+288,Ciimo,Ciimo,Ciimo || Ciimo,train,96
+288,Ciimo,Ciimo,Ciimo || Ciimo,val,12
+289,Citroen,C-Zero,Citroen || C-Zero,test,8
+289,Citroen,C-Zero,Citroen || C-Zero,train,65
+289,Citroen,C-Zero,Citroen || C-Zero,val,8
+290,Citroen,C3 Picasso,Citroen || C3 Picasso,test,7
+290,Citroen,C3 Picasso,Citroen || C3 Picasso,train,58
+290,Citroen,C3 Picasso,Citroen || C3 Picasso,val,7
+291,Citroen,C4 Aircross,Citroen || C4 Aircross,test,12
+291,Citroen,C4 Aircross,Citroen || C4 Aircross,train,95
+291,Citroen,C4 Aircross,Citroen || C4 Aircross,val,12
+292,Citroen,Cactus,Citroen || Cactus,test,12
+292,Citroen,Cactus,Citroen || Cactus,train,94
+292,Citroen,Cactus,Citroen || Cactus,val,12
+293,Citroen,Citroen C1,Citroen || Citroen C1,test,12
+293,Citroen,Citroen C1,Citroen || Citroen C1,train,96
+293,Citroen,Citroen C1,Citroen || Citroen C1,val,12
+294,Citroen,Citroen C2,Citroen || Citroen C2,test,12
+294,Citroen,Citroen C2,Citroen || Citroen C2,train,94
+294,Citroen,Citroen C2,Citroen || Citroen C2,val,12
+295,Citroen,Citroen C3,Citroen || Citroen C3,test,12
+295,Citroen,Citroen C3,Citroen || Citroen C3,train,96
+295,Citroen,Citroen C3,Citroen || Citroen C3,val,12
+296,Citroen,Citroen C4,Citroen || Citroen C4,test,12
+296,Citroen,Citroen C4,Citroen || Citroen C4,train,95
+296,Citroen,Citroen C4,Citroen || Citroen C4,val,12
+297,Citroen,Citroen C4L,Citroen || Citroen C4L,test,12
+297,Citroen,Citroen C4L,Citroen || Citroen C4L,train,96
+297,Citroen,Citroen C4L,Citroen || Citroen C4L,val,12
+298,Citroen,Citroen C5,Citroen || Citroen C5,test,17
+298,Citroen,Citroen C5,Citroen || Citroen C5,train,137
+298,Citroen,Citroen C5,Citroen || Citroen C5,val,17
+299,Citroen,Citroen GT,Citroen || Citroen GT,test,8
+299,Citroen,Citroen GT,Citroen || Citroen GT,train,59
+299,Citroen,Citroen GT,Citroen || Citroen GT,val,8
+300,Citroen,Elysee,Citroen || Elysee,test,12
+300,Citroen,Elysee,Citroen || Elysee,train,96
+300,Citroen,Elysee,Citroen || Elysee,val,12
+301,Citroen,Grand C4 Picasso,Citroen || Grand C4 Picasso,test,12
+301,Citroen,Grand C4 Picasso,Citroen || Grand C4 Picasso,train,96
+301,Citroen,Grand C4 Picasso,Citroen || Grand C4 Picasso,val,12
+302,Citroen,Quatre Cross,Citroen || Quatre Cross,test,6
+302,Citroen,Quatre Cross,Citroen || Quatre Cross,train,50
+302,Citroen,Quatre Cross,Citroen || Quatre Cross,val,6
+303,Citroen,Quatre hatchback,Citroen || Quatre hatchback,test,12
+303,Citroen,Quatre hatchback,Citroen || Quatre hatchback,train,94
+303,Citroen,Quatre hatchback,Citroen || Quatre hatchback,val,12
+304,Citroen,Quatre sedan,Citroen || Quatre sedan,test,14
+304,Citroen,Quatre sedan,Citroen || Quatre sedan,train,114
+304,Citroen,Quatre sedan,Citroen || Quatre sedan,val,14
+305,Citroen,Survolt,Citroen || Survolt,test,6
+305,Citroen,Survolt,Citroen || Survolt,train,44
+305,Citroen,Survolt,Citroen || Survolt,val,6
+306,Citroen,Triomphe,Citroen || Triomphe,test,12
+306,Citroen,Triomphe,Citroen || Triomphe,train,94
+306,Citroen,Triomphe,Citroen || Triomphe,val,12
+307,Citroen,c-Elysee hatchback,Citroen || c-Elysee hatchback,test,5
+307,Citroen,c-Elysee hatchback,Citroen || c-Elysee hatchback,train,42
+307,Citroen,c-Elysee hatchback,Citroen || c-Elysee hatchback,val,5
+308,Citroen,c-Elysee sedan,Citroen || c-Elysee sedan,test,15
+308,Citroen,c-Elysee sedan,Citroen || c-Elysee sedan,train,117
+308,Citroen,c-Elysee sedan,Citroen || c-Elysee sedan,val,15
+309,DS,DS 3,DS || DS 3,test,12
+309,DS,DS 3,DS || DS 3,train,96
+309,DS,DS 3,DS || DS 3,val,12
+310,DS,DS 4,DS || DS 4,test,12
+310,DS,DS 4,DS || DS 4,train,96
+310,DS,DS 4,DS || DS 4,val,12
+311,DS,DS 5,DS || DS 5,test,12
+311,DS,DS 5,DS || DS 5,train,96
+311,DS,DS 5,DS || DS 5,val,12
+312,DS,DS 5LS,DS || DS 5LS,test,12
+312,DS,DS 5LS,DS || DS 5LS,train,95
+312,DS,DS 5LS,DS || DS 5LS,val,12
+313,DS,DS 6,DS || DS 6,test,12
+313,DS,DS 6,DS || DS 6,train,96
+313,DS,DS 6,DS || DS 6,val,12
+314,Dacia,Dokker,Dacia || Dokker,test,6
+314,Dacia,Dokker,Dacia || Dokker,train,50
+314,Dacia,Dokker,Dacia || Dokker,val,6
+315,Dacia,Duster,Dacia || Duster,test,12
+315,Dacia,Duster,Dacia || Duster,train,96
+315,Dacia,Duster,Dacia || Duster,val,12
+316,Dacia,Logan,Dacia || Logan,test,12
+316,Dacia,Logan,Dacia || Logan,train,96
+316,Dacia,Logan,Dacia || Logan,val,12
+317,Dacia,Sandero,Dacia || Sandero,test,10
+317,Dacia,Sandero,Dacia || Sandero,train,77
+317,Dacia,Sandero,Dacia || Sandero,val,10
+318,Daihatsu,Xenia,Daihatsu || Xenia,test,5
+318,Daihatsu,Xenia,Daihatsu || Xenia,train,40
+318,Daihatsu,Xenia,Daihatsu || Xenia,val,5
+319,Denza,Denza,Denza || Denza,test,12
+319,Denza,Denza,Denza || Denza,train,96
+319,Denza,Denza,Denza || Denza,val,12
+320,Dodge,Avenger,Dodge || Avenger,test,11
+320,Dodge,Avenger,Dodge || Avenger,train,87
+320,Dodge,Avenger,Dodge || Avenger,val,11
+321,Dodge,Caliber,Dodge || Caliber,test,13
+321,Dodge,Caliber,Dodge || Caliber,train,106
+321,Dodge,Caliber,Dodge || Caliber,val,13
+322,Dodge,Challenger,Dodge || Challenger,test,12
+322,Dodge,Challenger,Dodge || Challenger,train,96
+322,Dodge,Challenger,Dodge || Challenger,val,12
+323,Dodge,Challenger SRT,Dodge || Challenger SRT,test,12
+323,Dodge,Challenger SRT,Dodge || Challenger SRT,train,96
+323,Dodge,Challenger SRT,Dodge || Challenger SRT,val,12
+324,Dodge,Charger,Dodge || Charger,test,12
+324,Dodge,Charger,Dodge || Charger,train,96
+324,Dodge,Charger,Dodge || Charger,val,12
+325,Dodge,Charger SRT,Dodge || Charger SRT,test,12
+325,Dodge,Charger SRT,Dodge || Charger SRT,train,96
+325,Dodge,Charger SRT,Dodge || Charger SRT,val,12
+326,Dodge,Dart,Dodge || Dart,test,12
+326,Dodge,Dart,Dodge || Dart,train,96
+326,Dodge,Dart,Dodge || Dart,val,12
+327,Dodge,Durango,Dodge || Durango,test,12
+327,Dodge,Durango,Dodge || Durango,train,96
+327,Dodge,Durango,Dodge || Durango,val,12
+328,Dodge,Journey,Dodge || Journey,test,12
+328,Dodge,Journey,Dodge || Journey,train,96
+328,Dodge,Journey,Dodge || Journey,val,12
+329,Dodge,Ram,Dodge || Ram,test,6
+329,Dodge,Ram,Dodge || Ram,train,46
+329,Dodge,Ram,Dodge || Ram,val,6
+330,Dodge,Rampage,Dodge || Rampage,test,11
+330,Dodge,Rampage,Dodge || Rampage,train,91
+330,Dodge,Rampage,Dodge || Rampage,val,11
+331,Dodge,Viper,Dodge || Viper,test,12
+331,Dodge,Viper,Dodge || Viper,train,96
+331,Dodge,Viper,Dodge || Viper,val,12
+332,Dongfeng,Junfeng CV03,Dongfeng || Junfeng CV03,test,11
+332,Dongfeng,Junfeng CV03,Dongfeng || Junfeng CV03,train,85
+332,Dongfeng,Junfeng CV03,Dongfeng || Junfeng CV03,val,11
+333,Dongfeng,Yufeng,Dongfeng || Yufeng,test,6
+333,Dongfeng,Yufeng,Dongfeng || Yufeng,train,51
+333,Dongfeng,Yufeng,Dongfeng || Yufeng,val,6
+334,Dongfengfengdu,Shuaike,Dongfengfengdu || Shuaike,test,10
+334,Dongfengfengdu,Shuaike,Dongfengfengdu || Shuaike,train,76
+334,Dongfengfengdu,Shuaike,Dongfengfengdu || Shuaike,val,10
+335,Dongfengfengshen,Fengshen A30,Dongfengfengshen || Fengshen A30,test,12
+335,Dongfengfengshen,Fengshen A30,Dongfengfengshen || Fengshen A30,train,96
+335,Dongfengfengshen,Fengshen A30,Dongfengfengshen || Fengshen A30,val,12
+336,Dongfengfengshen,Fengshen A60,Dongfengfengshen || Fengshen A60,test,12
+336,Dongfengfengshen,Fengshen A60,Dongfengfengshen || Fengshen A60,train,95
+336,Dongfengfengshen,Fengshen A60,Dongfengfengshen || Fengshen A60,val,12
+337,Dongfengfengshen,Fengshen CROSS,Dongfengfengshen || Fengshen CROSS,test,12
+337,Dongfengfengshen,Fengshen CROSS,Dongfengfengshen || Fengshen CROSS,train,96
+337,Dongfengfengshen,Fengshen CROSS,Dongfengfengshen || Fengshen CROSS,val,12
+338,Dongfengfengshen,Fengshen H30,Dongfengfengshen || Fengshen H30,test,11
+338,Dongfengfengshen,Fengshen H30,Dongfengfengshen || Fengshen H30,train,92
+338,Dongfengfengshen,Fengshen H30,Dongfengfengshen || Fengshen H30,val,11
+339,Dongfengfengshen,Fengshen S30,Dongfengfengshen || Fengshen S30,test,12
+339,Dongfengfengshen,Fengshen S30,Dongfengfengshen || Fengshen S30,train,94
+339,Dongfengfengshen,Fengshen S30,Dongfengfengshen || Fengshen S30,val,12
+340,Dongfengfengxing,Fengxing CM7,Dongfengfengxing || Fengxing CM7,test,12
+340,Dongfengfengxing,Fengxing CM7,Dongfengfengxing || Fengxing CM7,train,96
+340,Dongfengfengxing,Fengxing CM7,Dongfengfengxing || Fengxing CM7,val,12
+341,Dongfengfengxing,Jingyi,Dongfengfengxing || Jingyi,test,12
+341,Dongfengfengxing,Jingyi,Dongfengfengxing || Jingyi,train,93
+341,Dongfengfengxing,Jingyi,Dongfengfengxing || Jingyi,val,12
+342,Dongfengfengxing,Jingyi S50,Dongfengfengxing || Jingyi S50,test,12
+342,Dongfengfengxing,Jingyi S50,Dongfengfengxing || Jingyi S50,train,95
+342,Dongfengfengxing,Jingyi S50,Dongfengfengxing || Jingyi S50,val,12
+343,Dongfengfengxing,Jingyi SUV,Dongfengfengxing || Jingyi SUV,test,8
+343,Dongfengfengxing,Jingyi SUV,Dongfengfengxing || Jingyi SUV,train,67
+343,Dongfengfengxing,Jingyi SUV,Dongfengfengxing || Jingyi SUV,val,8
+344,Dongfengfengxing,Jingyi X3,Dongfengfengxing || Jingyi X3,test,12
+344,Dongfengfengxing,Jingyi X3,Dongfengfengxing || Jingyi X3,train,93
+344,Dongfengfengxing,Jingyi X3,Dongfengfengxing || Jingyi X3,val,12
+345,Dongfengfengxing,Jingyi X5,Dongfengfengxing || Jingyi X5,test,12
+345,Dongfengfengxing,Jingyi X5,Dongfengfengxing || Jingyi X5,train,95
+345,Dongfengfengxing,Jingyi X5,Dongfengfengxing || Jingyi X5,val,12
+346,Dongfengfengxing,Lingzhi,Dongfengfengxing || Lingzhi,test,12
+346,Dongfengfengxing,Lingzhi,Dongfengfengxing || Lingzhi,train,95
+346,Dongfengfengxing,Lingzhi,Dongfengfengxing || Lingzhi,val,12
+347,Dongfengxiaokang,DFSK C37,Dongfengxiaokang || DFSK C37,test,14
+347,Dongfengxiaokang,DFSK C37,Dongfengxiaokang || DFSK C37,train,107
+347,Dongfengxiaokang,DFSK C37,Dongfengxiaokang || DFSK C37,val,14
+348,Dongfengxiaokang,DFSK K07II,Dongfengxiaokang || DFSK K07II,test,6
+348,Dongfengxiaokang,DFSK K07II,Dongfengxiaokang || DFSK K07II,train,46
+348,Dongfengxiaokang,DFSK K07II,Dongfengxiaokang || DFSK K07II,val,6
+349,Dongfengxiaokang,DFSK V27,Dongfengxiaokang || DFSK V27,test,5
+349,Dongfengxiaokang,DFSK V27,Dongfengxiaokang || DFSK V27,train,42
+349,Dongfengxiaokang,DFSK V27,Dongfengxiaokang || DFSK V27,val,5
+350,Dongfengxiaokang,Fengguang,Dongfengxiaokang || Fengguang,test,12
+350,Dongfengxiaokang,Fengguang,Dongfengxiaokang || Fengguang,train,96
+350,Dongfengxiaokang,Fengguang,Dongfengxiaokang || Fengguang,val,12
+351,Dongnan,V3 Lingyue,Dongnan || V3 Lingyue,test,15
+351,Dongnan,V3 Lingyue,Dongnan || V3 Lingyue,train,123
+351,Dongnan,V3 Lingyue,Dongnan || V3 Lingyue,val,15
+352,Dongnan,V5 Lingzhi,Dongnan || V5 Lingzhi,test,12
+352,Dongnan,V5 Lingzhi,Dongnan || V5 Lingzhi,train,94
+352,Dongnan,V5 Lingzhi,Dongnan || V5 Lingzhi,val,12
+353,Dongnan,V6 Lingyue,Dongnan || V6 Lingyue,test,12
+353,Dongnan,V6 Lingyue,Dongnan || V6 Lingyue,train,96
+353,Dongnan,V6 Lingyue,Dongnan || V6 Lingyue,val,12
+354,Dongnan,Xiwang,Dongnan || Xiwang,test,9
+354,Dongnan,Xiwang,Dongnan || Xiwang,train,71
+354,Dongnan,Xiwang,Dongnan || Xiwang,val,9
+355,Everus,Linian S1,Everus || Linian S1,test,12
+355,Everus,Linian S1,Everus || Linian S1,train,96
+355,Everus,Linian S1,Everus || Linian S1,val,12
+356,FIAT,Bravo,FIAT || Bravo,test,12
+356,FIAT,Bravo,FIAT || Bravo,train,96
+356,FIAT,Bravo,FIAT || Bravo,val,12
+357,FIAT,Doblo,FIAT || Doblo,test,10
+357,FIAT,Doblo,FIAT || Doblo,train,85
+357,FIAT,Doblo,FIAT || Doblo,val,10
+358,FIAT,FIAT 500,FIAT || FIAT 500,test,12
+358,FIAT,FIAT 500,FIAT || FIAT 500,train,92
+358,FIAT,FIAT 500,FIAT || FIAT 500,val,12
+359,FIAT,FIAT 500L,FIAT || FIAT 500L,test,12
+359,FIAT,FIAT 500L,FIAT || FIAT 500L,train,96
+359,FIAT,FIAT 500L,FIAT || FIAT 500L,val,12
+360,FIAT,FIAT Fiorino Qubo,FIAT || FIAT Fiorino Qubo,test,6
+360,FIAT,FIAT Fiorino Qubo,FIAT || FIAT Fiorino Qubo,train,47
+360,FIAT,FIAT Fiorino Qubo,FIAT || FIAT Fiorino Qubo,val,6
+361,FIAT,FIAT Idea,FIAT || FIAT Idea,test,12
+361,FIAT,FIAT Idea,FIAT || FIAT Idea,train,96
+361,FIAT,FIAT Idea,FIAT || FIAT Idea,val,12
+362,FIAT,FIAT Panda,FIAT || FIAT Panda,test,12
+362,FIAT,FIAT Panda,FIAT || FIAT Panda,train,96
+362,FIAT,FIAT Panda,FIAT || FIAT Panda,val,12
+363,FIAT,FIAT Uno,FIAT || FIAT Uno,test,11
+363,FIAT,FIAT Uno,FIAT || FIAT Uno,train,89
+363,FIAT,FIAT Uno,FIAT || FIAT Uno,val,11
+364,FIAT,Feixiang,FIAT || Feixiang,test,12
+364,FIAT,Feixiang,FIAT || Feixiang,train,96
+364,FIAT,Feixiang,FIAT || Feixiang,val,12
+365,FIAT,Freemont,FIAT || Freemont,test,12
+365,FIAT,Freemont,FIAT || Freemont,train,96
+365,FIAT,Freemont,FIAT || Freemont,val,12
+366,FIAT,Linea,FIAT || Linea,test,7
+366,FIAT,Linea,FIAT || Linea,train,53
+366,FIAT,Linea,FIAT || Linea,val,7
+367,FIAT,Palio,FIAT || Palio,test,8
+367,FIAT,Palio,FIAT || Palio,train,61
+367,FIAT,Palio,FIAT || Palio,val,8
+368,FIAT,Punto,FIAT || Punto,test,12
+368,FIAT,Punto,FIAT || Punto,train,96
+368,FIAT,Punto,FIAT || Punto,val,12
+369,FIAT,Zhiyue,FIAT || Zhiyue,test,12
+369,FIAT,Zhiyue,FIAT || Zhiyue,train,96
+369,FIAT,Zhiyue,FIAT || Zhiyue,val,12
+370,Ferrari,California,Ferrari || California,test,12
+370,Ferrari,California,Ferrari || California,train,96
+370,Ferrari,California,Ferrari || California,val,12
+371,Ferrari,F12berlinetta,Ferrari || F12berlinetta,test,12
+371,Ferrari,F12berlinetta,Ferrari || F12berlinetta,train,96
+371,Ferrari,F12berlinetta,Ferrari || F12berlinetta,val,12
+372,Ferrari,Ferrari 458,Ferrari || Ferrari 458,test,12
+372,Ferrari,Ferrari 458,Ferrari || Ferrari 458,train,96
+372,Ferrari,Ferrari 458,Ferrari || Ferrari 458,val,12
+373,Ferrari,Ferrari 599,Ferrari || Ferrari 599,test,9
+373,Ferrari,Ferrari 599,Ferrari || Ferrari 599,train,70
+373,Ferrari,Ferrari 599,Ferrari || Ferrari 599,val,9
+374,Ferrari,Ferrari FF,Ferrari || Ferrari FF,test,12
+374,Ferrari,Ferrari FF,Ferrari || Ferrari FF,train,96
+374,Ferrari,Ferrari FF,Ferrari || Ferrari FF,val,12
+375,Ferrari,LaFerrari,Ferrari || LaFerrari,test,12
+375,Ferrari,LaFerrari,Ferrari || LaFerrari,train,96
+375,Ferrari,LaFerrari,Ferrari || LaFerrari,val,12
+376,Ferrari,Sergio,Ferrari || Sergio,test,8
+376,Ferrari,Sergio,Ferrari || Sergio,train,65
+376,Ferrari,Sergio,Ferrari || Sergio,val,8
+377,Fisker,Karma,Fisker || Karma,test,9
+377,Fisker,Karma,Fisker || Karma,train,69
+377,Fisker,Karma,Fisker || Karma,val,9
+378,Fisker,Surf,Fisker || Surf,test,5
+378,Fisker,Surf,Fisker || Surf,train,44
+378,Fisker,Surf,Fisker || Surf,val,5
+379,Ford,Classic Focus hatchback,Ford || Classic Focus hatchback,test,10
+379,Ford,Classic Focus hatchback,Ford || Classic Focus hatchback,train,78
+379,Ford,Classic Focus hatchback,Ford || Classic Focus hatchback,val,10
+380,Ford,Classic Focus sedan,Ford || Classic Focus sedan,test,12
+380,Ford,Classic Focus sedan,Ford || Classic Focus sedan,train,94
+380,Ford,Classic Focus sedan,Ford || Classic Focus sedan,val,12
+381,Ford,Ecosport,Ford || Ecosport,test,12
+381,Ford,Ecosport,Ford || Ecosport,train,96
+381,Ford,Ecosport,Ford || Ecosport,val,12
+382,Ford,Edge,Ford || Edge,test,12
+382,Ford,Edge,Ford || Edge,train,96
+382,Ford,Edge,Ford || Edge,val,12
+383,Ford,Expedition,Ford || Expedition,test,12
+383,Ford,Expedition,Ford || Expedition,train,93
+383,Ford,Expedition,Ford || Expedition,val,12
+384,Ford,Explorer,Ford || Explorer,test,12
+384,Ford,Explorer,Ford || Explorer,train,96
+384,Ford,Explorer,Ford || Explorer,val,12
+385,Ford,Falcon,Ford || Falcon,test,12
+385,Ford,Falcon,Ford || Falcon,train,96
+385,Ford,Falcon,Ford || Falcon,val,12
+386,Ford,Fiesta ST,Ford || Fiesta ST,test,6
+386,Ford,Fiesta ST,Ford || Fiesta ST,train,51
+386,Ford,Fiesta ST,Ford || Fiesta ST,val,6
+387,Ford,Fiesta hatchback,Ford || Fiesta hatchback,test,13
+387,Ford,Fiesta hatchback,Ford || Fiesta hatchback,train,102
+387,Ford,Fiesta hatchback,Ford || Fiesta hatchback,val,13
+388,Ford,Fiesta sedan,Ford || Fiesta sedan,test,16
+388,Ford,Fiesta sedan,Ford || Fiesta sedan,train,130
+388,Ford,Fiesta sedan,Ford || Fiesta sedan,val,16
+389,Ford,Focus ST,Ford || Focus ST,test,10
+389,Ford,Focus ST,Ford || Focus ST,train,85
+389,Ford,Focus ST,Ford || Focus ST,val,10
+390,Ford,Ford B-MAX,Ford || Ford B-MAX,test,5
+390,Ford,Ford B-MAX,Ford || Ford B-MAX,train,43
+390,Ford,Ford B-MAX,Ford || Ford B-MAX,val,5
+391,Ford,Ford C-MAX,Ford || Ford C-MAX,test,12
+391,Ford,Ford C-MAX,Ford || Ford C-MAX,train,96
+391,Ford,Ford C-MAX,Ford || Ford C-MAX,val,12
+392,Ford,Ford F-150,Ford || Ford F-150,test,12
+392,Ford,Ford F-150,Ford || Ford F-150,train,95
+392,Ford,Ford F-150,Ford || Ford F-150,val,12
+393,Ford,Ford F-350,Ford || Ford F-350,test,5
+393,Ford,Ford F-350,Ford || Ford F-350,train,42
+393,Ford,Ford F-350,Ford || Ford F-350,val,5
+394,Ford,Ford F-650,Ford || Ford F-650,test,5
+394,Ford,Ford F-650,Ford || Ford F-650,train,41
+394,Ford,Ford F-650,Ford || Ford F-650,val,5
+395,Ford,Ford Flex,Ford || Ford Flex,test,12
+395,Ford,Ford Flex,Ford || Ford Flex,train,96
+395,Ford,Ford Flex,Ford || Ford Flex,val,12
+396,Ford,Ford Fusion,Ford || Ford Fusion,test,12
+396,Ford,Ford Fusion,Ford || Ford Fusion,train,96
+396,Ford,Ford Fusion,Ford || Ford Fusion,val,12
+397,Ford,Ford Ka,Ford || Ford Ka,test,11
+397,Ford,Ford Ka,Ford || Ford Ka,train,86
+397,Ford,Ford Ka,Ford || Ford Ka,val,11
+398,Ford,Ford Transit,Ford || Ford Transit,test,8
+398,Ford,Ford Transit,Ford || Ford Transit,train,64
+398,Ford,Ford Transit,Ford || Ford Transit,val,8
+399,Ford,Kuga,Ford || Kuga,test,12
+399,Ford,Kuga,Ford || Kuga,train,96
+399,Ford,Kuga,Ford || Kuga,val,12
+400,Ford,Mendeo,Ford || Mendeo,test,12
+400,Ford,Mendeo,Ford || Mendeo,train,96
+400,Ford,Mendeo,Ford || Mendeo,val,12
+401,Ford,Mendeo Zhisheng,Ford || Mendeo Zhisheng,test,12
+401,Ford,Mendeo Zhisheng,Ford || Mendeo Zhisheng,train,96
+401,Ford,Mendeo Zhisheng,Ford || Mendeo Zhisheng,val,12
+402,Ford,Mustang,Ford || Mustang,test,12
+402,Ford,Mustang,Ford || Mustang,train,96
+402,Ford,Mustang,Ford || Mustang,val,12
+403,Ford,New Focus hatchback,Ford || New Focus hatchback,test,21
+403,Ford,New Focus hatchback,Ford || New Focus hatchback,train,172
+403,Ford,New Focus hatchback,Ford || New Focus hatchback,val,21
+404,Ford,New Focus sedan,Ford || New Focus sedan,test,15
+404,Ford,New Focus sedan,Ford || New Focus sedan,train,121
+404,Ford,New Focus sedan,Ford || New Focus sedan,val,15
+405,Ford,Ranger,Ford || Ranger,test,6
+405,Ford,Ranger,Ford || Ranger,train,43
+405,Ford,Ranger,Ford || Ranger,val,6
+406,Ford,S-MAX,Ford || S-MAX,test,10
+406,Ford,S-MAX,Ford || S-MAX,train,78
+406,Ford,S-MAX,Ford || S-MAX,val,10
+407,Ford,Super Duty,Ford || Super Duty,test,11
+407,Ford,Super Duty,Ford || Super Duty,train,86
+407,Ford,Super Duty,Ford || Super Duty,val,11
+408,Ford,Territory,Ford || Territory,test,12
+408,Ford,Territory,Ford || Territory,train,96
+408,Ford,Territory,Ford || Territory,val,12
+409,Ford,Transit,Ford || Transit,test,9
+409,Ford,Transit,Ford || Transit,train,73
+409,Ford,Transit,Ford || Transit,val,9
+410,Ford,escort,Ford || escort,test,13
+410,Ford,escort,Ford || escort,train,101
+410,Ford,escort,Ford || escort,val,13
+411,Fuqiqiteng,Qiteng M70,Fuqiqiteng || Qiteng M70,test,12
+411,Fuqiqiteng,Qiteng M70,Fuqiqiteng || Qiteng M70,train,96
+411,Fuqiqiteng,Qiteng M70,Fuqiqiteng || Qiteng M70,val,12
+412,Futian,Fengjing G7,Futian || Fengjing G7,test,8
+412,Futian,Fengjing G7,Futian || Fengjing G7,train,62
+412,Futian,Fengjing G7,Futian || Fengjing G7,val,8
+413,Futian,Fukuda,Futian || Fukuda,test,6
+413,Futian,Fukuda,Futian || Fukuda,train,47
+413,Futian,Fukuda,Futian || Fukuda,val,6
+414,Futian,Mengpaike E,Futian || Mengpaike E,test,12
+414,Futian,Mengpaike E,Futian || Mengpaike E,train,95
+414,Futian,Mengpaike E,Futian || Mengpaike E,val,12
+415,Futian,Mengpaike S,Futian || Mengpaike S,test,7
+415,Futian,Mengpaike S,Futian || Mengpaike S,train,57
+415,Futian,Mengpaike S,Futian || Mengpaike S,val,7
+416,Futian,Midi,Futian || Midi,test,11
+416,Futian,Midi,Futian || Midi,train,89
+416,Futian,Midi,Futian || Midi,val,11
+417,Futian,Tunland,Futian || Tunland,test,8
+417,Futian,Tunland,Futian || Tunland,train,69
+417,Futian,Tunland,Futian || Tunland,val,8
+418,GAC,Caiyun 300,GAC || Caiyun 300,test,5
+418,GAC,Caiyun 300,GAC || Caiyun 300,train,42
+418,GAC,Caiyun 300,GAC || Caiyun 300,val,5
+419,GAC,E Mei,GAC || E Mei,test,5
+419,GAC,E Mei,GAC || E Mei,train,43
+419,GAC,E Mei,GAC || E Mei,val,5
+420,GAC,GP150,GAC || GP150,test,7
+420,GAC,GP150,GAC || GP150,train,58
+420,GAC,GP150,GAC || GP150,val,7
+421,GAC,GX6,GAC || GX6,test,10
+421,GAC,GX6,GAC || GX6,train,84
+421,GAC,GX6,GAC || GX6,val,10
+422,GAC,Saboo G5,GAC || Saboo G5,test,12
+422,GAC,Saboo G5,GAC || Saboo G5,train,95
+422,GAC,Saboo G5,GAC || Saboo G5,val,12
+423,GAC,Saboo GX5,GAC || Saboo GX5,test,12
+423,GAC,Saboo GX5,GAC || Saboo GX5,train,95
+423,GAC,Saboo GX5,GAC || Saboo GX5,val,12
+424,GAC,Xinglang,GAC || Xinglang,test,12
+424,GAC,Xinglang,GAC || Xinglang,train,96
+424,GAC,Xinglang,GAC || Xinglang,val,12
+425,GAC,Xingwang,GAC || Xingwang,test,11
+425,GAC,Xingwang,GAC || Xingwang,train,84
+425,GAC,Xingwang,GAC || Xingwang,val,11
+426,GAC,Xingwang CL,GAC || Xingwang CL,test,8
+426,GAC,Xingwang CL,GAC || Xingwang CL,train,62
+426,GAC,Xingwang CL,GAC || Xingwang CL,val,8
+427,GMC,Acadia,GMC || Acadia,test,8
+427,GMC,Acadia,GMC || Acadia,train,63
+427,GMC,Acadia,GMC || Acadia,val,8
+428,GMC,GMC CANYON,GMC || GMC CANYON,test,6
+428,GMC,GMC CANYON,GMC || GMC CANYON,train,44
+428,GMC,GMC CANYON,GMC || GMC CANYON,val,6
+429,GMC,Savana,GMC || Savana,test,12
+429,GMC,Savana,GMC || Savana,train,93
+429,GMC,Savana,GMC || Savana,val,12
+430,GMC,Sierra,GMC || Sierra,test,12
+430,GMC,Sierra,GMC || Sierra,train,96
+430,GMC,Sierra,GMC || Sierra,val,12
+431,GMC,Terrain,GMC || Terrain,test,11
+431,GMC,Terrain,GMC || Terrain,train,89
+431,GMC,Terrain,GMC || Terrain,val,11
+432,GMC,Yukon,GMC || Yukon,test,12
+432,GMC,Yukon,GMC || Yukon,train,96
+432,GMC,Yukon,GMC || Yukon,val,12
+433,Geely,Classic Imperial hatchback,Geely || Classic Imperial hatchback,test,14
+433,Geely,Classic Imperial hatchback,Geely || Classic Imperial hatchback,train,110
+433,Geely,Classic Imperial hatchback,Geely || Classic Imperial hatchback,val,14
+434,Geely,Classic Imperial sedan,Geely || Classic Imperial sedan,test,10
+434,Geely,Classic Imperial sedan,Geely || Classic Imperial sedan,train,81
+434,Geely,Classic Imperial sedan,Geely || Classic Imperial sedan,val,10
+435,Geely,Geely EC8,Geely || Geely EC8,test,12
+435,Geely,Geely EC8,Geely || Geely EC8,train,92
+435,Geely,Geely EC8,Geely || Geely EC8,val,12
+436,Geely,Geely GC7,Geely || Geely GC7,test,12
+436,Geely,Geely GC7,Geely || Geely GC7,train,94
+436,Geely,Geely GC7,Geely || Geely GC7,val,12
+437,Geely,Geely GC9,Geely || Geely GC9,test,5
+437,Geely,Geely GC9,Geely || Geely GC9,train,42
+437,Geely,Geely GC9,Geely || Geely GC9,val,5
+438,Geely,Geely GX2,Geely || Geely GX2,test,11
+438,Geely,Geely GX2,Geely || Geely GX2,train,89
+438,Geely,Geely GX2,Geely || Geely GX2,val,11
+439,Geely,Geely GX7,Geely || Geely GX7,test,12
+439,Geely,Geely GX7,Geely || Geely GX7,train,95
+439,Geely,Geely GX7,Geely || Geely GX7,val,12
+440,Geely,Geely SC3,Geely || Geely SC3,test,12
+440,Geely,Geely SC3,Geely || Geely SC3,train,101
+440,Geely,Geely SC3,Geely || Geely SC3,val,12
+441,Geely,Geely SC5-RV,Geely || Geely SC5-RV,test,10
+441,Geely,Geely SC5-RV,Geely || Geely SC5-RV,train,76
+441,Geely,Geely SC5-RV,Geely || Geely SC5-RV,val,10
+442,Geely,Geely SC7,Geely || Geely SC7,test,5
+442,Geely,Geely SC7,Geely || Geely SC7,train,43
+442,Geely,Geely SC7,Geely || Geely SC7,val,5
+443,Geely,Geely SX7,Geely || Geely SX7,test,11
+443,Geely,Geely SX7,Geely || Geely SX7,train,90
+443,Geely,Geely SX7,Geely || Geely SX7,val,11
+444,Geely,Geely TX4,Geely || Geely TX4,test,12
+444,Geely,Geely TX4,Geely || Geely TX4,train,96
+444,Geely,Geely TX4,Geely || Geely TX4,val,12
+445,Geely,Imperial hatchback,Geely || Imperial hatchback,test,6
+445,Geely,Imperial hatchback,Geely || Imperial hatchback,train,48
+445,Geely,Imperial hatchback,Geely || Imperial hatchback,val,6
+446,Geely,Jinying,Geely || Jinying,test,8
+446,Geely,Jinying,Geely || Jinying,train,62
+446,Geely,Jinying,Geely || Jinying,val,8
+447,Geely,King Kong CROSS,Geely || King Kong CROSS,test,6
+447,Geely,King Kong CROSS,Geely || King Kong CROSS,train,49
+447,Geely,King Kong CROSS,Geely || King Kong CROSS,val,6
+448,Geely,King Kong sedan,Geely || King Kong sedan,test,11
+448,Geely,King Kong sedan,Geely || King Kong sedan,train,84
+448,Geely,King Kong sedan,Geely || King Kong sedan,val,11
+449,Geely,Panda,Geely || Panda,test,12
+449,Geely,Panda,Geely || Panda,train,96
+449,Geely,Panda,Geely || Panda,val,12
+450,Geely,Vision,Geely || Vision,test,12
+450,Geely,Vision,Geely || Vision,train,96
+450,Geely,Vision,Geely || Vision,val,12
+451,Geely,Ziyoujian,Geely || Ziyoujian,test,12
+451,Geely,Ziyoujian,Geely || Ziyoujian,train,95
+451,Geely,Ziyoujian,Geely || Ziyoujian,val,12
+452,GreatWall,Great Wall C20R,GreatWall || Great Wall C20R,test,12
+452,GreatWall,Great Wall C20R,GreatWall || Great Wall C20R,train,94
+452,GreatWall,Great Wall C20R,GreatWall || Great Wall C20R,val,12
+453,GreatWall,Great Wall C30,GreatWall || Great Wall C30,test,12
+453,GreatWall,Great Wall C30,GreatWall || Great Wall C30,train,96
+453,GreatWall,Great Wall C30,GreatWall || Great Wall C30,val,12
+454,GreatWall,Great Wall C50,GreatWall || Great Wall C50,test,12
+454,GreatWall,Great Wall C50,GreatWall || Great Wall C50,train,96
+454,GreatWall,Great Wall C50,GreatWall || Great Wall C50,val,12
+455,GreatWall,Great Wall M1,GreatWall || Great Wall M1,test,9
+455,GreatWall,Great Wall M1,GreatWall || Great Wall M1,train,76
+455,GreatWall,Great Wall M1,GreatWall || Great Wall M1,val,9
+456,GreatWall,Great Wall M2,GreatWall || Great Wall M2,test,12
+456,GreatWall,Great Wall M2,GreatWall || Great Wall M2,train,96
+456,GreatWall,Great Wall M2,GreatWall || Great Wall M2,val,12
+457,GreatWall,Great Wall M4,GreatWall || Great Wall M4,test,12
+457,GreatWall,Great Wall M4,GreatWall || Great Wall M4,train,96
+457,GreatWall,Great Wall M4,GreatWall || Great Wall M4,val,12
+458,GreatWall,Great Wall V80,GreatWall || Great Wall V80,test,12
+458,GreatWall,Great Wall V80,GreatWall || Great Wall V80,train,94
+458,GreatWall,Great Wall V80,GreatWall || Great Wall V80,val,12
+459,GreatWall,Jingling,GreatWall || Jingling,test,8
+459,GreatWall,Jingling,GreatWall || Jingling,train,61
+459,GreatWall,Jingling,GreatWall || Jingling,val,8
+460,GreatWall,Kuxiong,GreatWall || Kuxiong,test,11
+460,GreatWall,Kuxiong,GreatWall || Kuxiong,train,87
+460,GreatWall,Kuxiong,GreatWall || Kuxiong,val,11
+461,GreatWall,Lingao,GreatWall || Lingao,test,11
+461,GreatWall,Lingao,GreatWall || Lingao,train,86
+461,GreatWall,Lingao,GreatWall || Lingao,val,11
+462,GreatWall,Wingle 5,GreatWall || Wingle 5,test,11
+462,GreatWall,Wingle 5,GreatWall || Wingle 5,train,91
+462,GreatWall,Wingle 5,GreatWall || Wingle 5,val,11
+463,GreatWall,Wingle 6,GreatWall || Wingle 6,test,12
+463,GreatWall,Wingle 6,GreatWall || Wingle 6,train,93
+463,GreatWall,Wingle 6,GreatWall || Wingle 6,val,12
+464,GreatWall,Xuanli,GreatWall || Xuanli,test,11
+464,GreatWall,Xuanli,GreatWall || Xuanli,train,91
+464,GreatWall,Xuanli,GreatWall || Xuanli,val,11
+465,GreatWall,Xuanli CROSS,GreatWall || Xuanli CROSS,test,12
+465,GreatWall,Xuanli CROSS,GreatWall || Xuanli CROSS,train,92
+465,GreatWall,Xuanli CROSS,GreatWall || Xuanli CROSS,val,12
+466,Guangqichuanqi,Chuanqi GA3,Guangqichuanqi || Chuanqi GA3,test,12
+466,Guangqichuanqi,Chuanqi GA3,Guangqichuanqi || Chuanqi GA3,train,96
+466,Guangqichuanqi,Chuanqi GA3,Guangqichuanqi || Chuanqi GA3,val,12
+467,Guangqichuanqi,Chuanqi GA5,Guangqichuanqi || Chuanqi GA5,test,12
+467,Guangqichuanqi,Chuanqi GA5,Guangqichuanqi || Chuanqi GA5,train,93
+467,Guangqichuanqi,Chuanqi GA5,Guangqichuanqi || Chuanqi GA5,val,12
+468,Guangqichuanqi,Chuanqi GS5,Guangqichuanqi || Chuanqi GS5,test,12
+468,Guangqichuanqi,Chuanqi GS5,Guangqichuanqi || Chuanqi GS5,train,96
+468,Guangqichuanqi,Chuanqi GS5,Guangqichuanqi || Chuanqi GS5,val,12
+469,Guangqichuanqi,Trumpchi GA3S horizon,Guangqichuanqi || Trumpchi GA3S horizon,test,13
+469,Guangqichuanqi,Trumpchi GA3S horizon,Guangqichuanqi || Trumpchi GA3S horizon,train,108
+469,Guangqichuanqi,Trumpchi GA3S horizon,Guangqichuanqi || Trumpchi GA3S horizon,val,13
+470,Hafei,Lubao,Hafei || Lubao,test,7
+470,Hafei,Lubao,Hafei || Lubao,train,54
+470,Hafei,Lubao,Hafei || Lubao,val,7
+471,Hafei,Minyi,Hafei || Minyi,test,6
+471,Hafei,Minyi,Hafei || Minyi,train,47
+471,Hafei,Minyi,Hafei || Minyi,val,6
+472,Hafei,Saima,Hafei || Saima,test,6
+472,Hafei,Saima,Hafei || Saima,train,43
+472,Hafei,Saima,Hafei || Saima,val,6
+473,Haige,Haige H5C,Haige || Haige H5C,test,12
+473,Haige,Haige H5C,Haige || Haige H5C,train,95
+473,Haige,Haige H5C,Haige || Haige H5C,val,12
+474,Haima,Family M5,Haima || Family M5,test,12
+474,Haima,Family M5,Haima || Family M5,train,95
+474,Haima,Family M5,Haima || Family M5,val,12
+475,Haima,Fumeilai,Haima || Fumeilai,test,12
+475,Haima,Fumeilai,Haima || Fumeilai,train,91
+475,Haima,Fumeilai,Haima || Fumeilai,val,12
+476,Haima,Haifuxing,Haima || Haifuxing,test,12
+476,Haima,Haifuxing,Haima || Haifuxing,train,96
+476,Haima,Haifuxing,Haima || Haifuxing,val,12
+477,Haima,Haima 3,Haima || Haima 3,test,6
+477,Haima,Haima 3,Haima || Haima 3,train,51
+477,Haima,Haima 3,Haima || Haima 3,val,6
+478,Haima,Haima M3,Haima || Haima M3,test,11
+478,Haima,Haima M3,Haima || Haima M3,train,92
+478,Haima,Haima M3,Haima || Haima M3,val,11
+479,Haima,Haima M8,Haima || Haima M8,test,12
+479,Haima,Haima M8,Haima || Haima M8,train,93
+479,Haima,Haima M8,Haima || Haima M8,val,12
+480,Haima,Haima S5,Haima || Haima S5,test,12
+480,Haima,Haima S5,Haima || Haima S5,train,96
+480,Haima,Haima S5,Haima || Haima S5,val,12
+481,Haima,Haima S7,Haima || Haima S7,test,12
+481,Haima,Haima S7,Haima || Haima S7,train,94
+481,Haima,Haima S7,Haima || Haima S7,val,12
+482,Haima,Haimaqishi,Haima || Haimaqishi,test,12
+482,Haima,Haimaqishi,Haima || Haimaqishi,train,96
+482,Haima,Haimaqishi,Haima || Haimaqishi,val,12
+483,Haima,Haydo,Haima || Haydo,test,12
+483,Haima,Haydo,Haima || Haydo,train,95
+483,Haima,Haydo,Haima || Haydo,val,12
+484,Haima,Premacy,Haima || Premacy,test,11
+484,Haima,Premacy,Haima || Premacy,train,92
+484,Haima,Premacy,Haima || Premacy,val,11
+485,Haima,Qiubite,Haima || Qiubite,test,12
+485,Haima,Qiubite,Haima || Qiubite,train,96
+485,Haima,Qiubite,Haima || Qiubite,val,12
+486,Haima(Zhengzhou),Haima Prince,Haima(Zhengzhou) || Haima Prince,test,10
+486,Haima(Zhengzhou),Haima Prince,Haima(Zhengzhou) || Haima Prince,train,85
+486,Haima(Zhengzhou),Haima Prince,Haima(Zhengzhou) || Haima Prince,val,10
+487,Haima(Zhengzhou),Haimaaishang,Haima(Zhengzhou) || Haimaaishang,test,8
+487,Haima(Zhengzhou),Haimaaishang,Haima(Zhengzhou) || Haimaaishang,train,60
+487,Haima(Zhengzhou),Haimaaishang,Haima(Zhengzhou) || Haimaaishang,val,8
+488,Haval,Haval H2,Haval || Haval H2,test,12
+488,Haval,Haval H2,Haval || Haval H2,train,95
+488,Haval,Haval H2,Haval || Haval H2,val,12
+489,Haval,Haval H3,Haval || Haval H3,test,14
+489,Haval,Haval H3,Haval || Haval H3,train,112
+489,Haval,Haval H3,Haval || Haval H3,val,14
+490,Haval,Haval H5,Haval || Haval H5,test,13
+490,Haval,Haval H5,Haval || Haval H5,train,105
+490,Haval,Haval H5,Haval || Haval H5,val,13
+491,Haval,Haval H6,Haval || Haval H6,test,12
+491,Haval,Haval H6,Haval || Haval H6,train,96
+491,Haval,Haval H6,Haval || Haval H6,val,12
+492,Haval,Haval H8,Haval || Haval H8,test,14
+492,Haval,Haval H8,Haval || Haval H8,train,115
+492,Haval,Haval H8,Haval || Haval H8,val,14
+493,Honda,Accord,Honda || Accord,test,15
+493,Honda,Accord,Honda || Accord,train,118
+493,Honda,Accord,Honda || Accord,val,15
+494,Honda,City,Honda || City,test,12
+494,Honda,City,Honda || City,train,96
+494,Honda,City,Honda || City,val,12
+495,Honda,Civic,Honda || Civic,test,16
+495,Honda,Civic,Honda || Civic,train,128
+495,Honda,Civic,Honda || Civic,val,16
+496,Honda,Crider,Honda || Crider,test,12
+496,Honda,Crider,Honda || Crider,train,94
+496,Honda,Crider,Honda || Crider,val,12
+497,Honda,Crosstour,Honda || Crosstour,test,12
+497,Honda,Crosstour,Honda || Crosstour,train,96
+497,Honda,Crosstour,Honda || Crosstour,val,12
+498,Honda,Elysion,Honda || Elysion,test,12
+498,Honda,Elysion,Honda || Elysion,train,96
+498,Honda,Elysion,Honda || Elysion,val,12
+499,Honda,Fit,Honda || Fit,test,15
+499,Honda,Fit,Honda || Fit,train,120
+499,Honda,Fit,Honda || Fit,val,15
+500,Honda,Honda CR-V,Honda || Honda CR-V,test,12
+500,Honda,Honda CR-V,Honda || Honda CR-V,train,96
+500,Honda,Honda CR-V,Honda || Honda CR-V,val,12
+501,Honda,Honda CR-Z,Honda || Honda CR-Z,test,12
+501,Honda,Honda CR-Z,Honda || Honda CR-Z,train,96
+501,Honda,Honda CR-Z,Honda || Honda CR-Z,val,12
+502,Honda,Honda FCX,Honda || Honda FCX,test,9
+502,Honda,Honda FCX,Honda || Honda FCX,train,70
+502,Honda,Honda FCX,Honda || Honda FCX,val,9
+503,Honda,Honda HR-V,Honda || Honda HR-V,test,10
+503,Honda,Honda HR-V,Honda || Honda HR-V,train,81
+503,Honda,Honda HR-V,Honda || Honda HR-V,val,10
+504,Honda,Honda Insight,Honda || Honda Insight,test,12
+504,Honda,Honda Insight,Honda || Honda Insight,train,96
+504,Honda,Honda Insight,Honda || Honda Insight,val,12
+505,Honda,Honda NSX,Honda || Honda NSX,test,9
+505,Honda,Honda NSX,Honda || Honda NSX,train,75
+505,Honda,Honda NSX,Honda || Honda NSX,val,9
+506,Honda,Honda ONE,Honda || Honda ONE,test,6
+506,Honda,Honda ONE,Honda || Honda ONE,train,44
+506,Honda,Honda ONE,Honda || Honda ONE,val,6
+507,Honda,Honda S2000,Honda || Honda S2000,test,5
+507,Honda,Honda S2000,Honda || Honda S2000,train,44
+507,Honda,Honda S2000,Honda || Honda S2000,val,5
+508,Honda,Jade,Honda || Jade,test,12
+508,Honda,Jade,Honda || Jade,train,95
+508,Honda,Jade,Honda || Jade,val,12
+509,Honda,Odyssey,Honda || Odyssey,test,12
+509,Honda,Odyssey,Honda || Odyssey,train,97
+509,Honda,Odyssey,Honda || Odyssey,val,12
+510,Honda,Spirior,Honda || Spirior,test,12
+510,Honda,Spirior,Honda || Spirior,train,93
+510,Honda,Spirior,Honda || Spirior,val,12
+511,Honda,Vezel,Honda || Vezel,test,12
+511,Honda,Vezel,Honda || Vezel,train,96
+511,Honda,Vezel,Honda || Vezel,val,12
+512,HongQi,Hong Qi H7,HongQi || Hong Qi H7,test,12
+512,HongQi,Hong Qi H7,HongQi || Hong Qi H7,train,93
+512,HongQi,Hong Qi H7,HongQi || Hong Qi H7,val,12
+513,HongQi,Hong Qi L5,HongQi || Hong Qi L5,test,6
+513,HongQi,Hong Qi L5,HongQi || Hong Qi L5,train,48
+513,HongQi,Hong Qi L5,HongQi || Hong Qi L5,val,6
+514,Huanghai,Dachaishen,Huanghai || Dachaishen,test,8
+514,Huanghai,Dachaishen,Huanghai || Dachaishen,train,59
+514,Huanghai,Dachaishen,Huanghai || Dachaishen,val,8
+515,Huanghai,Huanghai N1,Huanghai || Huanghai N1,test,6
+515,Huanghai,Huanghai N1,Huanghai || Huanghai N1,train,53
+515,Huanghai,Huanghai N1,Huanghai || Huanghai N1,val,6
+516,Huanghai,Qisheng V3,Huanghai || Qisheng V3,test,7
+516,Huanghai,Qisheng V3,Huanghai || Qisheng V3,train,54
+516,Huanghai,Qisheng V3,Huanghai || Qisheng V3,val,7
+517,Huatai,Baolige,Huatai || Baolige,test,12
+517,Huatai,Baolige,Huatai || Baolige,train,96
+517,Huatai,Baolige,Huatai || Baolige,val,12
+518,Huatai,Huatai B11,Huatai || Huatai B11,test,12
+518,Huatai,Huatai B11,Huatai || Huatai B11,train,94
+518,Huatai,Huatai B11,Huatai || Huatai B11,val,12
+519,Huatai,Lusheng E70,Huatai || Lusheng E70,test,12
+519,Huatai,Lusheng E70,Huatai || Lusheng E70,train,95
+519,Huatai,Lusheng E70,Huatai || Lusheng E70,val,12
+520,Huatai,Shengdafei,Huatai || Shengdafei,test,12
+520,Huatai,Shengdafei,Huatai || Shengdafei,train,96
+520,Huatai,Shengdafei,Huatai || Shengdafei,val,12
+521,Huatai,Tekala,Huatai || Tekala,test,11
+521,Huatai,Tekala,Huatai || Tekala,train,90
+521,Huatai,Tekala,Huatai || Tekala,val,11
+522,Huatai,Xinshengdafei,Huatai || Xinshengdafei,test,6
+522,Huatai,Xinshengdafei,Huatai || Xinshengdafei,train,52
+522,Huatai,Xinshengdafei,Huatai || Xinshengdafei,val,6
+523,Hyundai,Accent,Hyundai || Accent,test,10
+523,Hyundai,Accent,Hyundai || Accent,train,84
+523,Hyundai,Accent,Hyundai || Accent,val,10
+524,Hyundai,Accent abroad version,Hyundai || Accent abroad version,test,7
+524,Hyundai,Accent abroad version,Hyundai || Accent abroad version,train,60
+524,Hyundai,Accent abroad version,Hyundai || Accent abroad version,val,7
+525,Hyundai,Avante,Hyundai || Avante,test,12
+525,Hyundai,Avante,Hyundai || Avante,train,94
+525,Hyundai,Avante,Hyundai || Avante,val,12
+526,Hyundai,Elantra,Hyundai || Elantra,test,15
+526,Hyundai,Elantra,Hyundai || Elantra,train,116
+526,Hyundai,Elantra,Hyundai || Elantra,val,15
+527,Hyundai,Elantra Yuedong,Hyundai || Elantra Yuedong,test,12
+527,Hyundai,Elantra Yuedong,Hyundai || Elantra Yuedong,train,94
+527,Hyundai,Elantra Yuedong,Hyundai || Elantra Yuedong,val,12
+528,Hyundai,Elantra abroad version,Hyundai || Elantra abroad version,test,12
+528,Hyundai,Elantra abroad version,Hyundai || Elantra abroad version,train,96
+528,Hyundai,Elantra abroad version,Hyundai || Elantra abroad version,val,12
+529,Hyundai,Equus,Hyundai || Equus,test,12
+529,Hyundai,Equus,Hyundai || Equus,train,96
+529,Hyundai,Equus,Hyundai || Equus,val,12
+530,Hyundai,Genesis,Hyundai || Genesis,test,12
+530,Hyundai,Genesis,Hyundai || Genesis,train,95
+530,Hyundai,Genesis,Hyundai || Genesis,val,12
+531,Hyundai,Grand SantaFe,Hyundai || Grand SantaFe,test,12
+531,Hyundai,Grand SantaFe,Hyundai || Grand SantaFe,train,95
+531,Hyundai,Grand SantaFe,Hyundai || Grand SantaFe,val,12
+532,Hyundai,Grandeur,Hyundai || Grandeur,test,12
+532,Hyundai,Grandeur,Hyundai || Grandeur,train,95
+532,Hyundai,Grandeur,Hyundai || Grandeur,val,12
+533,Hyundai,Mistra,Hyundai || Mistra,test,12
+533,Hyundai,Mistra,Hyundai || Mistra,train,96
+533,Hyundai,Mistra,Hyundai || Mistra,val,12
+534,Hyundai,Moinca,Hyundai || Moinca,test,9
+534,Hyundai,Moinca,Hyundai || Moinca,train,71
+534,Hyundai,Moinca,Hyundai || Moinca,val,9
+535,Hyundai,Nuvis,Hyundai || Nuvis,test,5
+535,Hyundai,Nuvis,Hyundai || Nuvis,train,40
+535,Hyundai,Nuvis,Hyundai || Nuvis,val,5
+536,Hyundai,Rena,Hyundai || Rena,test,12
+536,Hyundai,Rena,Hyundai || Rena,train,96
+536,Hyundai,Rena,Hyundai || Rena,val,12
+537,Hyundai,Rohens,Hyundai || Rohens,test,12
+537,Hyundai,Rohens,Hyundai || Rohens,train,94
+537,Hyundai,Rohens,Hyundai || Rohens,val,12
+538,Hyundai,Rohens Coupe,Hyundai || Rohens Coupe,test,12
+538,Hyundai,Rohens Coupe,Hyundai || Rohens Coupe,train,95
+538,Hyundai,Rohens Coupe,Hyundai || Rohens Coupe,val,12
+539,Hyundai,Santafe,Hyundai || Santafe,test,13
+539,Hyundai,Santafe,Hyundai || Santafe,train,104
+539,Hyundai,Santafe,Hyundai || Santafe,val,13
+540,Hyundai,Sonata,Hyundai || Sonata,test,13
+540,Hyundai,Sonata,Hyundai || Sonata,train,106
+540,Hyundai,Sonata,Hyundai || Sonata,val,13
+541,Hyundai,Sonata 8,Hyundai || Sonata 8,test,12
+541,Hyundai,Sonata 8,Hyundai || Sonata 8,train,96
+541,Hyundai,Sonata 8,Hyundai || Sonata 8,val,12
+542,Hyundai,Sonata abroad version,Hyundai || Sonata abroad version,test,5
+542,Hyundai,Sonata abroad version,Hyundai || Sonata abroad version,train,42
+542,Hyundai,Sonata abroad version,Hyundai || Sonata abroad version,val,5
+543,Hyundai,Tucson,Hyundai || Tucson,test,12
+543,Hyundai,Tucson,Hyundai || Tucson,train,95
+543,Hyundai,Tucson,Hyundai || Tucson,val,12
+544,Hyundai,Tucson abroad vresion,Hyundai || Tucson abroad vresion,test,9
+544,Hyundai,Tucson abroad vresion,Hyundai || Tucson abroad vresion,train,76
+544,Hyundai,Tucson abroad vresion,Hyundai || Tucson abroad vresion,val,9
+545,Hyundai,Veloster,Hyundai || Veloster,test,12
+545,Hyundai,Veloster,Hyundai || Veloster,train,96
+545,Hyundai,Veloster,Hyundai || Veloster,val,12
+546,Hyundai,Veracruz,Hyundai || Veracruz,test,10
+546,Hyundai,Veracruz,Hyundai || Veracruz,train,81
+546,Hyundai,Veracruz,Hyundai || Veracruz,val,10
+547,Hyundai,Verna,Hyundai || Verna,test,12
+547,Hyundai,Verna,Hyundai || Verna,train,96
+547,Hyundai,Verna,Hyundai || Verna,val,12
+548,Hyundai,Wagon,Hyundai || Wagon,test,11
+548,Hyundai,Wagon,Hyundai || Wagon,train,86
+548,Hyundai,Wagon,Hyundai || Wagon,val,11
+549,Hyundai,i10,Hyundai || i10,test,12
+549,Hyundai,i10,Hyundai || i10,train,96
+549,Hyundai,i10,Hyundai || i10,val,12
+550,Hyundai,i20,Hyundai || i20,test,12
+550,Hyundai,i20,Hyundai || i20,train,96
+550,Hyundai,i20,Hyundai || i20,val,12
+551,Hyundai,i30,Hyundai || i30,test,8
+551,Hyundai,i30,Hyundai || i30,train,66
+551,Hyundai,i30,Hyundai || i30,val,8
+552,Hyundai,i40,Hyundai || i40,test,12
+552,Hyundai,i40,Hyundai || i40,train,96
+552,Hyundai,i40,Hyundai || i40,val,12
+553,Hyundai,ix20,Hyundai || ix20,test,6
+553,Hyundai,ix20,Hyundai || ix20,train,46
+553,Hyundai,ix20,Hyundai || ix20,val,6
+554,Hyundai,ix25,Hyundai || ix25,test,12
+554,Hyundai,ix25,Hyundai || ix25,train,95
+554,Hyundai,ix25,Hyundai || ix25,val,12
+555,Hyundai,ix35,Hyundai || ix35,test,12
+555,Hyundai,ix35,Hyundai || ix35,train,95
+555,Hyundai,ix35,Hyundai || ix35,val,12
+556,Infiniti,ESQ,Infiniti || ESQ,test,12
+556,Infiniti,ESQ,Infiniti || ESQ,train,96
+556,Infiniti,ESQ,Infiniti || ESQ,val,12
+557,Infiniti,Essence,Infiniti || Essence,test,5
+557,Infiniti,Essence,Infiniti || Essence,train,43
+557,Infiniti,Essence,Infiniti || Essence,val,5
+558,Infiniti,Infiniti G Class,Infiniti || Infiniti G Class,test,12
+558,Infiniti,Infiniti G Class,Infiniti || Infiniti G Class,train,96
+558,Infiniti,Infiniti G Class,Infiniti || Infiniti G Class,val,12
+559,Infiniti,Infiniti Q50,Infiniti || Infiniti Q50,test,12
+559,Infiniti,Infiniti Q50,Infiniti || Infiniti Q50,train,95
+559,Infiniti,Infiniti Q50,Infiniti || Infiniti Q50,val,12
+560,Infiniti,Infiniti Q50L,Infiniti || Infiniti Q50L,test,12
+560,Infiniti,Infiniti Q50L,Infiniti || Infiniti Q50L,train,96
+560,Infiniti,Infiniti Q50L,Infiniti || Infiniti Q50L,val,12
+561,Infiniti,Infiniti Q60,Infiniti || Infiniti Q60,test,12
+561,Infiniti,Infiniti Q60,Infiniti || Infiniti Q60,train,96
+561,Infiniti,Infiniti Q60,Infiniti || Infiniti Q60,val,12
+562,Infiniti,Infiniti Q70L,Infiniti || Infiniti Q70L,test,12
+562,Infiniti,Infiniti Q70L,Infiniti || Infiniti Q70L,train,96
+562,Infiniti,Infiniti Q70L,Infiniti || Infiniti Q70L,val,12
+563,Infiniti,Infiniti QX50,Infiniti || Infiniti QX50,test,11
+563,Infiniti,Infiniti QX50,Infiniti || Infiniti QX50,train,90
+563,Infiniti,Infiniti QX50,Infiniti || Infiniti QX50,val,11
+564,Infiniti,Infiniti QX60,Infiniti || Infiniti QX60,test,12
+564,Infiniti,Infiniti QX60,Infiniti || Infiniti QX60,train,96
+564,Infiniti,Infiniti QX60,Infiniti || Infiniti QX60,val,12
+565,Infiniti,Infiniti QX70,Infiniti || Infiniti QX70,test,12
+565,Infiniti,Infiniti QX70,Infiniti || Infiniti QX70,train,96
+565,Infiniti,Infiniti QX70,Infiniti || Infiniti QX70,val,12
+566,Infiniti,Infiniti QX80,Infiniti || Infiniti QX80,test,13
+566,Infiniti,Infiniti QX80,Infiniti || Infiniti QX80,train,107
+566,Infiniti,Infiniti QX80,Infiniti || Infiniti QX80,val,13
+567,Isuzu,D-MAX,Isuzu || D-MAX,test,12
+567,Isuzu,D-MAX,Isuzu || D-MAX,train,94
+567,Isuzu,D-MAX,Isuzu || D-MAX,val,12
+568,Iveco,Campagnola,Iveco || Campagnola,test,5
+568,Iveco,Campagnola,Iveco || Campagnola,train,42
+568,Iveco,Campagnola,Iveco || Campagnola,val,5
+569,Iveco,Power Daily,Iveco || Power Daily,test,5
+569,Iveco,Power Daily,Iveco || Power Daily,train,43
+569,Iveco,Power Daily,Iveco || Power Daily,val,5
+570,Jaguar,Jaguar C-X75,Jaguar || Jaguar C-X75,test,12
+570,Jaguar,Jaguar C-X75,Jaguar || Jaguar C-X75,train,96
+570,Jaguar,Jaguar C-X75,Jaguar || Jaguar C-X75,val,12
+571,Jaguar,Jaguar E-TYPE,Jaguar || Jaguar E-TYPE,test,8
+571,Jaguar,Jaguar E-TYPE,Jaguar || Jaguar E-TYPE,train,68
+571,Jaguar,Jaguar E-TYPE,Jaguar || Jaguar E-TYPE,val,8
+572,Jaguar,Jaguar F-TYPE,Jaguar || Jaguar F-TYPE,test,12
+572,Jaguar,Jaguar F-TYPE,Jaguar || Jaguar F-TYPE,train,96
+572,Jaguar,Jaguar F-TYPE,Jaguar || Jaguar F-TYPE,val,12
+573,Jaguar,Jaguar XE,Jaguar || Jaguar XE,test,12
+573,Jaguar,Jaguar XE,Jaguar || Jaguar XE,train,96
+573,Jaguar,Jaguar XE,Jaguar || Jaguar XE,val,12
+574,Jaguar,Jaguar XF,Jaguar || Jaguar XF,test,14
+574,Jaguar,Jaguar XF,Jaguar || Jaguar XF,train,113
+574,Jaguar,Jaguar XF,Jaguar || Jaguar XF,val,14
+575,Jaguar,Jaguar XJ,Jaguar || Jaguar XJ,test,12
+575,Jaguar,Jaguar XJ,Jaguar || Jaguar XJ,train,96
+575,Jaguar,Jaguar XJ,Jaguar || Jaguar XJ,val,12
+576,Jaguar,Jaguar XK,Jaguar || Jaguar XK,test,12
+576,Jaguar,Jaguar XK,Jaguar || Jaguar XK,train,96
+576,Jaguar,Jaguar XK,Jaguar || Jaguar XK,val,12
+577,Jeep,Cherokee,Jeep || Cherokee,test,12
+577,Jeep,Cherokee,Jeep || Cherokee,train,96
+577,Jeep,Cherokee,Jeep || Cherokee,val,12
+578,Jeep,Compass,Jeep || Compass,test,12
+578,Jeep,Compass,Jeep || Compass,train,101
+578,Jeep,Compass,Jeep || Compass,val,12
+579,Jeep,Grand Cherokee,Jeep || Grand Cherokee,test,12
+579,Jeep,Grand Cherokee,Jeep || Grand Cherokee,train,96
+579,Jeep,Grand Cherokee,Jeep || Grand Cherokee,val,12
+580,Jeep,Grand Cherokee SRT,Jeep || Grand Cherokee SRT,test,12
+580,Jeep,Grand Cherokee SRT,Jeep || Grand Cherokee SRT,train,96
+580,Jeep,Grand Cherokee SRT,Jeep || Grand Cherokee SRT,val,12
+581,Jeep,Patriot,Jeep || Patriot,test,12
+581,Jeep,Patriot,Jeep || Patriot,train,96
+581,Jeep,Patriot,Jeep || Patriot,val,12
+582,Jeep,Renegade,Jeep || Renegade,test,12
+582,Jeep,Renegade,Jeep || Renegade,train,95
+582,Jeep,Renegade,Jeep || Renegade,val,12
+583,Jeep,Wrangler,Jeep || Wrangler,test,16
+583,Jeep,Wrangler,Jeep || Wrangler,train,128
+583,Jeep,Wrangler,Jeep || Wrangler,val,16
+584,Jianghuai,Binyue,Jianghuai || Binyue,test,12
+584,Jianghuai,Binyue,Jianghuai || Binyue,train,94
+584,Jianghuai,Binyue,Jianghuai || Binyue,val,12
+585,Jianghuai,Heyue,Jianghuai || Heyue,test,12
+585,Jianghuai,Heyue,Jianghuai || Heyue,train,96
+585,Jianghuai,Heyue,Jianghuai || Heyue,val,12
+586,Jianghuai,Heyue A30,Jianghuai || Heyue A30,test,12
+586,Jianghuai,Heyue A30,Jianghuai || Heyue A30,train,96
+586,Jianghuai,Heyue A30,Jianghuai || Heyue A30,val,12
+587,Jianghuai,Heyue RS,Jianghuai || Heyue RS,test,13
+587,Jianghuai,Heyue RS,Jianghuai || Heyue RS,train,102
+587,Jianghuai,Heyue RS,Jianghuai || Heyue RS,val,13
+588,Jianghuai,Heyue iEV,Jianghuai || Heyue iEV,test,9
+588,Jianghuai,Heyue iEV,Jianghuai || Heyue iEV,train,73
+588,Jianghuai,Heyue iEV,Jianghuai || Heyue iEV,val,9
+589,Jianghuai,Ruifeng,Jianghuai || Ruifeng,test,12
+589,Jianghuai,Ruifeng,Jianghuai || Ruifeng,train,92
+589,Jianghuai,Ruifeng,Jianghuai || Ruifeng,val,12
+590,Jianghuai,Ruifeng M3,Jianghuai || Ruifeng M3,test,8
+590,Jianghuai,Ruifeng M3,Jianghuai || Ruifeng M3,train,69
+590,Jianghuai,Ruifeng M3,Jianghuai || Ruifeng M3,val,8
+591,Jianghuai,Ruifeng M5,Jianghuai || Ruifeng M5,test,12
+591,Jianghuai,Ruifeng M5,Jianghuai || Ruifeng M5,train,96
+591,Jianghuai,Ruifeng M5,Jianghuai || Ruifeng M5,val,12
+592,Jianghuai,Ruifeng S3,Jianghuai || Ruifeng S3,test,12
+592,Jianghuai,Ruifeng S3,Jianghuai || Ruifeng S3,train,96
+592,Jianghuai,Ruifeng S3,Jianghuai || Ruifeng S3,val,12
+593,Jianghuai,Ruifeng S5,Jianghuai || Ruifeng S5,test,12
+593,Jianghuai,Ruifeng S5,Jianghuai || Ruifeng S5,train,95
+593,Jianghuai,Ruifeng S5,Jianghuai || Ruifeng S5,val,12
+594,Jianghuai,Ruiling,Jianghuai || Ruiling,test,11
+594,Jianghuai,Ruiling,Jianghuai || Ruiling,train,86
+594,Jianghuai,Ruiling,Jianghuai || Ruiling,val,11
+595,Jianghuai,Ruiying,Jianghuai || Ruiying,test,12
+595,Jianghuai,Ruiying,Jianghuai || Ruiying,train,92
+595,Jianghuai,Ruiying,Jianghuai || Ruiying,val,12
+596,Jianghuai,Tongyue,Jianghuai || Tongyue,test,12
+596,Jianghuai,Tongyue,Jianghuai || Tongyue,train,93
+596,Jianghuai,Tongyue,Jianghuai || Tongyue,val,12
+597,Jianghuai,Tongyue RS,Jianghuai || Tongyue RS,test,9
+597,Jianghuai,Tongyue RS,Jianghuai || Tongyue RS,train,70
+597,Jianghuai,Tongyue RS,Jianghuai || Tongyue RS,val,9
+598,Jianghuai,Xingrui,Jianghuai || Xingrui,test,8
+598,Jianghuai,Xingrui,Jianghuai || Xingrui,train,68
+598,Jianghuai,Xingrui,Jianghuai || Xingrui,val,8
+599,Jianghuai,Yueyue,Jianghuai || Yueyue,test,12
+599,Jianghuai,Yueyue,Jianghuai || Yueyue,train,93
+599,Jianghuai,Yueyue,Jianghuai || Yueyue,val,12
+600,Jiangling,Yuhu,Jiangling || Yuhu,test,11
+600,Jiangling,Yuhu,Jiangling || Yuhu,train,91
+600,Jiangling,Yuhu,Jiangling || Yuhu,val,11
+601,Jinbei,Dahaishi,Jinbei || Dahaishi,test,12
+601,Jinbei,Dahaishi,Jinbei || Dahaishi,train,94
+601,Jinbei,Dahaishi,Jinbei || Dahaishi,val,12
+602,Jinbei,Geruisi,Jinbei || Geruisi,test,12
+602,Jinbei,Geruisi,Jinbei || Geruisi,train,91
+602,Jinbei,Geruisi,Jinbei || Geruisi,val,12
+603,Jinbei,Haishi,Jinbei || Haishi,test,10
+603,Jinbei,Haishi,Jinbei || Haishi,train,85
+603,Jinbei,Haishi,Jinbei || Haishi,val,10
+604,Jinbei,Jinbei S50,Jinbei || Jinbei S50,test,8
+604,Jinbei,Jinbei S50,Jinbei || Jinbei S50,train,59
+604,Jinbei,Jinbei S50,Jinbei || Jinbei S50,val,8
+605,Jinbei,New Haishi,Jinbei || New Haishi,test,8
+605,Jinbei,New Haishi,Jinbei || New Haishi,train,67
+605,Jinbei,New Haishi,Jinbei || New Haishi,val,8
+606,Jinbei,Zhishang S30,Jinbei || Zhishang S30,test,12
+606,Jinbei,Zhishang S30,Jinbei || Zhishang S30,train,96
+606,Jinbei,Zhishang S30,Jinbei || Zhishang S30,val,12
+607,Jonway,Yongyuan A380,Jonway || Yongyuan A380,test,12
+607,Jonway,Yongyuan A380,Jonway || Yongyuan A380,train,92
+607,Jonway,Yongyuan A380,Jonway || Yongyuan A380,val,12
+608,KIA,Borrego,KIA || Borrego,test,12
+608,KIA,Borrego,KIA || Borrego,train,96
+608,KIA,Borrego,KIA || Borrego,val,12
+609,KIA,Cerato,KIA || Cerato,test,11
+609,KIA,Cerato,KIA || Cerato,train,86
+609,KIA,Cerato,KIA || Cerato,val,11
+610,KIA,Forte,KIA || Forte,test,12
+610,KIA,Forte,KIA || Forte,train,96
+610,KIA,Forte,KIA || Forte,val,12
+611,KIA,KIA Ceed,KIA || KIA Ceed,test,12
+611,KIA,KIA Ceed,KIA || KIA Ceed,train,96
+611,KIA,KIA Ceed,KIA || KIA Ceed,val,12
+612,KIA,KIA Forte,KIA || KIA Forte,test,12
+612,KIA,KIA Forte,KIA || KIA Forte,train,96
+612,KIA,KIA Forte,KIA || KIA Forte,val,12
+613,KIA,KIA K2 hatchback,KIA || KIA K2 hatchback,test,7
+613,KIA,KIA K2 hatchback,KIA || KIA K2 hatchback,train,56
+613,KIA,KIA K2 hatchback,KIA || KIA K2 hatchback,val,7
+614,KIA,KIA K2 sedan,KIA || KIA K2 sedan,test,23
+614,KIA,KIA K2 sedan,KIA || KIA K2 sedan,train,183
+614,KIA,KIA K2 sedan,KIA || KIA K2 sedan,val,23
+615,KIA,KIA K3,KIA || KIA K3,test,12
+615,KIA,KIA K3,KIA || KIA K3,train,95
+615,KIA,KIA K3,KIA || KIA K3,val,12
+616,KIA,KIA K3S,KIA || KIA K3S,test,12
+616,KIA,KIA K3S,KIA || KIA K3S,train,96
+616,KIA,KIA K3S,KIA || KIA K3S,val,12
+617,KIA,KIA K4,KIA || KIA K4,test,12
+617,KIA,KIA K4,KIA || KIA K4,train,96
+617,KIA,KIA K4,KIA || KIA K4,val,12
+618,KIA,KIA K5,KIA || KIA K5,test,12
+618,KIA,KIA K5,KIA || KIA K5,train,95
+618,KIA,KIA K5,KIA || KIA K5,val,12
+619,KIA,KIA K5 hybrid,KIA || KIA K5 hybrid,test,7
+619,KIA,KIA K5 hybrid,KIA || KIA K5 hybrid,train,53
+619,KIA,KIA K5 hybrid,KIA || KIA K5 hybrid,val,7
+620,KIA,KIA K9,KIA || KIA K9,test,5
+620,KIA,KIA K9,KIA || KIA K9,train,41
+620,KIA,KIA K9,KIA || KIA K9,val,5
+621,KIA,KIA Picanto,KIA || KIA Picanto,test,12
+621,KIA,KIA Picanto,KIA || KIA Picanto,train,96
+621,KIA,KIA Picanto,KIA || KIA Picanto,val,12
+622,KIA,KIA VQ,KIA || KIA VQ,test,13
+622,KIA,KIA VQ,KIA || KIA VQ,train,107
+622,KIA,KIA VQ,KIA || KIA VQ,val,13
+623,KIA,KIA venga,KIA || KIA venga,test,12
+623,KIA,KIA venga,KIA || KIA venga,train,95
+623,KIA,KIA venga,KIA || KIA venga,val,12
+624,KIA,Kaizun,KIA || Kaizun,test,12
+624,KIA,Kaizun,KIA || Kaizun,train,96
+624,KIA,Kaizun,KIA || Kaizun,val,12
+625,KIA,New Carens,KIA || New Carens,test,11
+625,KIA,New Carens,KIA || New Carens,train,91
+625,KIA,New Carens,KIA || New Carens,val,11
+626,KIA,RIO,KIA || RIO,test,11
+626,KIA,RIO,KIA || RIO,train,90
+626,KIA,RIO,KIA || RIO,val,11
+627,KIA,SPORTAGE,KIA || SPORTAGE,test,24
+627,KIA,SPORTAGE,KIA || SPORTAGE,train,191
+627,KIA,SPORTAGE,KIA || SPORTAGE,val,24
+628,KIA,Sedona,KIA || Sedona,test,5
+628,KIA,Sedona,KIA || Sedona,train,42
+628,KIA,Sedona,KIA || Sedona,val,5
+629,KIA,Shuma,KIA || Shuma,test,12
+629,KIA,Shuma,KIA || Shuma,train,94
+629,KIA,Shuma,KIA || Shuma,val,12
+630,KIA,Sorento,KIA || Sorento,test,12
+630,KIA,Sorento,KIA || Sorento,train,96
+630,KIA,Sorento,KIA || Sorento,val,12
+631,KIA,Soul,KIA || Soul,test,12
+631,KIA,Soul,KIA || Soul,train,98
+631,KIA,Soul,KIA || Soul,val,12
+632,KIA,Sportage R,KIA || Sportage R,test,12
+632,KIA,Sportage R,KIA || Sportage R,train,96
+632,KIA,Sportage R,KIA || Sportage R,val,12
+633,KTM,X-BOW,KTM || X-BOW,test,12
+633,KTM,X-BOW,KTM || X-BOW,train,96
+633,KTM,X-BOW,KTM || X-BOW,val,12
+634,Karry,Youpai,Karry || Youpai,test,5
+634,Karry,Youpai,Karry || Youpai,train,44
+634,Karry,Youpai,Karry || Youpai,val,5
+635,Karry,Youya,Karry || Youya,test,11
+635,Karry,Youya,Karry || Youya,train,85
+635,Karry,Youya,Karry || Youya,val,11
+636,Karry,Youyou,Karry || Youyou,test,11
+636,Karry,Youyou,Karry || Youyou,train,90
+636,Karry,Youyou,Karry || Youyou,val,11
+637,Koenigsegg,Koenigsegg Agera,Koenigsegg || Koenigsegg Agera,test,12
+637,Koenigsegg,Koenigsegg Agera,Koenigsegg || Koenigsegg Agera,train,96
+637,Koenigsegg,Koenigsegg Agera,Koenigsegg || Koenigsegg Agera,val,12
+638,LAND-ROVER,Defender,LAND-ROVER || Defender,test,12
+638,LAND-ROVER,Defender,LAND-ROVER || Defender,train,94
+638,LAND-ROVER,Defender,LAND-ROVER || Defender,val,12
+639,LAND-ROVER,Discovery,LAND-ROVER || Discovery,test,14
+639,LAND-ROVER,Discovery,LAND-ROVER || Discovery,train,112
+639,LAND-ROVER,Discovery,LAND-ROVER || Discovery,val,14
+640,LAND-ROVER,Evoque,LAND-ROVER || Evoque,test,12
+640,LAND-ROVER,Evoque,LAND-ROVER || Evoque,train,96
+640,LAND-ROVER,Evoque,LAND-ROVER || Evoque,val,12
+641,LAND-ROVER,Freelander,LAND-ROVER || Freelander,test,14
+641,LAND-ROVER,Freelander,LAND-ROVER || Freelander,train,108
+641,LAND-ROVER,Freelander,LAND-ROVER || Freelander,val,14
+642,LAND-ROVER,Land Rover DC100,LAND-ROVER || Land Rover DC100,test,11
+642,LAND-ROVER,Land Rover DC100,LAND-ROVER || Land Rover DC100,train,91
+642,LAND-ROVER,Land Rover DC100,LAND-ROVER || Land Rover DC100,val,11
+643,LAND-ROVER,Range Rover,LAND-ROVER || Range Rover,test,12
+643,LAND-ROVER,Range Rover,LAND-ROVER || Range Rover,train,95
+643,LAND-ROVER,Range Rover,LAND-ROVER || Range Rover,val,12
+644,LAND-ROVER,Range Rover Sport,LAND-ROVER || Range Rover Sport,test,13
+644,LAND-ROVER,Range Rover Sport,LAND-ROVER || Range Rover Sport,train,100
+644,LAND-ROVER,Range Rover Sport,LAND-ROVER || Range Rover Sport,val,13
+645,Lamborghini,Aventador,Lamborghini || Aventador,test,12
+645,Lamborghini,Aventador,Lamborghini || Aventador,train,95
+645,Lamborghini,Aventador,Lamborghini || Aventador,val,12
+646,Lamborghini,Gallardo,Lamborghini || Gallardo,test,12
+646,Lamborghini,Gallardo,Lamborghini || Gallardo,train,96
+646,Lamborghini,Gallardo,Lamborghini || Gallardo,val,12
+647,Lamborghini,Huracan,Lamborghini || Huracan,test,12
+647,Lamborghini,Huracan,Lamborghini || Huracan,train,96
+647,Lamborghini,Huracan,Lamborghini || Huracan,val,12
+648,Lamborghini,Reventon,Lamborghini || Reventon,test,5
+648,Lamborghini,Reventon,Lamborghini || Reventon,train,44
+648,Lamborghini,Reventon,Lamborghini || Reventon,val,5
+649,Lamborghini,Veneno,Lamborghini || Veneno,test,12
+649,Lamborghini,Veneno,Lamborghini || Veneno,train,96
+649,Lamborghini,Veneno,Lamborghini || Veneno,val,12
+650,Lancia,Lancia Delta,Lancia || Lancia Delta,test,8
+650,Lancia,Lancia Delta,Lancia || Lancia Delta,train,68
+650,Lancia,Lancia Delta,Lancia || Lancia Delta,val,8
+651,Lancia,Lancia Flavia,Lancia || Lancia Flavia,test,8
+651,Lancia,Lancia Flavia,Lancia || Lancia Flavia,train,66
+651,Lancia,Lancia Flavia,Lancia || Lancia Flavia,val,8
+652,Lancia,Lancia Thema,Lancia || Lancia Thema,test,6
+652,Lancia,Lancia Thema,Lancia || Lancia Thema,train,46
+652,Lancia,Lancia Thema,Lancia || Lancia Thema,val,6
+653,Lancia,Lancia Ypsilon,Lancia || Lancia Ypsilon,test,11
+653,Lancia,Lancia Ypsilon,Lancia || Lancia Ypsilon,train,91
+653,Lancia,Lancia Ypsilon,Lancia || Lancia Ypsilon,val,11
+654,Lexus,Lexus CT,Lexus || Lexus CT,test,12
+654,Lexus,Lexus CT,Lexus || Lexus CT,train,96
+654,Lexus,Lexus CT,Lexus || Lexus CT,val,12
+655,Lexus,Lexus ES,Lexus || Lexus ES,test,12
+655,Lexus,Lexus ES,Lexus || Lexus ES,train,95
+655,Lexus,Lexus ES,Lexus || Lexus ES,val,12
+656,Lexus,Lexus GS,Lexus || Lexus GS,test,12
+656,Lexus,Lexus GS,Lexus || Lexus GS,train,94
+656,Lexus,Lexus GS,Lexus || Lexus GS,val,12
+657,Lexus,Lexus GS hybrid,Lexus || Lexus GS hybrid,test,12
+657,Lexus,Lexus GS hybrid,Lexus || Lexus GS hybrid,train,96
+657,Lexus,Lexus GS hybrid,Lexus || Lexus GS hybrid,val,12
+658,Lexus,Lexus GX,Lexus || Lexus GX,test,12
+658,Lexus,Lexus GX,Lexus || Lexus GX,train,96
+658,Lexus,Lexus GX,Lexus || Lexus GX,val,12
+659,Lexus,Lexus HS,Lexus || Lexus HS,test,12
+659,Lexus,Lexus HS,Lexus || Lexus HS,train,96
+659,Lexus,Lexus HS,Lexus || Lexus HS,val,12
+660,Lexus,Lexus IS,Lexus || Lexus IS,test,12
+660,Lexus,Lexus IS,Lexus || Lexus IS,train,96
+660,Lexus,Lexus IS,Lexus || Lexus IS,val,12
+661,Lexus,Lexus IS convertible,Lexus || Lexus IS convertible,test,8
+661,Lexus,Lexus IS convertible,Lexus || Lexus IS convertible,train,60
+661,Lexus,Lexus IS convertible,Lexus || Lexus IS convertible,val,8
+662,Lexus,Lexus LF-A,Lexus || Lexus LF-A,test,12
+662,Lexus,Lexus LF-A,Lexus || Lexus LF-A,train,96
+662,Lexus,Lexus LF-A,Lexus || Lexus LF-A,val,12
+663,Lexus,Lexus LF-CC,Lexus || Lexus LF-CC,test,5
+663,Lexus,Lexus LF-CC,Lexus || Lexus LF-CC,train,41
+663,Lexus,Lexus LF-CC,Lexus || Lexus LF-CC,val,5
+664,Lexus,Lexus LF-Gh,Lexus || Lexus LF-Gh,test,6
+664,Lexus,Lexus LF-Gh,Lexus || Lexus LF-Gh,train,49
+664,Lexus,Lexus LF-Gh,Lexus || Lexus LF-Gh,val,6
+665,Lexus,Lexus LF-LC,Lexus || Lexus LF-LC,test,7
+665,Lexus,Lexus LF-LC,Lexus || Lexus LF-LC,train,55
+665,Lexus,Lexus LF-LC,Lexus || Lexus LF-LC,val,7
+666,Lexus,Lexus LF-NX,Lexus || Lexus LF-NX,test,5
+666,Lexus,Lexus LF-NX,Lexus || Lexus LF-NX,train,43
+666,Lexus,Lexus LF-NX,Lexus || Lexus LF-NX,val,5
+667,Lexus,Lexus LS,Lexus || Lexus LS,test,12
+667,Lexus,Lexus LS,Lexus || Lexus LS,train,96
+667,Lexus,Lexus LS,Lexus || Lexus LS,val,12
+668,Lexus,Lexus LX,Lexus || Lexus LX,test,12
+668,Lexus,Lexus LX,Lexus || Lexus LX,train,95
+668,Lexus,Lexus LX,Lexus || Lexus LX,val,12
+669,Lexus,Lexus NX,Lexus || Lexus NX,test,12
+669,Lexus,Lexus NX,Lexus || Lexus NX,train,96
+669,Lexus,Lexus NX,Lexus || Lexus NX,val,12
+670,Lexus,Lexus RC,Lexus || Lexus RC,test,12
+670,Lexus,Lexus RC,Lexus || Lexus RC,train,96
+670,Lexus,Lexus RC,Lexus || Lexus RC,val,12
+671,Lexus,Lexus RX,Lexus || Lexus RX,test,12
+671,Lexus,Lexus RX,Lexus || Lexus RX,train,100
+671,Lexus,Lexus RX,Lexus || Lexus RX,val,12
+672,Lifan,Fengshun,Lifan || Fengshun,test,6
+672,Lifan,Fengshun,Lifan || Fengshun,train,43
+672,Lifan,Fengshun,Lifan || Fengshun,val,6
+673,Lifan,Lifan 320,Lifan || Lifan 320,test,12
+673,Lifan,Lifan 320,Lifan || Lifan 320,train,95
+673,Lifan,Lifan 320,Lifan || Lifan 320,val,12
+674,Lifan,Lifan 330,Lifan || Lifan 330,test,12
+674,Lifan,Lifan 330,Lifan || Lifan 330,train,96
+674,Lifan,Lifan 330,Lifan || Lifan 330,val,12
+675,Lifan,Lifan 520,Lifan || Lifan 520,test,12
+675,Lifan,Lifan 520,Lifan || Lifan 520,train,96
+675,Lifan,Lifan 520,Lifan || Lifan 520,val,12
+676,Lifan,Lifan 521i,Lifan || Lifan 521i,test,7
+676,Lifan,Lifan 521i,Lifan || Lifan 521i,train,53
+676,Lifan,Lifan 521i,Lifan || Lifan 521i,val,7
+677,Lifan,Lifan 530,Lifan || Lifan 530,test,12
+677,Lifan,Lifan 530,Lifan || Lifan 530,train,95
+677,Lifan,Lifan 530,Lifan || Lifan 530,val,12
+678,Lifan,Lifan 620,Lifan || Lifan 620,test,12
+678,Lifan,Lifan 620,Lifan || Lifan 620,train,94
+678,Lifan,Lifan 620,Lifan || Lifan 620,val,12
+679,Lifan,Lifan 630,Lifan || Lifan 630,test,10
+679,Lifan,Lifan 630,Lifan || Lifan 630,train,83
+679,Lifan,Lifan 630,Lifan || Lifan 630,val,10
+680,Lifan,Lifan 720,Lifan || Lifan 720,test,12
+680,Lifan,Lifan 720,Lifan || Lifan 720,train,95
+680,Lifan,Lifan 720,Lifan || Lifan 720,val,12
+681,Lifan,Lifan X50,Lifan || Lifan X50,test,9
+681,Lifan,Lifan X50,Lifan || Lifan X50,train,72
+681,Lifan,Lifan X50,Lifan || Lifan X50,val,9
+682,Lifan,Lifan X60,Lifan || Lifan X60,test,12
+682,Lifan,Lifan X60,Lifan || Lifan X60,train,96
+682,Lifan,Lifan X60,Lifan || Lifan X60,val,12
+683,Lincoln,Lincoln MKC,Lincoln || Lincoln MKC,test,12
+683,Lincoln,Lincoln MKC,Lincoln || Lincoln MKC,train,95
+683,Lincoln,Lincoln MKC,Lincoln || Lincoln MKC,val,12
+684,Lincoln,Lincoln MKS,Lincoln || Lincoln MKS,test,12
+684,Lincoln,Lincoln MKS,Lincoln || Lincoln MKS,train,96
+684,Lincoln,Lincoln MKS,Lincoln || Lincoln MKS,val,12
+685,Lincoln,Lincoln MKT,Lincoln || Lincoln MKT,test,12
+685,Lincoln,Lincoln MKT,Lincoln || Lincoln MKT,train,96
+685,Lincoln,Lincoln MKT,Lincoln || Lincoln MKT,val,12
+686,Lincoln,Lincoln MKX,Lincoln || Lincoln MKX,test,12
+686,Lincoln,Lincoln MKX,Lincoln || Lincoln MKX,train,96
+686,Lincoln,Lincoln MKX,Lincoln || Lincoln MKX,val,12
+687,Lincoln,Lincoln MKZ,Lincoln || Lincoln MKZ,test,12
+687,Lincoln,Lincoln MKZ,Lincoln || Lincoln MKZ,train,96
+687,Lincoln,Lincoln MKZ,Lincoln || Lincoln MKZ,val,12
+688,Lincoln,Navigator,Lincoln || Navigator,test,12
+688,Lincoln,Navigator,Lincoln || Navigator,train,95
+688,Lincoln,Navigator,Lincoln || Navigator,val,12
+689,Lorinser,Lorinser G Class,Lorinser || Lorinser G Class,test,6
+689,Lorinser,Lorinser G Class,Lorinser || Lorinser G Class,train,51
+689,Lorinser,Lorinser G Class,Lorinser || Lorinser G Class,val,6
+690,Lorinser,Lorinser S Class,Lorinser || Lorinser S Class,test,5
+690,Lorinser,Lorinser S Class,Lorinser || Lorinser S Class,train,44
+690,Lorinser,Lorinser S Class,Lorinser || Lorinser S Class,val,5
+691,Lotus,Elise,Lotus || Elise,test,12
+691,Lotus,Elise,Lotus || Elise,train,96
+691,Lotus,Elise,Lotus || Elise,val,12
+692,Lotus,Evora,Lotus || Evora,test,12
+692,Lotus,Evora,Lotus || Evora,train,96
+692,Lotus,Evora,Lotus || Evora,val,12
+693,Lotus,Exige,Lotus || Exige,test,12
+693,Lotus,Exige,Lotus || Exige,train,96
+693,Lotus,Exige,Lotus || Exige,val,12
+694,Lotus,Lotus L5,Lotus || Lotus L5,test,12
+694,Lotus,Lotus L5,Lotus || Lotus L5,train,91
+694,Lotus,Lotus L5,Lotus || Lotus L5,val,12
+695,Lufeng,Landwind X5,Lufeng || Landwind X5,test,12
+695,Lufeng,Landwind X5,Lufeng || Landwind X5,train,95
+695,Lufeng,Landwind X5,Lufeng || Landwind X5,val,12
+696,Lufeng,Landwind X8,Lufeng || Landwind X8,test,12
+696,Lufeng,Landwind X8,Lufeng || Landwind X8,train,95
+696,Lufeng,Landwind X8,Lufeng || Landwind X8,val,12
+697,Luxgen,7 MPV,Luxgen || 7 MPV,test,10
+697,Luxgen,7 MPV,Luxgen || 7 MPV,train,83
+697,Luxgen,7 MPV,Luxgen || 7 MPV,val,10
+698,Luxgen,7 SUV,Luxgen || 7 SUV,test,12
+698,Luxgen,7 SUV,Luxgen || 7 SUV,train,96
+698,Luxgen,7 SUV,Luxgen || 7 SUV,val,12
+699,Luxgen,Luxgen 5 Sedan,Luxgen || Luxgen 5 Sedan,test,12
+699,Luxgen,Luxgen 5 Sedan,Luxgen || Luxgen 5 Sedan,train,96
+699,Luxgen,Luxgen 5 Sedan,Luxgen || Luxgen 5 Sedan,val,12
+700,Luxgen,MASTER CEO,Luxgen || MASTER CEO,test,11
+700,Luxgen,MASTER CEO,Luxgen || MASTER CEO,train,90
+700,Luxgen,MASTER CEO,Luxgen || MASTER CEO,val,11
+701,Luxgen,You 6 SUV,Luxgen || You 6 SUV,test,12
+701,Luxgen,You 6 SUV,Luxgen || You 6 SUV,train,96
+701,Luxgen,You 6 SUV,Luxgen || You 6 SUV,val,12
+702,MAZDA,ATENZA,MAZDA || ATENZA,test,24
+702,MAZDA,ATENZA,MAZDA || ATENZA,train,191
+702,MAZDA,ATENZA,MAZDA || ATENZA,val,24
+703,MAZDA,Axela hatchback,MAZDA || Axela hatchback,test,7
+703,MAZDA,Axela hatchback,MAZDA || Axela hatchback,train,55
+703,MAZDA,Axela hatchback,MAZDA || Axela hatchback,val,7
+704,MAZDA,Axela sedan,MAZDA || Axela sedan,test,13
+704,MAZDA,Axela sedan,MAZDA || Axela sedan,train,100
+704,MAZDA,Axela sedan,MAZDA || Axela sedan,val,13
+705,MAZDA,Hazumi,MAZDA || Hazumi,test,6
+705,MAZDA,Hazumi,MAZDA || Hazumi,train,49
+705,MAZDA,Hazumi,MAZDA || Hazumi,val,6
+706,MAZDA,Mazda 2,MAZDA || Mazda 2,test,12
+706,MAZDA,Mazda 2,MAZDA || Mazda 2,train,93
+706,MAZDA,Mazda 2,MAZDA || Mazda 2,val,12
+707,MAZDA,Mazda 3,MAZDA || Mazda 3,test,12
+707,MAZDA,Mazda 3,MAZDA || Mazda 3,train,96
+707,MAZDA,Mazda 3,MAZDA || Mazda 3,val,12
+708,MAZDA,Mazda 3 Xingcheng hatchback,MAZDA || Mazda 3 Xingcheng hatchback,test,10
+708,MAZDA,Mazda 3 Xingcheng hatchback,MAZDA || Mazda 3 Xingcheng hatchback,train,80
+708,MAZDA,Mazda 3 Xingcheng hatchback,MAZDA || Mazda 3 Xingcheng hatchback,val,10
+709,MAZDA,Mazda 3 Xingcheng sedan,MAZDA || Mazda 3 Xingcheng sedan,test,7
+709,MAZDA,Mazda 3 Xingcheng sedan,MAZDA || Mazda 3 Xingcheng sedan,train,52
+709,MAZDA,Mazda 3 Xingcheng sedan,MAZDA || Mazda 3 Xingcheng sedan,val,7
+710,MAZDA,Mazda 3 abroad version,MAZDA || Mazda 3 abroad version,test,12
+710,MAZDA,Mazda 3 abroad version,MAZDA || Mazda 3 abroad version,train,96
+710,MAZDA,Mazda 3 abroad version,MAZDA || Mazda 3 abroad version,val,12
+711,MAZDA,Mazda 5,MAZDA || Mazda 5,test,12
+711,MAZDA,Mazda 5,MAZDA || Mazda 5,train,96
+711,MAZDA,Mazda 5,MAZDA || Mazda 5,val,12
+712,MAZDA,Mazda 6,MAZDA || Mazda 6,test,12
+712,MAZDA,Mazda 6,MAZDA || Mazda 6,train,94
+712,MAZDA,Mazda 6,MAZDA || Mazda 6,val,12
+713,MAZDA,Mazda 8,MAZDA || Mazda 8,test,12
+713,MAZDA,Mazda 8,MAZDA || Mazda 8,train,93
+713,MAZDA,Mazda 8,MAZDA || Mazda 8,val,12
+714,MAZDA,Mazda CX-5,MAZDA || Mazda CX-5,test,12
+714,MAZDA,Mazda CX-5,MAZDA || Mazda CX-5,train,96
+714,MAZDA,Mazda CX-5,MAZDA || Mazda CX-5,val,12
+715,MAZDA,Mazda CX-9,MAZDA || Mazda CX-9,test,12
+715,MAZDA,Mazda CX-9,MAZDA || Mazda CX-9,train,96
+715,MAZDA,Mazda CX-9,MAZDA || Mazda CX-9,val,12
+716,MAZDA,Mazda CX7,MAZDA || Mazda CX7,test,12
+716,MAZDA,Mazda CX7,MAZDA || Mazda CX7,train,96
+716,MAZDA,Mazda CX7,MAZDA || Mazda CX7,val,12
+717,MAZDA,Mazda MX-5,MAZDA || Mazda MX-5,test,12
+717,MAZDA,Mazda MX-5,MAZDA || Mazda MX-5,train,95
+717,MAZDA,Mazda MX-5,MAZDA || Mazda MX-5,val,12
+718,MAZDA,Ruiyi,MAZDA || Ruiyi,test,12
+718,MAZDA,Ruiyi,MAZDA || Ruiyi,train,96
+718,MAZDA,Ruiyi,MAZDA || Ruiyi,val,12
+719,MAZDA,Ruiyi coupe,MAZDA || Ruiyi coupe,test,15
+719,MAZDA,Ruiyi coupe,MAZDA || Ruiyi coupe,train,117
+719,MAZDA,Ruiyi coupe,MAZDA || Ruiyi coupe,val,15
+720,MAZDA,Takeri,MAZDA || Takeri,test,7
+720,MAZDA,Takeri,MAZDA || Takeri,train,56
+720,MAZDA,Takeri,MAZDA || Takeri,val,7
+721,MG,MG3,MG || MG3,test,12
+721,MG,MG3,MG || MG3,train,96
+721,MG,MG3,MG || MG3,val,12
+722,MG,MG3 SW,MG || MG3 SW,test,11
+722,MG,MG3 SW,MG || MG3 SW,train,85
+722,MG,MG3 SW,MG || MG3 SW,val,11
+723,MG,MG5,MG || MG5,test,12
+723,MG,MG5,MG || MG5,train,96
+723,MG,MG5,MG || MG5,val,12
+724,MG,MG6 hatchback,MG || MG6 hatchback,test,8
+724,MG,MG6 hatchback,MG || MG6 hatchback,train,68
+724,MG,MG6 hatchback,MG || MG6 hatchback,val,8
+725,MG,MG7,MG || MG7,test,12
+725,MG,MG7,MG || MG7,train,92
+725,MG,MG7,MG || MG7,val,12
+726,MINI,MINI,MINI || MINI,test,14
+726,MINI,MINI,MINI || MINI,train,114
+726,MINI,MINI,MINI || MINI,val,14
+727,MINI,MINI CABRIO,MINI || MINI CABRIO,test,12
+727,MINI,MINI CABRIO,MINI || MINI CABRIO,train,96
+727,MINI,MINI CABRIO,MINI || MINI CABRIO,val,12
+728,MINI,MINI CLUBMAN,MINI || MINI CLUBMAN,test,13
+728,MINI,MINI CLUBMAN,MINI || MINI CLUBMAN,train,106
+728,MINI,MINI CLUBMAN,MINI || MINI CLUBMAN,val,13
+729,MINI,MINI CLUBVAN,MINI || MINI CLUBVAN,test,12
+729,MINI,MINI CLUBVAN,MINI || MINI CLUBVAN,train,96
+729,MINI,MINI CLUBVAN,MINI || MINI CLUBVAN,val,12
+730,MINI,MINI COUNTRYMAN,MINI || MINI COUNTRYMAN,test,12
+730,MINI,MINI COUNTRYMAN,MINI || MINI COUNTRYMAN,train,96
+730,MINI,MINI COUNTRYMAN,MINI || MINI COUNTRYMAN,val,12
+731,MINI,MINI COUPE,MINI || MINI COUPE,test,12
+731,MINI,MINI COUPE,MINI || MINI COUPE,train,96
+731,MINI,MINI COUPE,MINI || MINI COUPE,val,12
+732,MINI,MINI JCW,MINI || MINI JCW,test,12
+732,MINI,MINI JCW,MINI || MINI JCW,train,96
+732,MINI,MINI JCW,MINI || MINI JCW,val,12
+733,MINI,MINI JCW COUNTRYMAN,MINI || MINI JCW COUNTRYMAN,test,12
+733,MINI,MINI JCW COUNTRYMAN,MINI || MINI JCW COUNTRYMAN,train,96
+733,MINI,MINI JCW COUNTRYMAN,MINI || MINI JCW COUNTRYMAN,val,12
+734,MINI,MINI JCW COUPE,MINI || MINI JCW COUPE,test,9
+734,MINI,MINI JCW COUPE,MINI || MINI JCW COUPE,train,71
+734,MINI,MINI JCW COUPE,MINI || MINI JCW COUPE,val,9
+735,MINI,MINI JCW PACEMAN,MINI || MINI JCW PACEMAN,test,12
+735,MINI,MINI JCW PACEMAN,MINI || MINI JCW PACEMAN,train,96
+735,MINI,MINI JCW PACEMAN,MINI || MINI JCW PACEMAN,val,12
+736,MINI,MINI PACEMAN,MINI || MINI PACEMAN,test,12
+736,MINI,MINI PACEMAN,MINI || MINI PACEMAN,train,96
+736,MINI,MINI PACEMAN,MINI || MINI PACEMAN,val,12
+737,MINI,MINI ROADSTER,MINI || MINI ROADSTER,test,12
+737,MINI,MINI ROADSTER,MINI || MINI ROADSTER,train,96
+737,MINI,MINI ROADSTER,MINI || MINI ROADSTER,val,12
+738,MINI,MINI Superleggera,MINI || MINI Superleggera,test,6
+738,MINI,MINI Superleggera,MINI || MINI Superleggera,train,48
+738,MINI,MINI Superleggera,MINI || MINI Superleggera,val,6
+739,Maserati,Alfieri,Maserati || Alfieri,test,8
+739,Maserati,Alfieri,Maserati || Alfieri,train,66
+739,Maserati,Alfieri,Maserati || Alfieri,val,8
+740,Maserati,Ghibli,Maserati || Ghibli,test,12
+740,Maserati,Ghibli,Maserati || Ghibli,train,96
+740,Maserati,Ghibli,Maserati || Ghibli,val,12
+741,Maserati,GranCabrio,Maserati || GranCabrio,test,12
+741,Maserati,GranCabrio,Maserati || GranCabrio,train,96
+741,Maserati,GranCabrio,Maserati || GranCabrio,val,12
+742,Maserati,Maserati GT,Maserati || Maserati GT,test,12
+742,Maserati,Maserati GT,Maserati || Maserati GT,train,92
+742,Maserati,Maserati GT,Maserati || Maserati GT,val,12
+743,Maserati,Quattroporte,Maserati || Quattroporte,test,12
+743,Maserati,Quattroporte,Maserati || Quattroporte,train,96
+743,Maserati,Quattroporte,Maserati || Quattroporte,val,12
+744,McLaren,McLaren 12C,McLaren || McLaren 12C,test,12
+744,McLaren,McLaren 12C,McLaren || McLaren 12C,train,96
+744,McLaren,McLaren 12C,McLaren || McLaren 12C,val,12
+745,McLaren,McLaren 650S,McLaren || McLaren 650S,test,12
+745,McLaren,McLaren 650S,McLaren || McLaren 650S,train,96
+745,McLaren,McLaren 650S,McLaren || McLaren 650S,val,12
+746,McLaren,McLaren P1,McLaren || McLaren P1,test,12
+746,McLaren,McLaren P1,McLaren || McLaren P1,train,96
+746,McLaren,McLaren P1,McLaren || McLaren P1,val,12
+747,Mitsubishi,ASX,Mitsubishi || ASX,test,12
+747,Mitsubishi,ASX,Mitsubishi || ASX,train,96
+747,Mitsubishi,ASX,Mitsubishi || ASX,val,12
+748,Mitsubishi,ASX abroad version,Mitsubishi || ASX abroad version,test,12
+748,Mitsubishi,ASX abroad version,Mitsubishi || ASX abroad version,train,96
+748,Mitsubishi,ASX abroad version,Mitsubishi || ASX abroad version,val,12
+749,Mitsubishi,Evo,Mitsubishi || Evo,test,8
+749,Mitsubishi,Evo,Mitsubishi || Evo,train,66
+749,Mitsubishi,Evo,Mitsubishi || Evo,val,8
+750,Mitsubishi,Grandis,Mitsubishi || Grandis,test,10
+750,Mitsubishi,Grandis,Mitsubishi || Grandis,train,75
+750,Mitsubishi,Grandis,Mitsubishi || Grandis,val,10
+751,Mitsubishi,Mirage,Mitsubishi || Mirage,test,6
+751,Mitsubishi,Mirage,Mitsubishi || Mirage,train,45
+751,Mitsubishi,Mirage,Mitsubishi || Mirage,val,6
+752,Mitsubishi,Mitsubishi Colt,Mitsubishi || Mitsubishi Colt,test,8
+752,Mitsubishi,Mitsubishi Colt,Mitsubishi || Mitsubishi Colt,train,59
+752,Mitsubishi,Mitsubishi Colt,Mitsubishi || Mitsubishi Colt,val,8
+753,Mitsubishi,Mitsubishi Fortis,Mitsubishi || Mitsubishi Fortis,test,11
+753,Mitsubishi,Mitsubishi Fortis,Mitsubishi || Mitsubishi Fortis,train,88
+753,Mitsubishi,Mitsubishi Fortis,Mitsubishi || Mitsubishi Fortis,val,11
+754,Mitsubishi,Mitsubishi Galant,Mitsubishi || Mitsubishi Galant,test,12
+754,Mitsubishi,Mitsubishi Galant,Mitsubishi || Mitsubishi Galant,train,93
+754,Mitsubishi,Mitsubishi Galant,Mitsubishi || Mitsubishi Galant,val,12
+755,Mitsubishi,Mitsubishi Lancer,Mitsubishi || Mitsubishi Lancer,test,12
+755,Mitsubishi,Mitsubishi Lancer,Mitsubishi || Mitsubishi Lancer,train,95
+755,Mitsubishi,Mitsubishi Lancer,Mitsubishi || Mitsubishi Lancer,val,12
+756,Mitsubishi,Mitsubishi Lancer EX,Mitsubishi || Mitsubishi Lancer EX,test,12
+756,Mitsubishi,Mitsubishi Lancer EX,Mitsubishi || Mitsubishi Lancer EX,train,96
+756,Mitsubishi,Mitsubishi Lancer EX,Mitsubishi || Mitsubishi Lancer EX,val,12
+757,Mitsubishi,Mitsubishi XR-PHEV,Mitsubishi || Mitsubishi XR-PHEV,test,11
+757,Mitsubishi,Mitsubishi XR-PHEV,Mitsubishi || Mitsubishi XR-PHEV,train,85
+757,Mitsubishi,Mitsubishi XR-PHEV,Mitsubishi || Mitsubishi XR-PHEV,val,11
+758,Mitsubishi,Mitsubishi Zinger,Mitsubishi || Mitsubishi Zinger,test,12
+758,Mitsubishi,Mitsubishi Zinger,Mitsubishi || Mitsubishi Zinger,train,96
+758,Mitsubishi,Mitsubishi Zinger,Mitsubishi || Mitsubishi Zinger,val,12
+759,Mitsubishi,Mitsubishi i,Mitsubishi || Mitsubishi i,test,12
+759,Mitsubishi,Mitsubishi i,Mitsubishi || Mitsubishi i,train,96
+759,Mitsubishi,Mitsubishi i,Mitsubishi || Mitsubishi i,val,12
+760,Mitsubishi,Outlander abroad version,Mitsubishi || Outlander abroad version,test,12
+760,Mitsubishi,Outlander abroad version,Mitsubishi || Outlander abroad version,train,98
+760,Mitsubishi,Outlander abroad version,Mitsubishi || Outlander abroad version,val,12
+761,Mitsubishi,Pajero,Mitsubishi || Pajero,test,16
+761,Mitsubishi,Pajero,Mitsubishi || Pajero,train,125
+761,Mitsubishi,Pajero,Mitsubishi || Pajero,val,16
+762,Mitsubishi,Pajero Sport,Mitsubishi || Pajero Sport,test,12
+762,Mitsubishi,Pajero Sport,Mitsubishi || Pajero Sport,train,96
+762,Mitsubishi,Pajero Sport,Mitsubishi || Pajero Sport,val,12
+763,Mitsuoka,Himiko,Mitsuoka || Himiko,test,7
+763,Mitsuoka,Himiko,Mitsuoka || Himiko,train,58
+763,Mitsuoka,Himiko,Mitsuoka || Himiko,val,7
+764,Mitsuoka,Orochi,Mitsuoka || Orochi,test,6
+764,Mitsuoka,Orochi,Mitsuoka || Orochi,train,44
+764,Mitsuoka,Orochi,Mitsuoka || Orochi,val,6
+765,Morgan,Morgan Plus 8,Morgan || Morgan Plus 8,test,7
+765,Morgan,Morgan Plus 8,Morgan || Morgan Plus 8,train,56
+765,Morgan,Morgan Plus 8,Morgan || Morgan Plus 8,val,7
+766,Mustang,Mustang F12,Mustang || Mustang F12,test,10
+766,Mustang,Mustang F12,Mustang || Mustang F12,train,84
+766,Mustang,Mustang F12,Mustang || Mustang F12,val,10
+767,Mustang,Mustang F16,Mustang || Mustang F16,test,5
+767,Mustang,Mustang F16,Mustang || Mustang F16,train,42
+767,Mustang,Mustang F16,Mustang || Mustang F16,val,5
+768,Mustang,Mustang F99,Mustang || Mustang F99,test,9
+768,Mustang,Mustang F99,Mustang || Mustang F99,train,73
+768,Mustang,Mustang F99,Mustang || Mustang F99,val,9
+769,Nissan,Altima,Nissan || Altima,test,12
+769,Nissan,Altima,Nissan || Altima,train,96
+769,Nissan,Altima,Nissan || Altima,val,12
+770,Nissan,Bilian,Nissan || Bilian,test,7
+770,Nissan,Bilian,Nissan || Bilian,train,60
+770,Nissan,Bilian,Nissan || Bilian,val,7
+771,Nissan,IDX,Nissan || IDX,test,7
+771,Nissan,IDX,Nissan || IDX,train,58
+771,Nissan,IDX,Nissan || IDX,val,7
+772,Nissan,Lannia Concept,Nissan || Lannia Concept,test,9
+772,Nissan,Lannia Concept,Nissan || Lannia Concept,train,76
+772,Nissan,Lannia Concept,Nissan || Lannia Concept,val,9
+773,Nissan,Leaf,Nissan || Leaf,test,11
+773,Nissan,Leaf,Nissan || Leaf,train,92
+773,Nissan,Leaf,Nissan || Leaf,val,11
+774,Nissan,Livina,Nissan || Livina,test,12
+774,Nissan,Livina,Nissan || Livina,train,93
+774,Nissan,Livina,Nissan || Livina,val,12
+775,Nissan,Ma Chi,Nissan || Ma Chi,test,12
+775,Nissan,Ma Chi,Nissan || Ma Chi,train,95
+775,Nissan,Ma Chi,Nissan || Ma Chi,val,12
+776,Nissan,Murano,Nissan || Murano,test,12
+776,Nissan,Murano,Nissan || Murano,train,96
+776,Nissan,Murano,Nissan || Murano,val,12
+777,Nissan,Navara,Nissan || Navara,test,9
+777,Nissan,Navara,Nissan || Navara,train,68
+777,Nissan,Navara,Nissan || Navara,val,9
+778,Nissan,Nissan 370Z,Nissan || Nissan 370Z,test,12
+778,Nissan,Nissan 370Z,Nissan || Nissan 370Z,train,96
+778,Nissan,Nissan 370Z,Nissan || Nissan 370Z,val,12
+779,Nissan,Nissan Cube,Nissan || Nissan Cube,test,7
+779,Nissan,Nissan Cube,Nissan || Nissan Cube,train,59
+779,Nissan,Nissan Cube,Nissan || Nissan Cube,val,7
+780,Nissan,Nissan GT-R,Nissan || Nissan GT-R,test,13
+780,Nissan,Nissan GT-R,Nissan || Nissan GT-R,train,102
+780,Nissan,Nissan GT-R,Nissan || Nissan GT-R,val,13
+781,Nissan,Nissan Juke,Nissan || Nissan Juke,test,12
+781,Nissan,Nissan Juke,Nissan || Nissan Juke,train,96
+781,Nissan,Nissan Juke,Nissan || Nissan Juke,val,12
+782,Nissan,Nissan NV200,Nissan || Nissan NV200,test,12
+782,Nissan,Nissan NV200,Nissan || Nissan NV200,train,95
+782,Nissan,Nissan NV200,Nissan || Nissan NV200,val,12
+783,Nissan,Paladin,Nissan || Paladin,test,12
+783,Nissan,Paladin,Nissan || Paladin,train,94
+783,Nissan,Paladin,Nissan || Paladin,val,12
+784,Nissan,Pathfinder,Nissan || Pathfinder,test,12
+784,Nissan,Pathfinder,Nissan || Pathfinder,train,96
+784,Nissan,Pathfinder,Nissan || Pathfinder,val,12
+785,Nissan,Patrol,Nissan || Patrol,test,12
+785,Nissan,Patrol,Nissan || Patrol,train,96
+785,Nissan,Patrol,Nissan || Patrol,val,12
+786,Nissan,Pulsar,Nissan || Pulsar,test,12
+786,Nissan,Pulsar,Nissan || Pulsar,train,96
+786,Nissan,Pulsar,Nissan || Pulsar,val,12
+787,Nissan,Qashqai,Nissan || Qashqai,test,14
+787,Nissan,Qashqai,Nissan || Qashqai,train,117
+787,Nissan,Qashqai,Nissan || Qashqai,val,14
+788,Nissan,Quest,Nissan || Quest,test,12
+788,Nissan,Quest,Nissan || Quest,train,96
+788,Nissan,Quest,Nissan || Quest,val,12
+789,Nissan,Rogue,Nissan || Rogue,test,5
+789,Nissan,Rogue,Nissan || Rogue,train,43
+789,Nissan,Rogue,Nissan || Rogue,val,5
+790,Nissan,Sentra,Nissan || Sentra,test,9
+790,Nissan,Sentra,Nissan || Sentra,train,74
+790,Nissan,Sentra,Nissan || Sentra,val,9
+791,Nissan,Sports Sedan,Nissan || Sports Sedan,test,6
+791,Nissan,Sports Sedan,Nissan || Sports Sedan,train,44
+791,Nissan,Sports Sedan,Nissan || Sports Sedan,val,6
+792,Nissan,Sunshine,Nissan || Sunshine,test,12
+792,Nissan,Sunshine,Nissan || Sunshine,train,96
+792,Nissan,Sunshine,Nissan || Sunshine,val,12
+793,Nissan,Sylphy,Nissan || Sylphy,test,11
+793,Nissan,Sylphy,Nissan || Sylphy,train,91
+793,Nissan,Sylphy,Nissan || Sylphy,val,11
+794,Nissan,Teana,Nissan || Teana,test,15
+794,Nissan,Teana,Nissan || Teana,train,123
+794,Nissan,Teana,Nissan || Teana,val,15
+795,Nissan,Tiida,Nissan || Tiida,test,12
+795,Nissan,Tiida,Nissan || Tiida,train,96
+795,Nissan,Tiida,Nissan || Tiida,val,12
+796,Nissan,Titan,Nissan || Titan,test,9
+796,Nissan,Titan,Nissan || Titan,train,72
+796,Nissan,Titan,Nissan || Titan,val,9
+797,Nissan,Versa,Nissan || Versa,test,12
+797,Nissan,Versa,Nissan || Versa,train,96
+797,Nissan,Versa,Nissan || Versa,val,12
+798,Nissan,X-Trail,Nissan || X-Trail,test,12
+798,Nissan,X-Trail,Nissan || X-Trail,train,95
+798,Nissan,X-Trail,Nissan || X-Trail,val,12
+799,Nissan,Yida,Nissan || Yida,test,10
+799,Nissan,Yida,Nissan || Yida,train,84
+799,Nissan,Yida,Nissan || Yida,val,10
+800,Oley,Oley sedan,Oley || Oley sedan,test,9
+800,Oley,Oley sedan,Oley || Oley sedan,train,75
+800,Oley,Oley sedan,Oley || Oley sedan,val,9
+801,Opel,Antara,Opel || Antara,test,12
+801,Opel,Antara,Opel || Antara,train,96
+801,Opel,Antara,Opel || Antara,val,12
+802,Opel,GTC hatchback,Opel || GTC hatchback,test,7
+802,Opel,GTC hatchback,Opel || GTC hatchback,train,58
+802,Opel,GTC hatchback,Opel || GTC hatchback,val,7
+803,Opel,Insignia,Opel || Insignia,test,12
+803,Opel,Insignia,Opel || Insignia,train,96
+803,Opel,Insignia,Opel || Insignia,val,12
+804,Opel,Meriva,Opel || Meriva,test,12
+804,Opel,Meriva,Opel || Meriva,train,95
+804,Opel,Meriva,Opel || Meriva,val,12
+805,Opel,Opel Adam,Opel || Opel Adam,test,12
+805,Opel,Opel Adam,Opel || Opel Adam,train,96
+805,Opel,Opel Adam,Opel || Opel Adam,val,12
+806,Opel,Opel CORSA,Opel || Opel CORSA,test,12
+806,Opel,Opel CORSA,Opel || Opel CORSA,train,96
+806,Opel,Opel CORSA,Opel || Opel CORSA,val,12
+807,Opel,Opel Cascada,Opel || Opel Cascada,test,12
+807,Opel,Opel Cascada,Opel || Opel Cascada,train,96
+807,Opel,Opel Cascada,Opel || Opel Cascada,val,12
+808,Opel,Opel Mokka,Opel || Opel Mokka,test,12
+808,Opel,Opel Mokka,Opel || Opel Mokka,train,96
+808,Opel,Opel Mokka,Opel || Opel Mokka,val,12
+809,Opel,Zafira,Opel || Zafira,test,12
+809,Opel,Zafira,Opel || Zafira,train,96
+809,Opel,Zafira,Opel || Zafira,val,12
+810,Pagani,Huayra,Pagani || Huayra,test,12
+810,Pagani,Huayra,Pagani || Huayra,train,96
+810,Pagani,Huayra,Pagani || Huayra,val,12
+811,Pagani,Zonda,Pagani || Zonda,test,12
+811,Pagani,Zonda,Pagani || Zonda,train,96
+811,Pagani,Zonda,Pagani || Zonda,val,12
+812,Peugeot,CROSS 307,Peugeot || CROSS 307,test,12
+812,Peugeot,CROSS 307,Peugeot || CROSS 307,train,91
+812,Peugeot,CROSS 307,Peugeot || CROSS 307,val,12
+813,Peugeot,Peugeot 107,Peugeot || Peugeot 107,test,7
+813,Peugeot,Peugeot 107,Peugeot || Peugeot 107,train,53
+813,Peugeot,Peugeot 107,Peugeot || Peugeot 107,val,7
+814,Peugeot,Peugeot 108,Peugeot || Peugeot 108,test,10
+814,Peugeot,Peugeot 108,Peugeot || Peugeot 108,train,81
+814,Peugeot,Peugeot 108,Peugeot || Peugeot 108,val,10
+815,Peugeot,Peugeot 2008,Peugeot || Peugeot 2008,test,12
+815,Peugeot,Peugeot 2008,Peugeot || Peugeot 2008,train,96
+815,Peugeot,Peugeot 2008,Peugeot || Peugeot 2008,val,12
+816,Peugeot,Peugeot 207 hatchback,Peugeot || Peugeot 207 hatchback,test,13
+816,Peugeot,Peugeot 207 hatchback,Peugeot || Peugeot 207 hatchback,train,107
+816,Peugeot,Peugeot 207 hatchback,Peugeot || Peugeot 207 hatchback,val,13
+817,Peugeot,Peugeot 207 sedan,Peugeot || Peugeot 207 sedan,test,14
+817,Peugeot,Peugeot 207 sedan,Peugeot || Peugeot 207 sedan,train,111
+817,Peugeot,Peugeot 207 sedan,Peugeot || Peugeot 207 sedan,val,14
+818,Peugeot,Peugeot 207CC,Peugeot || Peugeot 207CC,test,11
+818,Peugeot,Peugeot 207CC,Peugeot || Peugeot 207CC,train,91
+818,Peugeot,Peugeot 207CC,Peugeot || Peugeot 207CC,val,11
+819,Peugeot,Peugeot 208,Peugeot || Peugeot 208,test,12
+819,Peugeot,Peugeot 208,Peugeot || Peugeot 208,train,96
+819,Peugeot,Peugeot 208,Peugeot || Peugeot 208,val,12
+820,Peugeot,Peugeot 3008,Peugeot || Peugeot 3008,test,12
+820,Peugeot,Peugeot 3008,Peugeot || Peugeot 3008,train,95
+820,Peugeot,Peugeot 3008,Peugeot || Peugeot 3008,val,12
+821,Peugeot,Peugeot 301,Peugeot || Peugeot 301,test,12
+821,Peugeot,Peugeot 301,Peugeot || Peugeot 301,train,96
+821,Peugeot,Peugeot 301,Peugeot || Peugeot 301,val,12
+822,Peugeot,Peugeot 307 hatchback,Peugeot || Peugeot 307 hatchback,test,20
+822,Peugeot,Peugeot 307 hatchback,Peugeot || Peugeot 307 hatchback,train,155
+822,Peugeot,Peugeot 307 hatchback,Peugeot || Peugeot 307 hatchback,val,20
+823,Peugeot,Peugeot 307 sedan,Peugeot || Peugeot 307 sedan,test,8
+823,Peugeot,Peugeot 307 sedan,Peugeot || Peugeot 307 sedan,train,65
+823,Peugeot,Peugeot 307 sedan,Peugeot || Peugeot 307 sedan,val,8
+824,Peugeot,Peugeot 308,Peugeot || Peugeot 308,test,11
+824,Peugeot,Peugeot 308,Peugeot || Peugeot 308,train,84
+824,Peugeot,Peugeot 308,Peugeot || Peugeot 308,val,11
+825,Peugeot,Peugeot 308 abroad version,Peugeot || Peugeot 308 abroad version,test,12
+825,Peugeot,Peugeot 308 abroad version,Peugeot || Peugeot 308 abroad version,train,96
+825,Peugeot,Peugeot 308 abroad version,Peugeot || Peugeot 308 abroad version,val,12
+826,Peugeot,Peugeot 308CC,Peugeot || Peugeot 308CC,test,17
+826,Peugeot,Peugeot 308CC,Peugeot || Peugeot 308CC,train,136
+826,Peugeot,Peugeot 308CC,Peugeot || Peugeot 308CC,val,17
+827,Peugeot,Peugeot 308SW,Peugeot || Peugeot 308SW,test,10
+827,Peugeot,Peugeot 308SW,Peugeot || Peugeot 308SW,train,79
+827,Peugeot,Peugeot 308SW,Peugeot || Peugeot 308SW,val,10
+828,Peugeot,Peugeot 4008,Peugeot || Peugeot 4008,test,12
+828,Peugeot,Peugeot 4008,Peugeot || Peugeot 4008,train,96
+828,Peugeot,Peugeot 4008,Peugeot || Peugeot 4008,val,12
+829,Peugeot,Peugeot 408,Peugeot || Peugeot 408,test,13
+829,Peugeot,Peugeot 408,Peugeot || Peugeot 408,train,102
+829,Peugeot,Peugeot 408,Peugeot || Peugeot 408,val,13
+830,Peugeot,Peugeot 5008,Peugeot || Peugeot 5008,test,7
+830,Peugeot,Peugeot 5008,Peugeot || Peugeot 5008,train,52
+830,Peugeot,Peugeot 5008,Peugeot || Peugeot 5008,val,7
+831,Peugeot,Peugeot 508,Peugeot || Peugeot 508,test,12
+831,Peugeot,Peugeot 508,Peugeot || Peugeot 508,train,96
+831,Peugeot,Peugeot 508,Peugeot || Peugeot 508,val,12
+832,Peugeot,Peugeot 508 abroad version,Peugeot || Peugeot 508 abroad version,test,12
+832,Peugeot,Peugeot 508 abroad version,Peugeot || Peugeot 508 abroad version,train,96
+832,Peugeot,Peugeot 508 abroad version,Peugeot || Peugeot 508 abroad version,val,12
+833,Peugeot,Peugeot RCZ,Peugeot || Peugeot RCZ,test,12
+833,Peugeot,Peugeot RCZ,Peugeot || Peugeot RCZ,train,96
+833,Peugeot,Peugeot RCZ,Peugeot || Peugeot RCZ,val,12
+834,Porsche,Boxster,Porsche || Boxster,test,12
+834,Porsche,Boxster,Porsche || Boxster,train,96
+834,Porsche,Boxster,Porsche || Boxster,val,12
+835,Porsche,Canyenne,Porsche || Canyenne,test,12
+835,Porsche,Canyenne,Porsche || Canyenne,train,96
+835,Porsche,Canyenne,Porsche || Canyenne,val,12
+836,Porsche,Carrera GT,Porsche || Carrera GT,test,7
+836,Porsche,Carrera GT,Porsche || Carrera GT,train,54
+836,Porsche,Carrera GT,Porsche || Carrera GT,val,7
+837,Porsche,Cayman,Porsche || Cayman,test,12
+837,Porsche,Cayman,Porsche || Cayman,train,96
+837,Porsche,Cayman,Porsche || Cayman,val,12
+838,Porsche,Macan,Porsche || Macan,test,12
+838,Porsche,Macan,Porsche || Macan,train,96
+838,Porsche,Macan,Porsche || Macan,val,12
+839,Porsche,Panamera,Porsche || Panamera,test,12
+839,Porsche,Panamera,Porsche || Panamera,train,96
+839,Porsche,Panamera,Porsche || Panamera,val,12
+840,Porsche,Porsche 911,Porsche || Porsche 911,test,13
+840,Porsche,Porsche 911,Porsche || Porsche 911,train,106
+840,Porsche,Porsche 911,Porsche || Porsche 911,val,13
+841,Porsche,Porsche 918,Porsche || Porsche 918,test,12
+841,Porsche,Porsche 918,Porsche || Porsche 918,train,96
+841,Porsche,Porsche 918,Porsche || Porsche 918,val,12
+842,Porsche,Porsche 919,Porsche || Porsche 919,test,6
+842,Porsche,Porsche 919,Porsche || Porsche 919,train,48
+842,Porsche,Porsche 919,Porsche || Porsche 919,val,6
+843,Renault,Cleo,Renault || Cleo,test,9
+843,Renault,Cleo,Renault || Cleo,train,73
+843,Renault,Cleo,Renault || Cleo,val,9
+844,Renault,Koleos,Renault || Koleos,test,13
+844,Renault,Koleos,Renault || Koleos,train,104
+844,Renault,Koleos,Renault || Koleos,val,13
+845,Renault,Laguna,Renault || Laguna,test,12
+845,Renault,Laguna,Renault || Laguna,train,96
+845,Renault,Laguna,Renault || Laguna,val,12
+846,Renault,Latitude,Renault || Latitude,test,12
+846,Renault,Latitude,Renault || Latitude,train,96
+846,Renault,Latitude,Renault || Latitude,val,12
+847,Renault,Megan Aa,Renault || Megan Aa,test,12
+847,Renault,Megan Aa,Renault || Megan Aa,train,96
+847,Renault,Megan Aa,Renault || Megan Aa,val,12
+848,Renault,Reno Alpine,Renault || Reno Alpine,test,10
+848,Renault,Reno Alpine,Renault || Reno Alpine,train,85
+848,Renault,Reno Alpine,Renault || Reno Alpine,val,10
+849,Renault,Reno Captur,Renault || Reno Captur,test,12
+849,Renault,Reno Captur,Renault || Reno Captur,train,96
+849,Renault,Reno Captur,Renault || Reno Captur,val,12
+850,Renault,Reno Symbol,Renault || Reno Symbol,test,6
+850,Renault,Reno Symbol,Renault || Reno Symbol,train,44
+850,Renault,Reno Symbol,Renault || Reno Symbol,val,6
+851,Renault,Reno Twin-Run,Renault || Reno Twin-Run,test,5
+851,Renault,Reno Twin-Run,Renault || Reno Twin-Run,train,41
+851,Renault,Reno Twin-Run,Renault || Reno Twin-Run,val,5
+852,Renault,Reno Twingo,Renault || Reno Twingo,test,12
+852,Renault,Reno Twingo,Renault || Reno Twingo,train,96
+852,Renault,Reno Twingo,Renault || Reno Twingo,val,12
+853,Renault,Reno Twizy,Renault || Reno Twizy,test,6
+853,Renault,Reno Twizy,Renault || Reno Twizy,train,49
+853,Renault,Reno Twizy,Renault || Reno Twizy,val,6
+854,Renault,Reno Wind,Renault || Reno Wind,test,7
+854,Renault,Reno Wind,Renault || Reno Wind,train,58
+854,Renault,Reno Wind,Renault || Reno Wind,val,7
+855,Renault,Reno ZOE,Renault || Reno ZOE,test,11
+855,Renault,Reno ZOE,Renault || Reno ZOE,train,90
+855,Renault,Reno ZOE,Renault || Reno ZOE,val,11
+856,Renault,Scenic,Renault || Scenic,test,12
+856,Renault,Scenic,Renault || Scenic,train,96
+856,Renault,Scenic,Renault || Scenic,val,12
+857,Renault,Tower Siman,Renault || Tower Siman,test,12
+857,Renault,Tower Siman,Renault || Tower Siman,train,96
+857,Renault,Tower Siman,Renault || Tower Siman,val,12
+858,Renault,Wind Lang,Renault || Wind Lang,test,12
+858,Renault,Wind Lang,Renault || Wind Lang,train,95
+858,Renault,Wind Lang,Renault || Wind Lang,val,12
+859,Roewe,Roewe 350,Roewe || Roewe 350,test,12
+859,Roewe,Roewe 350,Roewe || Roewe 350,train,96
+859,Roewe,Roewe 350,Roewe || Roewe 350,val,12
+860,Roewe,Roewe 550,Roewe || Roewe 550,test,16
+860,Roewe,Roewe 550,Roewe || Roewe 550,train,125
+860,Roewe,Roewe 550,Roewe || Roewe 550,val,16
+861,Roewe,Roewe 750,Roewe || Roewe 750,test,11
+861,Roewe,Roewe 750,Roewe || Roewe 750,train,92
+861,Roewe,Roewe 750,Roewe || Roewe 750,val,11
+862,Roewe,Roewe 950,Roewe || Roewe 950,test,12
+862,Roewe,Roewe 950,Roewe || Roewe 950,train,96
+862,Roewe,Roewe 950,Roewe || Roewe 950,val,12
+863,Roewe,Roewe E50,Roewe || Roewe E50,test,12
+863,Roewe,Roewe E50,Roewe || Roewe E50,train,96
+863,Roewe,Roewe E50,Roewe || Roewe E50,val,12
+864,Roewe,Roewe W5,Roewe || Roewe W5,test,12
+864,Roewe,Roewe W5,Roewe || Roewe W5,train,95
+864,Roewe,Roewe W5,Roewe || Roewe W5,val,12
+865,Rolls-Royce,Ghost,Rolls-Royce || Ghost,test,12
+865,Rolls-Royce,Ghost,Rolls-Royce || Ghost,train,96
+865,Rolls-Royce,Ghost,Rolls-Royce || Ghost,val,12
+866,Rolls-Royce,Phantom,Rolls-Royce || Phantom,test,12
+866,Rolls-Royce,Phantom,Rolls-Royce || Phantom,train,96
+866,Rolls-Royce,Phantom,Rolls-Royce || Phantom,val,12
+867,Rolls-Royce,Wraith,Rolls-Royce || Wraith,test,14
+867,Rolls-Royce,Wraith,Rolls-Royce || Wraith,train,117
+867,Rolls-Royce,Wraith,Rolls-Royce || Wraith,val,14
+868,Ruiqi,Riich G3,Ruiqi || Riich G3,test,12
+868,Ruiqi,Riich G3,Ruiqi || Riich G3,train,94
+868,Ruiqi,Riich G3,Ruiqi || Riich G3,val,12
+869,Ruiqi,Riich G6,Ruiqi || Riich G6,test,12
+869,Ruiqi,Riich G6,Ruiqi || Riich G6,train,101
+869,Ruiqi,Riich G6,Ruiqi || Riich G6,val,12
+870,Ruiqi,Riich M1,Ruiqi || Riich M1,test,11
+870,Ruiqi,Riich M1,Ruiqi || Riich M1,train,88
+870,Ruiqi,Riich M1,Ruiqi || Riich M1,val,11
+871,Ruiqi,Riich M5,Ruiqi || Riich M5,test,10
+871,Ruiqi,Riich M5,Ruiqi || Riich M5,train,84
+871,Ruiqi,Riich M5,Ruiqi || Riich M5,val,10
+872,Ruiqi,Ruiqi G5,Ruiqi || Ruiqi G5,test,12
+872,Ruiqi,Ruiqi G5,Ruiqi || Ruiqi G5,train,93
+872,Ruiqi,Ruiqi G5,Ruiqi || Ruiqi G5,val,12
+873,SAAB,SAAB 95,SAAB || SAAB 95,test,9
+873,SAAB,SAAB 95,SAAB || SAAB 95,train,75
+873,SAAB,SAAB 95,SAAB || SAAB 95,val,9
+874,SAAB,SAAB D50,SAAB || SAAB D50,test,12
+874,SAAB,SAAB D50,SAAB || SAAB D50,train,95
+874,SAAB,SAAB D50,SAAB || SAAB D50,val,12
+875,SAAB,SAAB D60,SAAB || SAAB D60,test,10
+875,SAAB,SAAB D60,SAAB || SAAB D60,train,85
+875,SAAB,SAAB D60,SAAB || SAAB D60,val,10
+876,SAAB,SAAB D70,SAAB || SAAB D70,test,12
+876,SAAB,SAAB D70,SAAB || SAAB D70,train,96
+876,SAAB,SAAB D70,SAAB || SAAB D70,val,12
+877,Scion,Scion FR-S,Scion || Scion FR-S,test,8
+877,Scion,Scion FR-S,Scion || Scion FR-S,train,66
+877,Scion,Scion FR-S,Scion || Scion FR-S,val,8
+878,Scion,Scion iQ,Scion || Scion iQ,test,8
+878,Scion,Scion iQ,Scion || Scion iQ,train,59
+878,Scion,Scion iQ,Scion || Scion iQ,val,8
+879,Scion,Scion tC,Scion || Scion tC,test,6
+879,Scion,Scion tC,Scion || Scion tC,train,53
+879,Scion,Scion tC,Scion || Scion tC,val,6
+880,Scion,Scion xB,Scion || Scion xB,test,6
+880,Scion,Scion xB,Scion || Scion xB,train,50
+880,Scion,Scion xB,Scion || Scion xB,val,6
+881,Scion,Scion xD,Scion || Scion xD,test,6
+881,Scion,Scion xD,Scion || Scion xD,train,44
+881,Scion,Scion xD,Scion || Scion xD,val,6
+882,Seat,Alhambra,Seat || Alhambra,test,12
+882,Seat,Alhambra,Seat || Alhambra,train,96
+882,Seat,Alhambra,Seat || Alhambra,val,12
+883,Seat,Ibiza,Seat || Ibiza,test,12
+883,Seat,Ibiza,Seat || Ibiza,train,96
+883,Seat,Ibiza,Seat || Ibiza,val,12
+884,Seat,Seat ALTEA,Seat || Seat ALTEA,test,9
+884,Seat,Seat ALTEA,Seat || Seat ALTEA,train,72
+884,Seat,Seat ALTEA,Seat || Seat ALTEA,val,9
+885,Seat,Seat EXEO,Seat || Seat EXEO,test,12
+885,Seat,Seat EXEO,Seat || Seat EXEO,train,96
+885,Seat,Seat EXEO,Seat || Seat EXEO,val,12
+886,Seat,Seat IBE,Seat || Seat IBE,test,6
+886,Seat,Seat IBE,Seat || Seat IBE,train,49
+886,Seat,Seat IBE,Seat || Seat IBE,val,6
+887,Seat,Seat LEON,Seat || Seat LEON,test,12
+887,Seat,Seat LEON,Seat || Seat LEON,train,96
+887,Seat,Seat LEON,Seat || Seat LEON,val,12
+888,Seat,Seat Mii,Seat || Seat Mii,test,12
+888,Seat,Seat Mii,Seat || Seat Mii,train,96
+888,Seat,Seat Mii,Seat || Seat Mii,val,12
+889,Shangqidatong,MAXUS G10,Shangqidatong || MAXUS G10,test,12
+889,Shangqidatong,MAXUS G10,Shangqidatong || MAXUS G10,train,94
+889,Shangqidatong,MAXUS G10,Shangqidatong || MAXUS G10,val,12
+890,Shangqidatong,MAXUS V80xs,Shangqidatong || MAXUS V80xs,test,12
+890,Shangqidatong,MAXUS V80xs,Shangqidatong || MAXUS V80xs,train,94
+890,Shangqidatong,MAXUS V80xs,Shangqidatong || MAXUS V80xs,val,12
+891,Shuanghuan,Nobel,Shuanghuan || Nobel,test,9
+891,Shuanghuan,Nobel,Shuanghuan || Nobel,train,76
+891,Shuanghuan,Nobel,Shuanghuan || Nobel,val,9
+892,Shuanghuan,Shuanghuan SCEO,Shuanghuan || Shuanghuan SCEO,test,11
+892,Shuanghuan,Shuanghuan SCEO,Shuanghuan || Shuanghuan SCEO,train,90
+892,Shuanghuan,Shuanghuan SCEO,Shuanghuan || Shuanghuan SCEO,val,11
+893,Shuanglong,Actyon,Shuanglong || Actyon,test,12
+893,Shuanglong,Actyon,Shuanglong || Actyon,train,91
+893,Shuanglong,Actyon,Shuanglong || Actyon,val,12
+894,Shuanglong,Chairman,Shuanglong || Chairman,test,10
+894,Shuanglong,Chairman,Shuanglong || Chairman,train,83
+894,Shuanglong,Chairman,Shuanglong || Chairman,val,10
+895,Shuanglong,Korando,Shuanglong || Korando,test,12
+895,Shuanglong,Korando,Shuanglong || Korando,train,96
+895,Shuanglong,Korando,Shuanglong || Korando,val,12
+896,Shuanglong,Kyron,Shuanglong || Kyron,test,12
+896,Shuanglong,Kyron,Shuanglong || Kyron,train,96
+896,Shuanglong,Kyron,Shuanglong || Kyron,val,12
+897,Shuanglong,Rexton,Shuanglong || Rexton,test,10
+897,Shuanglong,Rexton,Shuanglong || Rexton,train,85
+897,Shuanglong,Rexton,Shuanglong || Rexton,val,10
+898,Shuanglong,Rexton W,Shuanglong || Rexton W,test,14
+898,Shuanglong,Rexton W,Shuanglong || Rexton W,train,117
+898,Shuanglong,Rexton W,Shuanglong || Rexton W,val,14
+899,Shuanglong,Rodius,Shuanglong || Rodius,test,12
+899,Shuanglong,Rodius,Shuanglong || Rodius,train,96
+899,Shuanglong,Rodius,Shuanglong || Rodius,val,12
+900,Skoda,Citigo,Skoda || Citigo,test,7
+900,Skoda,Citigo,Skoda || Citigo,train,60
+900,Skoda,Citigo,Skoda || Citigo,val,7
+901,Skoda,Fabia,Skoda || Fabia,test,13
+901,Skoda,Fabia,Skoda || Fabia,train,101
+901,Skoda,Fabia,Skoda || Fabia,val,13
+902,Skoda,Haorui,Skoda || Haorui,test,12
+902,Skoda,Haorui,Skoda || Haorui,train,95
+902,Skoda,Haorui,Skoda || Haorui,val,12
+903,Skoda,Octavia,Skoda || Octavia,test,16
+903,Skoda,Octavia,Skoda || Octavia,train,129
+903,Skoda,Octavia,Skoda || Octavia,val,16
+904,Skoda,Octavia RS,Skoda || Octavia RS,test,5
+904,Skoda,Octavia RS,Skoda || Octavia RS,train,40
+904,Skoda,Octavia RS,Skoda || Octavia RS,val,5
+905,Skoda,Octavia abroad version,Skoda || Octavia abroad version,test,12
+905,Skoda,Octavia abroad version,Skoda || Octavia abroad version,train,96
+905,Skoda,Octavia abroad version,Skoda || Octavia abroad version,val,12
+906,Skoda,Rapid,Skoda || Rapid,test,12
+906,Skoda,Rapid,Skoda || Rapid,train,96
+906,Skoda,Rapid,Skoda || Rapid,val,12
+907,Skoda,Rapid Spaceback,Skoda || Rapid Spaceback,test,12
+907,Skoda,Rapid Spaceback,Skoda || Rapid Spaceback,train,96
+907,Skoda,Rapid Spaceback,Skoda || Rapid Spaceback,val,12
+908,Skoda,Roomster,Skoda || Roomster,test,6
+908,Skoda,Roomster,Skoda || Roomster,train,49
+908,Skoda,Roomster,Skoda || Roomster,val,6
+909,Skoda,Superb,Skoda || Superb,test,12
+909,Skoda,Superb,Skoda || Superb,train,96
+909,Skoda,Superb,Skoda || Superb,val,12
+910,Skoda,Superb Derivative,Skoda || Superb Derivative,test,12
+910,Skoda,Superb Derivative,Skoda || Superb Derivative,train,96
+910,Skoda,Superb Derivative,Skoda || Superb Derivative,val,12
+911,Skoda,Yeti,Skoda || Yeti,test,12
+911,Skoda,Yeti,Skoda || Yeti,train,95
+911,Skoda,Yeti,Skoda || Yeti,val,12
+912,Skoda,Yeti abroad version,Skoda || Yeti abroad version,test,12
+912,Skoda,Yeti abroad version,Skoda || Yeti abroad version,train,95
+912,Skoda,Yeti abroad version,Skoda || Yeti abroad version,val,12
+913,Spyker N.V.,Spyker C8,Spyker N.V. || Spyker C8,test,12
+913,Spyker N.V.,Spyker C8,Spyker N.V. || Spyker C8,train,93
+913,Spyker N.V.,Spyker C8,Spyker N.V. || Spyker C8,val,12
+914,Subaru,Forester,Subaru || Forester,test,12
+914,Subaru,Forester,Subaru || Forester,train,96
+914,Subaru,Forester,Subaru || Forester,val,12
+915,Subaru,Impreza hatchback,Subaru || Impreza hatchback,test,9
+915,Subaru,Impreza hatchback,Subaru || Impreza hatchback,train,74
+915,Subaru,Impreza hatchback,Subaru || Impreza hatchback,val,9
+916,Subaru,Impreza sedan,Subaru || Impreza sedan,test,8
+916,Subaru,Impreza sedan,Subaru || Impreza sedan,train,66
+916,Subaru,Impreza sedan,Subaru || Impreza sedan,val,8
+917,Subaru,Legacy,Subaru || Legacy,test,12
+917,Subaru,Legacy,Subaru || Legacy,train,96
+917,Subaru,Legacy,Subaru || Legacy,val,12
+918,Subaru,Outback,Subaru || Outback,test,14
+918,Subaru,Outback,Subaru || Outback,train,108
+918,Subaru,Outback,Subaru || Outback,val,14
+919,Subaru,Subaru BRZ,Subaru || Subaru BRZ,test,12
+919,Subaru,Subaru BRZ,Subaru || Subaru BRZ,train,96
+919,Subaru,Subaru BRZ,Subaru || Subaru BRZ,val,12
+920,Subaru,Subaru WRX,Subaru || Subaru WRX,test,12
+920,Subaru,Subaru WRX,Subaru || Subaru WRX,train,96
+920,Subaru,Subaru WRX,Subaru || Subaru WRX,val,12
+921,Subaru,Subaru XV,Subaru || Subaru XV,test,12
+921,Subaru,Subaru XV,Subaru || Subaru XV,train,92
+921,Subaru,Subaru XV,Subaru || Subaru XV,val,12
+922,Subaru,Tribeca,Subaru || Tribeca,test,14
+922,Subaru,Tribeca,Subaru || Tribeca,train,112
+922,Subaru,Tribeca,Subaru || Tribeca,val,14
+923,Subaru,Viziv,Subaru || Viziv,test,6
+923,Subaru,Viziv,Subaru || Viziv,train,43
+923,Subaru,Viziv,Subaru || Viziv,val,6
+924,Suzuki,Alivio,Suzuki || Alivio,test,12
+924,Suzuki,Alivio,Suzuki || Alivio,train,96
+924,Suzuki,Alivio,Suzuki || Alivio,val,12
+925,Suzuki,Alto,Suzuki || Alto,test,12
+925,Suzuki,Alto,Suzuki || Alto,train,96
+925,Suzuki,Alto,Suzuki || Alto,val,12
+926,Suzuki,Bei Douxing,Suzuki || Bei Douxing,test,12
+926,Suzuki,Bei Douxing,Suzuki || Bei Douxing,train,93
+926,Suzuki,Bei Douxing,Suzuki || Bei Douxing,val,12
+927,Suzuki,Cultus,Suzuki || Cultus,test,12
+927,Suzuki,Cultus,Suzuki || Cultus,train,95
+927,Suzuki,Cultus,Suzuki || Cultus,val,12
+928,Suzuki,Fengyu,Suzuki || Fengyu,test,12
+928,Suzuki,Fengyu,Suzuki || Fengyu,train,96
+928,Suzuki,Fengyu,Suzuki || Fengyu,val,12
+929,Suzuki,Grand Vitara,Suzuki || Grand Vitara,test,12
+929,Suzuki,Grand Vitara,Suzuki || Grand Vitara,train,92
+929,Suzuki,Grand Vitara,Suzuki || Grand Vitara,val,12
+930,Suzuki,Jimny,Suzuki || Jimny,test,12
+930,Suzuki,Jimny,Suzuki || Jimny,train,93
+930,Suzuki,Jimny,Suzuki || Jimny,val,12
+931,Suzuki,Kazishi,Suzuki || Kazishi,test,12
+931,Suzuki,Kazishi,Suzuki || Kazishi,train,95
+931,Suzuki,Kazishi,Suzuki || Kazishi,val,12
+932,Suzuki,Landy,Suzuki || Landy,test,10
+932,Suzuki,Landy,Suzuki || Landy,train,76
+932,Suzuki,Landy,Suzuki || Landy,val,10
+933,Suzuki,Liana hatchback,Suzuki || Liana hatchback,test,6
+933,Suzuki,Liana hatchback,Suzuki || Liana hatchback,train,52
+933,Suzuki,Liana hatchback,Suzuki || Liana hatchback,val,6
+934,Suzuki,Splash,Suzuki || Splash,test,12
+934,Suzuki,Splash,Suzuki || Splash,train,95
+934,Suzuki,Splash,Suzuki || Splash,val,12
+935,Suzuki,Swift,Suzuki || Swift,test,12
+935,Suzuki,Swift,Suzuki || Swift,train,96
+935,Suzuki,Swift,Suzuki || Swift,val,12
+936,Suzuki,Tianyu SX4 hatchback,Suzuki || Tianyu SX4 hatchback,test,12
+936,Suzuki,Tianyu SX4 hatchback,Suzuki || Tianyu SX4 hatchback,train,96
+936,Suzuki,Tianyu SX4 hatchback,Suzuki || Tianyu SX4 hatchback,val,12
+937,Suzuki,Tianyushangyue,Suzuki || Tianyushangyue,test,11
+937,Suzuki,Tianyushangyue,Suzuki || Tianyushangyue,train,87
+937,Suzuki,Tianyushangyue,Suzuki || Tianyushangyue,val,11
+938,Suzuki,Yuyan,Suzuki || Yuyan,test,12
+938,Suzuki,Yuyan,Suzuki || Yuyan,train,95
+938,Suzuki,Yuyan,Suzuki || Yuyan,val,12
+939,TESLA,MODEL S,TESLA || MODEL S,test,12
+939,TESLA,MODEL S,TESLA || MODEL S,train,96
+939,TESLA,MODEL S,TESLA || MODEL S,val,12
+940,TESLA,TESLA Roadster,TESLA || TESLA Roadster,test,12
+940,TESLA,TESLA Roadster,TESLA || TESLA Roadster,train,96
+940,TESLA,TESLA Roadster,TESLA || TESLA Roadster,val,12
+941,Toyota,Alphard,Toyota || Alphard,test,12
+941,Toyota,Alphard,Toyota || Alphard,train,96
+941,Toyota,Alphard,Toyota || Alphard,val,12
+942,Toyota,Avensis,Toyota || Avensis,test,12
+942,Toyota,Avensis,Toyota || Avensis,train,96
+942,Toyota,Avensis,Toyota || Avensis,val,12
+943,Toyota,Camry,Toyota || Camry,test,20
+943,Toyota,Camry,Toyota || Camry,train,156
+943,Toyota,Camry,Toyota || Camry,val,20
+944,Toyota,Corolla,Toyota || Corolla,test,16
+944,Toyota,Corolla,Toyota || Corolla,train,126
+944,Toyota,Corolla,Toyota || Corolla,val,16
+945,Toyota,Crown,Toyota || Crown,test,12
+945,Toyota,Crown,Toyota || Crown,train,95
+945,Toyota,Crown,Toyota || Crown,val,12
+946,Toyota,EZ,Toyota || EZ,test,12
+946,Toyota,EZ,Toyota || EZ,train,93
+946,Toyota,EZ,Toyota || EZ,val,12
+947,Toyota,FJ Cruiser,Toyota || FJ Cruiser,test,12
+947,Toyota,FJ Cruiser,Toyota || FJ Cruiser,train,96
+947,Toyota,FJ Cruiser,Toyota || FJ Cruiser,val,12
+948,Toyota,Highlander,Toyota || Highlander,test,12
+948,Toyota,Highlander,Toyota || Highlander,train,96
+948,Toyota,Highlander,Toyota || Highlander,val,12
+949,Toyota,Highlander abroad version,Toyota || Highlander abroad version,test,12
+949,Toyota,Highlander abroad version,Toyota || Highlander abroad version,train,96
+949,Toyota,Highlander abroad version,Toyota || Highlander abroad version,val,12
+950,Toyota,Huaguan,Toyota || Huaguan,test,12
+950,Toyota,Huaguan,Toyota || Huaguan,train,94
+950,Toyota,Huaguan,Toyota || Huaguan,val,12
+951,Toyota,Lcruiser,Toyota || Lcruiser,test,12
+951,Toyota,Lcruiser,Toyota || Lcruiser,train,94
+951,Toyota,Lcruiser,Toyota || Lcruiser,val,12
+952,Toyota,Levin,Toyota || Levin,test,12
+952,Toyota,Levin,Toyota || Levin,train,96
+952,Toyota,Levin,Toyota || Levin,val,12
+953,Toyota,Prado,Toyota || Prado,test,12
+953,Toyota,Prado,Toyota || Prado,train,95
+953,Toyota,Prado,Toyota || Prado,val,12
+954,Toyota,Previa,Toyota || Previa,test,13
+954,Toyota,Previa,Toyota || Previa,train,107
+954,Toyota,Previa,Toyota || Previa,val,13
+955,Toyota,Prius,Toyota || Prius,test,12
+955,Toyota,Prius,Toyota || Prius,train,96
+955,Toyota,Prius,Toyota || Prius,val,12
+956,Toyota,Reiz,Toyota || Reiz,test,12
+956,Toyota,Reiz,Toyota || Reiz,train,96
+956,Toyota,Reiz,Toyota || Reiz,val,12
+957,Toyota,Saina,Toyota || Saina,test,8
+957,Toyota,Saina,Toyota || Saina,train,67
+957,Toyota,Saina,Toyota || Saina,val,8
+958,Toyota,Sequoia,Toyota || Sequoia,test,12
+958,Toyota,Sequoia,Toyota || Sequoia,train,96
+958,Toyota,Sequoia,Toyota || Sequoia,val,12
+959,Toyota,Toyota 4 Rinner,Toyota || Toyota 4 Rinner,test,12
+959,Toyota,Toyota 4 Rinner,Toyota || Toyota 4 Rinner,train,96
+959,Toyota,Toyota 4 Rinner,Toyota || Toyota 4 Rinner,val,12
+960,Toyota,Toyota 86,Toyota || Toyota 86,test,12
+960,Toyota,Toyota 86,Toyota || Toyota 86,train,96
+960,Toyota,Toyota 86,Toyota || Toyota 86,val,12
+961,Toyota,Toyota Auris,Toyota || Toyota Auris,test,12
+961,Toyota,Toyota Auris,Toyota || Toyota Auris,train,96
+961,Toyota,Toyota Auris,Toyota || Toyota Auris,val,12
+962,Toyota,Toyota Aygo,Toyota || Toyota Aygo,test,12
+962,Toyota,Toyota Aygo,Toyota || Toyota Aygo,train,96
+962,Toyota,Toyota Aygo,Toyota || Toyota Aygo,val,12
+963,Toyota,Toyota FT-1,Toyota || Toyota FT-1,test,8
+963,Toyota,Toyota FT-1,Toyota || Toyota FT-1,train,62
+963,Toyota,Toyota FT-1,Toyota || Toyota FT-1,val,8
+964,Toyota,Toyota FT-86,Toyota || Toyota FT-86,test,10
+964,Toyota,Toyota FT-86,Toyota || Toyota FT-86,train,77
+964,Toyota,Toyota FT-86,Toyota || Toyota FT-86,val,10
+965,Toyota,Toyota Hilux,Toyota || Toyota Hilux,test,9
+965,Toyota,Toyota Hilux,Toyota || Toyota Hilux,train,72
+965,Toyota,Toyota Hilux,Toyota || Toyota Hilux,val,9
+966,Toyota,Toyota IQ,Toyota || Toyota IQ,test,12
+966,Toyota,Toyota IQ,Toyota || Toyota IQ,train,96
+966,Toyota,Toyota IQ,Toyota || Toyota IQ,val,12
+967,Toyota,Toyota Matrix,Toyota || Toyota Matrix,test,6
+967,Toyota,Toyota Matrix,Toyota || Toyota Matrix,train,47
+967,Toyota,Toyota Matrix,Toyota || Toyota Matrix,val,6
+968,Toyota,Toyota RAV4,Toyota || Toyota RAV4,test,12
+968,Toyota,Toyota RAV4,Toyota || Toyota RAV4,train,95
+968,Toyota,Toyota RAV4,Toyota || Toyota RAV4,val,12
+969,Toyota,Toyota Tacoma,Toyota || Toyota Tacoma,test,12
+969,Toyota,Toyota Tacoma,Toyota || Toyota Tacoma,train,96
+969,Toyota,Toyota Tacoma,Toyota || Toyota Tacoma,val,12
+970,Toyota,Toyota Urban Cruiser,Toyota || Toyota Urban Cruiser,test,5
+970,Toyota,Toyota Urban Cruiser,Toyota || Toyota Urban Cruiser,train,40
+970,Toyota,Toyota Urban Cruiser,Toyota || Toyota Urban Cruiser,val,5
+971,Toyota,Toyota Verso,Toyota || Toyota Verso,test,12
+971,Toyota,Toyota Verso,Toyota || Toyota Verso,train,96
+971,Toyota,Toyota Verso,Toyota || Toyota Verso,val,12
+972,Toyota,Undra,Toyota || Undra,test,12
+972,Toyota,Undra,Toyota || Undra,train,96
+972,Toyota,Undra,Toyota || Undra,val,12
+973,Toyota,Venza,Toyota || Venza,test,12
+973,Toyota,Venza,Toyota || Venza,train,96
+973,Toyota,Venza,Toyota || Venza,val,12
+974,Toyota,Vios,Toyota || Vios,test,12
+974,Toyota,Vios,Toyota || Vios,train,95
+974,Toyota,Vios,Toyota || Vios,val,12
+975,Toyota,YARiS L,Toyota || YARiS L,test,12
+975,Toyota,YARiS L,Toyota || YARiS L,train,96
+975,Toyota,YARiS L,Toyota || YARiS L,val,12
+976,Toyota,Yaris,Toyota || Yaris,test,12
+976,Toyota,Yaris,Toyota || Yaris,train,94
+976,Toyota,Yaris,Toyota || Yaris,val,12
+977,Toyota,Zelas,Toyota || Zelas,test,14
+977,Toyota,Zelas,Toyota || Zelas,train,109
+977,Toyota,Zelas,Toyota || Zelas,val,14
+978,Toyota,丰田Avalon,Toyota || 丰田Avalon,test,12
+978,Toyota,丰田Avalon,Toyota || 丰田Avalon,train,95
+978,Toyota,丰田Avalon,Toyota || 丰田Avalon,val,12
+979,Vauxhall,Vauxhall Adam,Vauxhall || Vauxhall Adam,test,12
+979,Vauxhall,Vauxhall Adam,Vauxhall || Vauxhall Adam,train,96
+979,Vauxhall,Vauxhall Adam,Vauxhall || Vauxhall Adam,val,12
+980,Vauxhall,Vauxhall Astra,Vauxhall || Vauxhall Astra,test,12
+980,Vauxhall,Vauxhall Astra,Vauxhall || Vauxhall Astra,train,96
+980,Vauxhall,Vauxhall Astra,Vauxhall || Vauxhall Astra,val,12
+981,Vauxhall,Vauxhall Cascada,Vauxhall || Vauxhall Cascada,test,8
+981,Vauxhall,Vauxhall Cascada,Vauxhall || Vauxhall Cascada,train,68
+981,Vauxhall,Vauxhall Cascada,Vauxhall || Vauxhall Cascada,val,8
+982,Vauxhall,Vauxhall Corsa,Vauxhall || Vauxhall Corsa,test,6
+982,Vauxhall,Vauxhall Corsa,Vauxhall || Vauxhall Corsa,train,50
+982,Vauxhall,Vauxhall Corsa,Vauxhall || Vauxhall Corsa,val,6
+983,Vauxhall,Vauxhall Insignia,Vauxhall || Vauxhall Insignia,test,12
+983,Vauxhall,Vauxhall Insignia,Vauxhall || Vauxhall Insignia,train,96
+983,Vauxhall,Vauxhall Insignia,Vauxhall || Vauxhall Insignia,val,12
+984,Vauxhall,Vauxhall VXR8,Vauxhall || Vauxhall VXR8,test,12
+984,Vauxhall,Vauxhall VXR8,Vauxhall || Vauxhall VXR8,train,96
+984,Vauxhall,Vauxhall VXR8,Vauxhall || Vauxhall VXR8,val,12
+985,Venucia,Chenfeng,Venucia || Chenfeng,test,11
+985,Venucia,Chenfeng,Venucia || Chenfeng,train,90
+985,Venucia,Chenfeng,Venucia || Chenfeng,val,11
+986,Venucia,Venucia D50,Venucia || Venucia D50,test,12
+986,Venucia,Venucia D50,Venucia || Venucia D50,train,96
+986,Venucia,Venucia D50,Venucia || Venucia D50,val,12
+987,Venucia,Venucia R30,Venucia || Venucia R30,test,12
+987,Venucia,Venucia R30,Venucia || Venucia R30,train,96
+987,Venucia,Venucia R30,Venucia || Venucia R30,val,12
+988,Venucia,Venucia R50,Venucia || Venucia R50,test,12
+988,Venucia,Venucia R50,Venucia || Venucia R50,train,95
+988,Venucia,Venucia R50,Venucia || Venucia R50,val,12
+989,Venucia,Venucia R50X,Venucia || Venucia R50X,test,12
+989,Venucia,Venucia R50X,Venucia || Venucia R50X,train,96
+989,Venucia,Venucia R50X,Venucia || Venucia R50X,val,12
+990,Volkswagen,Amarok Pickup,Volkswagen || Amarok Pickup,test,12
+990,Volkswagen,Amarok Pickup,Volkswagen || Amarok Pickup,train,96
+990,Volkswagen,Amarok Pickup,Volkswagen || Amarok Pickup,val,12
+991,Volkswagen,Beetle,Volkswagen || Beetle,test,12
+991,Volkswagen,Beetle,Volkswagen || Beetle,train,96
+991,Volkswagen,Beetle,Volkswagen || Beetle,val,12
+992,Volkswagen,Bora,Volkswagen || Bora,test,15
+992,Volkswagen,Bora,Volkswagen || Bora,train,117
+992,Volkswagen,Bora,Volkswagen || Bora,val,15
+993,Volkswagen,Caddy abroad version,Volkswagen || Caddy abroad version,test,7
+993,Volkswagen,Caddy abroad version,Volkswagen || Caddy abroad version,train,59
+993,Volkswagen,Caddy abroad version,Volkswagen || Caddy abroad version,val,7
+994,Volkswagen,Caravelle,Volkswagen || Caravelle,test,11
+994,Volkswagen,Caravelle,Volkswagen || Caravelle,train,84
+994,Volkswagen,Caravelle,Volkswagen || Caravelle,val,11
+995,Volkswagen,Cross Coupe,Volkswagen || Cross Coupe,test,8
+995,Volkswagen,Cross Coupe,Volkswagen || Cross Coupe,train,68
+995,Volkswagen,Cross Coupe,Volkswagen || Cross Coupe,val,8
+996,Volkswagen,Cross Lavida,Volkswagen || Cross Lavida,test,12
+996,Volkswagen,Cross Lavida,Volkswagen || Cross Lavida,train,96
+996,Volkswagen,Cross Lavida,Volkswagen || Cross Lavida,val,12
+997,Volkswagen,Cross Polo,Volkswagen || Cross Polo,test,11
+997,Volkswagen,Cross Polo,Volkswagen || Cross Polo,train,89
+997,Volkswagen,Cross Polo,Volkswagen || Cross Polo,val,11
+998,Volkswagen,CrossBlue,Volkswagen || CrossBlue,test,8
+998,Volkswagen,CrossBlue,Volkswagen || CrossBlue,train,61
+998,Volkswagen,CrossBlue,Volkswagen || CrossBlue,val,8
+999,Volkswagen,Golf,Volkswagen || Golf,test,18
+999,Volkswagen,Golf,Volkswagen || Golf,train,139
+999,Volkswagen,Golf,Volkswagen || Golf,val,18
+1000,Volkswagen,Golf GTI,Volkswagen || Golf GTI,test,15
+1000,Volkswagen,Golf GTI,Volkswagen || Golf GTI,train,116
+1000,Volkswagen,Golf GTI,Volkswagen || Golf GTI,val,15
+1001,Volkswagen,Golf R,Volkswagen || Golf R,test,13
+1001,Volkswagen,Golf R,Volkswagen || Golf R,train,106
+1001,Volkswagen,Golf R,Volkswagen || Golf R,val,13
+1002,Volkswagen,Golf convertible,Volkswagen || Golf convertible,test,6
+1002,Volkswagen,Golf convertible,Volkswagen || Golf convertible,train,46
+1002,Volkswagen,Golf convertible,Volkswagen || Golf convertible,val,6
+1003,Volkswagen,Golf estate,Volkswagen || Golf estate,test,6
+1003,Volkswagen,Golf estate,Volkswagen || Golf estate,train,43
+1003,Volkswagen,Golf estate,Volkswagen || Golf estate,val,6
+1004,Volkswagen,Gran Lavida,Volkswagen || Gran Lavida,test,12
+1004,Volkswagen,Gran Lavida,Volkswagen || Gran Lavida,train,95
+1004,Volkswagen,Gran Lavida,Volkswagen || Gran Lavida,val,12
+1005,Volkswagen,Jetta,Volkswagen || Jetta,test,12
+1005,Volkswagen,Jetta,Volkswagen || Jetta,train,94
+1005,Volkswagen,Jetta,Volkswagen || Jetta,val,12
+1006,Volkswagen,Jetta abroad version,Volkswagen || Jetta abroad version,test,12
+1006,Volkswagen,Jetta abroad version,Volkswagen || Jetta abroad version,train,96
+1006,Volkswagen,Jetta abroad version,Volkswagen || Jetta abroad version,val,12
+1007,Volkswagen,Lavide,Volkswagen || Lavide,test,12
+1007,Volkswagen,Lavide,Volkswagen || Lavide,train,96
+1007,Volkswagen,Lavide,Volkswagen || Lavide,val,12
+1008,Volkswagen,Magotan,Volkswagen || Magotan,test,12
+1008,Volkswagen,Magotan,Volkswagen || Magotan,train,95
+1008,Volkswagen,Magotan,Volkswagen || Magotan,val,12
+1009,Volkswagen,Magotan estate,Volkswagen || Magotan estate,test,12
+1009,Volkswagen,Magotan estate,Volkswagen || Magotan estate,train,95
+1009,Volkswagen,Magotan estate,Volkswagen || Magotan estate,val,12
+1010,Volkswagen,Multivan,Volkswagen || Multivan,test,12
+1010,Volkswagen,Multivan,Volkswagen || Multivan,train,96
+1010,Volkswagen,Multivan,Volkswagen || Multivan,val,12
+1011,Volkswagen,NMC,Volkswagen || NMC,test,9
+1011,Volkswagen,NMC,Volkswagen || NMC,train,68
+1011,Volkswagen,NMC,Volkswagen || NMC,val,9
+1012,Volkswagen,Passat,Volkswagen || Passat,test,12
+1012,Volkswagen,Passat,Volkswagen || Passat,train,96
+1012,Volkswagen,Passat,Volkswagen || Passat,val,12
+1013,Volkswagen,Passat Lingyu,Volkswagen || Passat Lingyu,test,12
+1013,Volkswagen,Passat Lingyu,Volkswagen || Passat Lingyu,train,91
+1013,Volkswagen,Passat Lingyu,Volkswagen || Passat Lingyu,val,12
+1014,Volkswagen,Passat abroad version,Volkswagen || Passat abroad version,test,12
+1014,Volkswagen,Passat abroad version,Volkswagen || Passat abroad version,train,96
+1014,Volkswagen,Passat abroad version,Volkswagen || Passat abroad version,val,12
+1015,Volkswagen,Phaeton,Volkswagen || Phaeton,test,12
+1015,Volkswagen,Phaeton,Volkswagen || Phaeton,train,95
+1015,Volkswagen,Phaeton,Volkswagen || Phaeton,val,12
+1016,Volkswagen,Polo abroad version,Volkswagen || Polo abroad version,test,10
+1016,Volkswagen,Polo abroad version,Volkswagen || Polo abroad version,train,79
+1016,Volkswagen,Polo abroad version,Volkswagen || Polo abroad version,val,10
+1017,Volkswagen,Polo hatchback,Volkswagen || Polo hatchback,test,12
+1017,Volkswagen,Polo hatchback,Volkswagen || Polo hatchback,train,101
+1017,Volkswagen,Polo hatchback,Volkswagen || Polo hatchback,val,12
+1018,Volkswagen,Sagitar,Volkswagen || Sagitar,test,12
+1018,Volkswagen,Sagitar,Volkswagen || Sagitar,train,101
+1018,Volkswagen,Sagitar,Volkswagen || Sagitar,val,12
+1019,Volkswagen,Sagitar GLI,Volkswagen || Sagitar GLI,test,9
+1019,Volkswagen,Sagitar GLI,Volkswagen || Sagitar GLI,train,68
+1019,Volkswagen,Sagitar GLI,Volkswagen || Sagitar GLI,val,9
+1020,Volkswagen,Santana,Volkswagen || Santana,test,12
+1020,Volkswagen,Santana,Volkswagen || Santana,train,93
+1020,Volkswagen,Santana,Volkswagen || Santana,val,12
+1021,Volkswagen,Santana Vista,Volkswagen || Santana Vista,test,8
+1021,Volkswagen,Santana Vista,Volkswagen || Santana Vista,train,60
+1021,Volkswagen,Santana Vista,Volkswagen || Santana Vista,val,8
+1022,Volkswagen,Scirocco,Volkswagen || Scirocco,test,13
+1022,Volkswagen,Scirocco,Volkswagen || Scirocco,train,107
+1022,Volkswagen,Scirocco,Volkswagen || Scirocco,val,13
+1023,Volkswagen,Scirocco R,Volkswagen || Scirocco R,test,10
+1023,Volkswagen,Scirocco R,Volkswagen || Scirocco R,train,78
+1023,Volkswagen,Scirocco R,Volkswagen || Scirocco R,val,10
+1024,Volkswagen,Sharan,Volkswagen || Sharan,test,12
+1024,Volkswagen,Sharan,Volkswagen || Sharan,train,96
+1024,Volkswagen,Sharan,Volkswagen || Sharan,val,12
+1025,Volkswagen,T-ROC,Volkswagen || T-ROC,test,6
+1025,Volkswagen,T-ROC,Volkswagen || T-ROC,train,44
+1025,Volkswagen,T-ROC,Volkswagen || T-ROC,val,6
+1026,Volkswagen,Tiguan,Volkswagen || Tiguan,test,12
+1026,Volkswagen,Tiguan,Volkswagen || Tiguan,train,96
+1026,Volkswagen,Tiguan,Volkswagen || Tiguan,val,12
+1027,Volkswagen,Tiguan abroad version,Volkswagen || Tiguan abroad version,test,12
+1027,Volkswagen,Tiguan abroad version,Volkswagen || Tiguan abroad version,train,95
+1027,Volkswagen,Tiguan abroad version,Volkswagen || Tiguan abroad version,val,12
+1028,Volkswagen,Touareg,Volkswagen || Touareg,test,13
+1028,Volkswagen,Touareg,Volkswagen || Touareg,train,104
+1028,Volkswagen,Touareg,Volkswagen || Touareg,val,13
+1029,Volkswagen,Touareg hybrid,Volkswagen || Touareg hybrid,test,7
+1029,Volkswagen,Touareg hybrid,Volkswagen || Touareg hybrid,train,53
+1029,Volkswagen,Touareg hybrid,Volkswagen || Touareg hybrid,val,7
+1030,Volkswagen,Touran,Volkswagen || Touran,test,12
+1030,Volkswagen,Touran,Volkswagen || Touran,train,96
+1030,Volkswagen,Touran,Volkswagen || Touran,val,12
+1031,Volkswagen,Volkswagen CC,Volkswagen || Volkswagen CC,test,16
+1031,Volkswagen,Volkswagen CC,Volkswagen || Volkswagen CC,train,132
+1031,Volkswagen,Volkswagen CC,Volkswagen || Volkswagen CC,val,16
+1032,Volkswagen,Volkswagen Eos,Volkswagen || Volkswagen Eos,test,12
+1032,Volkswagen,Volkswagen Eos,Volkswagen || Volkswagen Eos,train,96
+1032,Volkswagen,Volkswagen Eos,Volkswagen || Volkswagen Eos,val,12
+1033,Volkswagen,Volkswagen Fox,Volkswagen || Volkswagen Fox,test,11
+1033,Volkswagen,Volkswagen Fox,Volkswagen || Volkswagen Fox,train,92
+1033,Volkswagen,Volkswagen Fox,Volkswagen || Volkswagen Fox,val,11
+1034,Volkswagen,Volkswagen R36,Volkswagen || Volkswagen R36,test,5
+1034,Volkswagen,Volkswagen R36,Volkswagen || Volkswagen R36,train,42
+1034,Volkswagen,Volkswagen R36,Volkswagen || Volkswagen R36,val,5
+1035,Volkswagen,Volkswagen XL1,Volkswagen || Volkswagen XL1,test,12
+1035,Volkswagen,Volkswagen XL1,Volkswagen || Volkswagen XL1,train,96
+1035,Volkswagen,Volkswagen XL1,Volkswagen || Volkswagen XL1,val,12
+1036,Volkswagen,Volkswagen up,Volkswagen || Volkswagen up,test,12
+1036,Volkswagen,Volkswagen up,Volkswagen || Volkswagen up,train,96
+1036,Volkswagen,Volkswagen up,Volkswagen || Volkswagen up,val,12
+1037,Volvo,Volvo C30,Volvo || Volvo C30,test,15
+1037,Volvo,Volvo C30,Volvo || Volvo C30,train,120
+1037,Volvo,Volvo C30,Volvo || Volvo C30,val,15
+1038,Volvo,Volvo C70,Volvo || Volvo C70,test,12
+1038,Volvo,Volvo C70,Volvo || Volvo C70,train,95
+1038,Volvo,Volvo C70,Volvo || Volvo C70,val,12
+1039,Volvo,Volvo Coupe,Volvo || Volvo Coupe,test,6
+1039,Volvo,Volvo Coupe,Volvo || Volvo Coupe,train,47
+1039,Volvo,Volvo Coupe,Volvo || Volvo Coupe,val,6
+1040,Volvo,Volvo S40,Volvo || Volvo S40,test,12
+1040,Volvo,Volvo S40,Volvo || Volvo S40,train,92
+1040,Volvo,Volvo S40,Volvo || Volvo S40,val,12
+1041,Volvo,Volvo S60,Volvo || Volvo S60,test,12
+1041,Volvo,Volvo S60,Volvo || Volvo S60,train,96
+1041,Volvo,Volvo S60,Volvo || Volvo S60,val,12
+1042,Volvo,Volvo S60L,Volvo || Volvo S60L,test,12
+1042,Volvo,Volvo S60L,Volvo || Volvo S60L,train,95
+1042,Volvo,Volvo S60L,Volvo || Volvo S60L,val,12
+1043,Volvo,Volvo S80,Volvo || Volvo S80,test,12
+1043,Volvo,Volvo S80,Volvo || Volvo S80,train,93
+1043,Volvo,Volvo S80,Volvo || Volvo S80,val,12
+1044,Volvo,Volvo S80L,Volvo || Volvo S80L,test,13
+1044,Volvo,Volvo S80L,Volvo || Volvo S80L,train,107
+1044,Volvo,Volvo S80L,Volvo || Volvo S80L,val,13
+1045,Volvo,Volvo V40,Volvo || Volvo V40,test,12
+1045,Volvo,Volvo V40,Volvo || Volvo V40,train,93
+1045,Volvo,Volvo V40,Volvo || Volvo V40,val,12
+1046,Volvo,Volvo V40 CrossCountry,Volvo || Volvo V40 CrossCountry,test,11
+1046,Volvo,Volvo V40 CrossCountry,Volvo || Volvo V40 CrossCountry,train,89
+1046,Volvo,Volvo V40 CrossCountry,Volvo || Volvo V40 CrossCountry,val,11
+1047,Volvo,Volvo V60,Volvo || Volvo V60,test,12
+1047,Volvo,Volvo V60,Volvo || Volvo V60,train,96
+1047,Volvo,Volvo V60,Volvo || Volvo V60,val,12
+1048,Volvo,Volvo V70,Volvo || Volvo V70,test,6
+1048,Volvo,Volvo V70,Volvo || Volvo V70,train,52
+1048,Volvo,Volvo V70,Volvo || Volvo V70,val,6
+1049,Volvo,Volvo XC Classic,Volvo || Volvo XC Classic,test,11
+1049,Volvo,Volvo XC Classic,Volvo || Volvo XC Classic,train,89
+1049,Volvo,Volvo XC Classic,Volvo || Volvo XC Classic,val,11
+1050,Volvo,Volvo XC Coupe,Volvo || Volvo XC Coupe,test,7
+1050,Volvo,Volvo XC Coupe,Volvo || Volvo XC Coupe,train,58
+1050,Volvo,Volvo XC Coupe,Volvo || Volvo XC Coupe,val,7
+1051,Volvo,Volvo XC60,Volvo || Volvo XC60,test,20
+1051,Volvo,Volvo XC60,Volvo || Volvo XC60,train,165
+1051,Volvo,Volvo XC60,Volvo || Volvo XC60,val,20
+1052,Volvo,Volvo XC70,Volvo || Volvo XC70,test,13
+1052,Volvo,Volvo XC70,Volvo || Volvo XC70,train,104
+1052,Volvo,Volvo XC70,Volvo || Volvo XC70,val,13
+1053,Volvo,Volvo XC90 abroad version,Volvo || Volvo XC90 abroad version,test,16
+1053,Volvo,Volvo XC90 abroad version,Volvo || Volvo XC90 abroad version,train,133
+1053,Volvo,Volvo XC90 abroad version,Volvo || Volvo XC90 abroad version,val,16
+1054,WeaLink,WeaLink V5,WeaLink || WeaLink V5,test,11
+1054,WeaLink,WeaLink V5,WeaLink || WeaLink V5,train,92
+1054,WeaLink,WeaLink V5,WeaLink || WeaLink V5,val,11
+1055,WeaLink,WeaLink X5,WeaLink || WeaLink X5,test,12
+1055,WeaLink,WeaLink X5,WeaLink || WeaLink X5,train,94
+1055,WeaLink,WeaLink X5,WeaLink || WeaLink X5,val,12
+1056,Wiesmann,Wiesmann GT,Wiesmann || Wiesmann GT,test,11
+1056,Wiesmann,Wiesmann GT,Wiesmann || Wiesmann GT,train,86
+1056,Wiesmann,Wiesmann GT,Wiesmann || Wiesmann GT,val,11
+1057,Wiesmann,Wiesmann Roadster,Wiesmann || Wiesmann Roadster,test,5
+1057,Wiesmann,Wiesmann Roadster,Wiesmann || Wiesmann Roadster,train,43
+1057,Wiesmann,Wiesmann Roadster,Wiesmann || Wiesmann Roadster,val,5
+1058,Wuling,Wulinghongguang,Wuling || Wulinghongguang,test,12
+1058,Wuling,Wulinghongguang,Wuling || Wulinghongguang,train,95
+1058,Wuling,Wulinghongguang,Wuling || Wulinghongguang,val,12
+1059,Wuling,Wulingrongguang,Wuling || Wulingrongguang,test,12
+1059,Wuling,Wulingrongguang,Wuling || Wulingrongguang,train,91
+1059,Wuling,Wulingrongguang,Wuling || Wulingrongguang,val,12
+1060,Wuling,Wulingzhiguang,Wuling || Wulingzhiguang,test,12
+1060,Wuling,Wulingzhiguang,Wuling || Wulingzhiguang,train,94
+1060,Wuling,Wulingzhiguang,Wuling || Wulingzhiguang,val,12
+1061,Yingzhi,Enranger G3,Yingzhi || Enranger G3,test,13
+1061,Yingzhi,Enranger G3,Yingzhi || Enranger G3,train,103
+1061,Yingzhi,Enranger G3,Yingzhi || Enranger G3,val,13
+1062,Yiqi,Jiabao V70,Yiqi || Jiabao V70,test,6
+1062,Yiqi,Jiabao V70,Yiqi || Jiabao V70,train,52
+1062,Yiqi,Jiabao V70,Yiqi || Jiabao V70,val,6
+1063,Yiqi,Jiabao V80,Yiqi || Jiabao V80,test,13
+1063,Yiqi,Jiabao V80,Yiqi || Jiabao V80,train,106
+1063,Yiqi,Jiabao V80,Yiqi || Jiabao V80,val,13
+1064,Yiqi,Junpai D60,Yiqi || Junpai D60,test,12
+1064,Yiqi,Junpai D60,Yiqi || Junpai D60,train,96
+1064,Yiqi,Junpai D60,Yiqi || Junpai D60,val,12
+1065,Yiqi,Senya M80,Yiqi || Senya M80,test,12
+1065,Yiqi,Senya M80,Yiqi || Senya M80,train,96
+1065,Yiqi,Senya M80,Yiqi || Senya M80,val,12
+1066,Yiqi,Senya S80,Yiqi || Senya S80,test,10
+1066,Yiqi,Senya S80,Yiqi || Senya S80,train,75
+1066,Yiqi,Senya S80,Yiqi || Senya S80,val,10
+1067,Yiqi,Weizhi,Yiqi || Weizhi,test,10
+1067,Yiqi,Weizhi,Yiqi || Weizhi,train,78
+1067,Yiqi,Weizhi,Yiqi || Weizhi,val,10
+1068,Yiqi,Weizhi V2,Yiqi || Weizhi V2,test,12
+1068,Yiqi,Weizhi V2,Yiqi || Weizhi V2,train,96
+1068,Yiqi,Weizhi V2,Yiqi || Weizhi V2,val,12
+1069,Yiqi,Weizhi V5,Yiqi || Weizhi V5,test,12
+1069,Yiqi,Weizhi V5,Yiqi || Weizhi V5,train,96
+1069,Yiqi,Weizhi V5,Yiqi || Weizhi V5,val,12
+1070,Yiqi,Weizi,Yiqi || Weizi,test,5
+1070,Yiqi,Weizi,Yiqi || Weizi,train,40
+1070,Yiqi,Weizi,Yiqi || Weizi,val,5
+1071,Yiqi,Xiali N5,Yiqi || Xiali N5,test,12
+1071,Yiqi,Xiali N5,Yiqi || Xiali N5,train,94
+1071,Yiqi,Xiali N5,Yiqi || Xiali N5,val,12
+1072,Yiqi,Xiali N7,Yiqi || Xiali N7,test,16
+1072,Yiqi,Xiali N7,Yiqi || Xiali N7,train,130
+1072,Yiqi,Xiali N7,Yiqi || Xiali N7,val,16
+1073,Zhonghua,Zhonghua H220,Zhonghua || Zhonghua H220,test,12
+1073,Zhonghua,Zhonghua H220,Zhonghua || Zhonghua H220,train,96
+1073,Zhonghua,Zhonghua H220,Zhonghua || Zhonghua H220,val,12
+1074,Zhonghua,Zhonghua H230,Zhonghua || Zhonghua H230,test,12
+1074,Zhonghua,Zhonghua H230,Zhonghua || Zhonghua H230,train,95
+1074,Zhonghua,Zhonghua H230,Zhonghua || Zhonghua H230,val,12
+1075,Zhonghua,Zhonghua H320,Zhonghua || Zhonghua H320,test,12
+1075,Zhonghua,Zhonghua H320,Zhonghua || Zhonghua H320,train,94
+1075,Zhonghua,Zhonghua H320,Zhonghua || Zhonghua H320,val,12
+1076,Zhonghua,Zhonghua H330,Zhonghua || Zhonghua H330,test,12
+1076,Zhonghua,Zhonghua H330,Zhonghua || Zhonghua H330,train,96
+1076,Zhonghua,Zhonghua H330,Zhonghua || Zhonghua H330,val,12
+1077,Zhonghua,Zhonghua H530,Zhonghua || Zhonghua H530,test,12
+1077,Zhonghua,Zhonghua H530,Zhonghua || Zhonghua H530,train,96
+1077,Zhonghua,Zhonghua H530,Zhonghua || Zhonghua H530,val,12
+1078,Zhonghua,Zhonghua Junjie,Zhonghua || Zhonghua Junjie,test,12
+1078,Zhonghua,Zhonghua Junjie,Zhonghua || Zhonghua Junjie,train,93
+1078,Zhonghua,Zhonghua Junjie,Zhonghua || Zhonghua Junjie,val,12
+1079,Zhonghua,Zhonghua Junjie CROSS,Zhonghua || Zhonghua Junjie CROSS,test,12
+1079,Zhonghua,Zhonghua Junjie CROSS,Zhonghua || Zhonghua Junjie CROSS,train,96
+1079,Zhonghua,Zhonghua Junjie CROSS,Zhonghua || Zhonghua Junjie CROSS,val,12
+1080,Zhonghua,Zhonghua Junjie FRV,Zhonghua || Zhonghua Junjie FRV,test,12
+1080,Zhonghua,Zhonghua Junjie FRV,Zhonghua || Zhonghua Junjie FRV,train,96
+1080,Zhonghua,Zhonghua Junjie FRV,Zhonghua || Zhonghua Junjie FRV,val,12
+1081,Zhonghua,Zhonghua Junjie FSV,Zhonghua || Zhonghua Junjie FSV,test,12
+1081,Zhonghua,Zhonghua Junjie FSV,Zhonghua || Zhonghua Junjie FSV,train,93
+1081,Zhonghua,Zhonghua Junjie FSV,Zhonghua || Zhonghua Junjie FSV,val,12
+1082,Zhonghua,Zhonghua Junjie Wagon,Zhonghua || Zhonghua Junjie Wagon,test,8
+1082,Zhonghua,Zhonghua Junjie Wagon,Zhonghua || Zhonghua Junjie Wagon,train,67
+1082,Zhonghua,Zhonghua Junjie Wagon,Zhonghua || Zhonghua Junjie Wagon,val,8
+1083,Zhonghua,Zhonghua V5,Zhonghua || Zhonghua V5,test,12
+1083,Zhonghua,Zhonghua V5,Zhonghua || Zhonghua V5,train,96
+1083,Zhonghua,Zhonghua V5,Zhonghua || Zhonghua V5,val,12
+1084,Zhonghua,Zhonghua Zunchi,Zhonghua || Zhonghua Zunchi,test,12
+1084,Zhonghua,Zhonghua Zunchi,Zhonghua || Zhonghua Zunchi,train,96
+1084,Zhonghua,Zhonghua Zunchi,Zhonghua || Zhonghua Zunchi,val,12
+1085,Zotye,Jiangnan TT,Zotye || Jiangnan TT,test,6
+1085,Zotye,Jiangnan TT,Zotye || Jiangnan TT,train,45
+1085,Zotye,Jiangnan TT,Zotye || Jiangnan TT,val,6
+1086,Zotye,Zotye 5008,Zotye || Zotye 5008,test,12
+1086,Zotye,Zotye 5008,Zotye || Zotye 5008,train,96
+1086,Zotye,Zotye 5008,Zotye || Zotye 5008,val,12
+1087,Zotye,Zotye M300,Zotye || Zotye M300,test,11
+1087,Zotye,Zotye M300,Zotye || Zotye M300,train,87
+1087,Zotye,Zotye M300,Zotye || Zotye M300,val,11
+1088,Zotye,Zotye T200,Zotye || Zotye T200,test,12
+1088,Zotye,Zotye T200,Zotye || Zotye T200,train,94
+1088,Zotye,Zotye T200,Zotye || Zotye T200,val,12
+1089,Zotye,Zotye T600,Zotye || Zotye T600,test,12
+1089,Zotye,Zotye T600,Zotye || Zotye T600,train,96
+1089,Zotye,Zotye T600,Zotye || Zotye T600,val,12
+1090,Zotye,Zotye V10,Zotye || Zotye V10,test,5
+1090,Zotye,Zotye V10,Zotye || Zotye V10,train,40
+1090,Zotye,Zotye V10,Zotye || Zotye V10,val,5
+1091,Zotye,Zotye Z100,Zotye || Zotye Z100,test,12
+1091,Zotye,Zotye Z100,Zotye || Zotye Z100,train,96
+1091,Zotye,Zotye Z100,Zotye || Zotye Z100,val,12
+1092,Zotye,Zotye Z200,Zotye || Zotye Z200,test,10
+1092,Zotye,Zotye Z200,Zotye || Zotye Z200,train,83
+1092,Zotye,Zotye Z200,Zotye || Zotye Z200,val,10
+1093,Zotye,Zotye Z200HB,Zotye || Zotye Z200HB,test,11
+1093,Zotye,Zotye Z200HB,Zotye || Zotye Z200HB,train,86
+1093,Zotye,Zotye Z200HB,Zotye || Zotye Z200HB,val,11
+1094,Zotye,Zotye Z300,Zotye || Zotye Z300,test,12
+1094,Zotye,Zotye Z300,Zotye || Zotye Z300,train,94
+1094,Zotye,Zotye Z300,Zotye || Zotye Z300,val,12
+1095,Zxauto,Grandtiger G3,Zxauto || Grandtiger G3,test,11
+1095,Zxauto,Grandtiger G3,Zxauto || Grandtiger G3,train,89
+1095,Zxauto,Grandtiger G3,Zxauto || Grandtiger G3,val,11
+1096,Zxauto,Grandtiger TUV,Zxauto || Grandtiger TUV,test,12
+1096,Zxauto,Grandtiger TUV,Zxauto || Grandtiger TUV,train,96
+1096,Zxauto,Grandtiger TUV,Zxauto || Grandtiger TUV,val,12
+1097,Zxauto,Qijian A9,Zxauto || Qijian A9,test,7
+1097,Zxauto,Qijian A9,Zxauto || Qijian A9,train,58
+1097,Zxauto,Qijian A9,Zxauto || Qijian A9,val,7
+1098,Zxauto,Zxauto C3,Zxauto || Zxauto C3,test,11
+1098,Zxauto,Zxauto C3,Zxauto || Zxauto C3,train,92
+1098,Zxauto,Zxauto C3,Zxauto || Zxauto C3,val,11
+1099,smart,smart forfour,smart || smart forfour,test,8
+1099,smart,smart forfour,smart || smart forfour,train,67
+1099,smart,smart forfour,smart || smart forfour,val,8
+1100,smart,smart forjeremy,smart || smart forjeremy,test,7
+1100,smart,smart forjeremy,smart || smart forjeremy,train,54
+1100,smart,smart forjeremy,smart || smart forjeremy,val,7
+1101,smart,smart fortwo,smart || smart fortwo,test,16
+1101,smart,smart fortwo,smart || smart fortwo,train,132
+1101,smart,smart fortwo,smart || smart fortwo,val,16

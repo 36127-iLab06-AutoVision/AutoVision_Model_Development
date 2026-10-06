@@ -1,0 +1,14 @@
+task,split,images,classes,note
+make_model,train,97641,1102.0,ResNet50; min 50 images per retained class
+make_model,val,12229,1102.0,ResNet50; min 50 images per retained class
+make_model,test,12229,1102.0,ResNet50; min 50 images per retained class
+body_type,train,78016,12.0,ConvNeXt-Tiny; all valid labelled CompCars web rows
+body_type,val,9751,12.0,ConvNeXt-Tiny; all valid labelled CompCars web rows
+body_type,test,9751,12.0,ConvNeXt-Tiny; all valid labelled CompCars web rows
+colour,train,28006,10.0,Swin-T; Official CompCars surveillance train/test split; 10% of official training reserved for validation
+colour,test,13323,10.0,Swin-T; Official CompCars surveillance train/test split; 10% of official training reserved for validation
+colour,val,3112,10.0,Swin-T; Official CompCars surveillance train/test split; 10% of official training reserved for validation
+damage,train,3416,,YOLO11s; original CarDD split + explicit clean negatives
+damage,val,890,,YOLO11s; original CarDD split + explicit clean negatives
+damage,test,374,,YOLO11s; original CarDD split + explicit clean negatives
+damage,clean_holdout,120,,YOLO11s; original CarDD split + explicit clean negatives

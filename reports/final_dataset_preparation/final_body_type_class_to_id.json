@@ -1,0 +1,14 @@
+{
+  "MPV": 0,
+  "SUV": 1,
+  "convertible": 2,
+  "crossover": 3,
+  "estate": 4,
+  "fastback": 5,
+  "hardtop convertible": 6,
+  "hatchback": 7,
+  "minibus": 8,
+  "pickup": 9,
+  "sedan": 10,
+  "sports": 11
+}

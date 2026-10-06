@@ -1,0 +1,37 @@
+class_id,body_type,split,images
+0,MPV,test,615
+0,MPV,train,4919
+0,MPV,val,615
+1,SUV,test,2170
+1,SUV,train,17362
+1,SUV,val,2170
+2,convertible,test,105
+2,convertible,train,837
+2,convertible,val,105
+3,crossover,test,93
+3,crossover,train,748
+3,crossover,val,93
+4,estate,test,122
+4,estate,train,971
+4,estate,val,122
+5,fastback,test,247
+5,fastback,train,1979
+5,fastback,val,247
+6,hardtop convertible,test,247
+6,hardtop convertible,train,1979
+6,hardtop convertible,val,247
+7,hatchback,test,1653
+7,hatchback,train,13228
+7,hatchback,val,1653
+8,minibus,test,464
+8,minibus,train,3710
+8,minibus,val,464
+9,pickup,test,213
+9,pickup,train,1708
+9,pickup,val,213
+10,sedan,test,3223
+10,sedan,train,25786
+10,sedan,val,3223
+11,sports,test,599
+11,sports,train,4789
+11,sports,val,599
