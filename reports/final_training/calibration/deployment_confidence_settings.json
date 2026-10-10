@@ -1,0 +1,14 @@
+{
+    "make_model": {
+        "temperature": 1.2173605077985503,
+        "confidence_threshold": 0.54
+    },
+    "body_type": {
+        "temperature": 1.8375242476142712,
+        "confidence_threshold": 0.67
+    },
+    "colour": {
+        "temperature": 1.3974599384875195,
+        "confidence_threshold": 0.71
+    }
+}

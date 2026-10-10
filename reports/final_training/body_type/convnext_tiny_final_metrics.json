@@ -1,0 +1,13 @@
+{
+    "architecture": "convnext_tiny",
+    "pretrained": true,
+    "weighted_cross_entropy": true,
+    "num_classes": 12,
+    "best_epoch": 15,
+    "best_val_macro_f1": 0.9001505449469099,
+    "test_loss": 0.2996614718116891,
+    "test_accuracy": 0.9163162752538201,
+    "test_top5_accuracy": 0.998666803404779,
+    "test_macro_f1": 0.8930891006126029,
+    "checkpoint": "/shared/homes/u25656467/AutoVision_Model_Development/models/final_training/body_type/convnext_tiny_final_best.pt"
+}

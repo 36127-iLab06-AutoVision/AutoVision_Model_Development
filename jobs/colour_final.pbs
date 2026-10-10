@@ -1,0 +1,27 @@
+#!/bin/bash
+#PBS -N colour_swin_final
+#PBS -q med_gpuq
+#PBS -l ncpus=8
+#PBS -l ngpus=1
+#PBS -l mem=32GB
+#PBS -l walltime=06:00:00
+#PBS -j oe
+
+cd "$PBS_O_WORKDIR"
+
+source "$HOME/miniconda3/etc/profile.d/conda.sh"
+conda activate autovision
+
+echo "===== FINAL COLOUR TRAINING ====="
+hostname
+nvidia-smi
+
+python scripts/train_colour.py \
+    --epochs 15 \
+    --batch-size 64 \
+    --workers 8 \
+    --lr 0.0001 \
+    --weight-decay 0.0001 \
+    --patience 3
+
+echo "===== JOB FINISHED ====="

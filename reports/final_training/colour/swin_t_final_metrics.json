@@ -1,0 +1,13 @@
+{
+    "architecture": "swin_t",
+    "pretrained": true,
+    "weighted_cross_entropy_training": true,
+    "num_classes": 10,
+    "best_epoch": 14,
+    "best_val_macro_f1": 0.8686744593080045,
+    "test_loss": 0.24750996910129,
+    "test_accuracy": 0.9294453201230954,
+    "test_top5_accuracy": 0.998799069278691,
+    "test_macro_f1": 0.8803226520057675,
+    "checkpoint": "/shared/homes/u25656467/AutoVision_Model_Development/models/final_training/colour/swin_t_final_best.pt"
+}

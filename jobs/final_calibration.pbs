@@ -1,0 +1,23 @@
+#!/bin/bash
+#PBS -N final_calibration
+#PBS -q med_gpuq
+#PBS -l ncpus=4
+#PBS -l ngpus=1
+#PBS -l mem=24GB
+#PBS -l walltime=03:00:00
+#PBS -j oe
+
+set -e
+
+cd "$PBS_O_WORKDIR"
+
+source "$HOME/miniconda3/etc/profile.d/conda.sh"
+conda activate autovision
+
+echo "===== FINAL CLASSIFIER CALIBRATION ====="
+hostname
+nvidia-smi
+
+python scripts/calibrate_final_classifiers.py
+
+echo "===== JOB FINISHED ====="

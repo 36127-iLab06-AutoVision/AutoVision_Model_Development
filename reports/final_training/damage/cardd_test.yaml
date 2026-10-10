@@ -1,0 +1,13 @@
+path: /shared/homes/u25656467/AutoVision_Model_Development/data/cardd_kaggle/extracted
+
+train: test/images
+val: test/images
+test: test/images
+
+names:
+  0: dent
+  1: scratch
+  2: crack
+  3: glass shatter
+  4: lamp broken
+  5: tire flat

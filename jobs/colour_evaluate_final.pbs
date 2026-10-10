@@ -1,0 +1,19 @@
+#!/bin/bash
+#PBS -N colour_swin_eval
+#PBS -q med_gpuq
+#PBS -l ncpus=4
+#PBS -l ngpus=1
+#PBS -l mem=24GB
+#PBS -l walltime=01:00:00
+#PBS -j oe
+
+cd "$PBS_O_WORKDIR"
+
+source "$HOME/miniconda3/etc/profile.d/conda.sh"
+conda activate autovision
+
+echo "===== COLOUR OFFICIAL TEST EVALUATION ====="
+
+python scripts/evaluate_colour_final.py
+
+echo "===== JOB FINISHED ====="

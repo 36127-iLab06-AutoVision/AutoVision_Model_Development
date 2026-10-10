@@ -1,0 +1,152 @@
+{
+    "make_model": {
+        "architecture": "resnet50",
+        "num_classes": 1102,
+        "validation_images": 12229,
+        "test_images": 12229,
+        "fitted_temperature": 1.2173605077985503,
+        "deployment_temperature": 1.2173605077985503,
+        "calibration_used": true,
+        "validation_raw": {
+            "accuracy": 0.9069424867630005,
+            "nll": 0.37395259737968445,
+            "brier": 0.13329115509986877,
+            "ece": 0.021010100732630016
+        },
+        "validation_calibrated": {
+            "accuracy": 0.9069424867630005,
+            "nll": 0.36042454838752747,
+            "brier": 0.13174350559711456,
+            "ece": 0.008811727249877888
+        },
+        "test_raw": {
+            "accuracy": 0.9121759533882141,
+            "nll": 0.3558497428894043,
+            "brier": 0.1273273229598999,
+            "ece": 0.018379488013465055
+        },
+        "test_calibrated": {
+            "accuracy": 0.9121759533882141,
+            "nll": 0.34508663415908813,
+            "brier": 0.1262088268995285,
+            "ece": 0.010471878519177212
+        },
+        "confidence_threshold": 0.54,
+        "threshold_selection_reason": "validation accepted accuracy >= 95%",
+        "validation_threshold_result": {
+            "threshold": 0.54,
+            "accepted": 11323,
+            "total": 12229,
+            "coverage": 0.9259138107299805,
+            "accepted_accuracy": 0.9505431652069092
+        },
+        "test_threshold_result": {
+            "threshold": 0.54,
+            "accepted": 11358,
+            "total": 12229,
+            "coverage": 0.9287758469581604,
+            "accepted_accuracy": 0.9519281387329102
+        },
+        "checkpoint": "/shared/homes/u25656467/AutoVision_Model_Development/models/final_training/make_model/resnet50_final_best.pt"
+    },
+    "body_type": {
+        "architecture": "convnext_tiny",
+        "num_classes": 12,
+        "validation_images": 9751,
+        "test_images": 9751,
+        "fitted_temperature": 1.8375242476142712,
+        "deployment_temperature": 1.8375242476142712,
+        "calibration_used": true,
+        "validation_raw": {
+            "accuracy": 0.9169315695762634,
+            "nll": 0.308044970035553,
+            "brier": 0.132073312997818,
+            "ece": 0.04519592166857797
+        },
+        "validation_calibrated": {
+            "accuracy": 0.9169315695762634,
+            "nll": 0.2406025528907776,
+            "brier": 0.12345530837774277,
+            "ece": 0.009045191053655758
+        },
+        "test_raw": {
+            "accuracy": 0.9163162708282471,
+            "nll": 0.3007013201713562,
+            "brier": 0.13155817985534668,
+            "ece": 0.04597591437549256
+        },
+        "test_calibrated": {
+            "accuracy": 0.9163162708282471,
+            "nll": 0.23627644777297974,
+            "brier": 0.12191568315029144,
+            "ece": 0.005723658580542913
+        },
+        "confidence_threshold": 0.67,
+        "threshold_selection_reason": "validation accepted accuracy >= 95%",
+        "validation_threshold_result": {
+            "threshold": 0.67,
+            "accepted": 8894,
+            "total": 9751,
+            "coverage": 0.9121115803718567,
+            "accepted_accuracy": 0.9507533311843872
+        },
+        "test_threshold_result": {
+            "threshold": 0.67,
+            "accepted": 8892,
+            "total": 9751,
+            "coverage": 0.9119064807891846,
+            "accepted_accuracy": 0.9526540637016296
+        },
+        "checkpoint": "/shared/homes/u25656467/AutoVision_Model_Development/models/final_training/body_type/convnext_tiny_final_best.pt"
+    },
+    "colour": {
+        "architecture": "swin_t",
+        "num_classes": 10,
+        "validation_images": 3112,
+        "test_images": 13323,
+        "fitted_temperature": 1.3974599384875195,
+        "deployment_temperature": 1.3974599384875195,
+        "calibration_used": true,
+        "validation_raw": {
+            "accuracy": 0.9244858622550964,
+            "nll": 0.2769352197647095,
+            "brier": 0.1241743192076683,
+            "ece": 0.03708406890632217
+        },
+        "validation_calibrated": {
+            "accuracy": 0.9244858622550964,
+            "nll": 0.24969086050987244,
+            "brier": 0.12044735997915268,
+            "ece": 0.011536881381017848
+        },
+        "test_raw": {
+            "accuracy": 0.9294453263282776,
+            "nll": 0.2475145012140274,
+            "brier": 0.11104526370763779,
+            "ece": 0.0303483624669314
+        },
+        "test_calibrated": {
+            "accuracy": 0.9294453263282776,
+            "nll": 0.22714343667030334,
+            "brier": 0.10833714157342911,
+            "ece": 0.005801731534553966
+        },
+        "confidence_threshold": 0.71,
+        "threshold_selection_reason": "validation accepted accuracy >= 95%",
+        "validation_threshold_result": {
+            "threshold": 0.71,
+            "accepted": 2872,
+            "total": 3112,
+            "coverage": 0.922879159450531,
+            "accepted_accuracy": 0.9502089023590088
+        },
+        "test_threshold_result": {
+            "threshold": 0.71,
+            "accepted": 12330,
+            "total": 13323,
+            "coverage": 0.9254672527313232,
+            "accepted_accuracy": 0.9572587013244629
+        },
+        "checkpoint": "/shared/homes/u25656467/AutoVision_Model_Development/models/final_training/colour/swin_t_final_best.pt"
+    }
+}

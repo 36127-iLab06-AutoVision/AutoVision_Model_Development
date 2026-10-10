@@ -1,0 +1,40 @@
+#!/bin/bash
+#PBS -N mm_resnet_final
+#PBS -q small_gpuq
+#PBS -l ncpus=8
+#PBS -l ngpus=1
+#PBS -l mem=32GB
+#PBS -l walltime=12:00:00
+#PBS -j oe
+
+cd "$PBS_O_WORKDIR"
+
+source "$HOME/miniconda3/etc/profile.d/conda.sh"
+conda activate autovision
+
+echo "===== FINAL MAKE/MODEL TRAINING ====="
+echo "Host:"
+hostname
+
+echo "===== GPU ====="
+nvidia-smi
+
+echo "===== PYTORCH ====="
+python - <<'PY'
+import torch
+print("Torch:", torch.__version__)
+print("CUDA:", torch.version.cuda)
+print("CUDA available:", torch.cuda.is_available())
+if torch.cuda.is_available():
+    print("GPU:", torch.cuda.get_device_name(0))
+PY
+
+python scripts/train_make_model.py \
+    --epochs 15 \
+    --batch-size 64 \
+    --workers 8 \
+    --lr 0.0001 \
+    --weight-decay 0.0001 \
+    --patience 3
+
+echo "===== JOB FINISHED ====="

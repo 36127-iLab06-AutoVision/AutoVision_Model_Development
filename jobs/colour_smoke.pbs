@@ -1,0 +1,19 @@
+#!/bin/bash
+#PBS -N colour_swin_smoke
+#PBS -q med_gpuq
+#PBS -l ncpus=8
+#PBS -l ngpus=1
+#PBS -l mem=32GB
+#PBS -l walltime=00:30:00
+#PBS -j oe
+
+cd "$PBS_O_WORKDIR"
+
+source "$HOME/miniconda3/etc/profile.d/conda.sh"
+conda activate autovision
+
+python scripts/train_colour.py \
+    --epochs 1 \
+    --batch-size 64 \
+    --workers 8 \
+    --smoke-test

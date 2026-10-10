@@ -1,0 +1,25 @@
+#!/bin/bash
+#PBS -N damage_yolo_eval
+#PBS -q med_gpuq
+#PBS -l ncpus=4
+#PBS -l ngpus=1
+#PBS -l mem=24GB
+#PBS -l walltime=01:00:00
+#PBS -j oe
+set -e
+
+cd "$PBS_O_WORKDIR"
+
+source "$HOME/miniconda3/etc/profile.d/conda.sh"
+conda activate autovision
+
+export YOLO_CONFIG_DIR="$HOME/AutoVision_Model_Development/.yolo_config"
+mkdir -p "$YOLO_CONFIG_DIR"
+
+echo "===== FINAL YOLO11s DAMAGE EVALUATION ====="
+hostname
+nvidia-smi
+
+python scripts/evaluate_damage_final.py
+
+echo "===== JOB FINISHED ====="

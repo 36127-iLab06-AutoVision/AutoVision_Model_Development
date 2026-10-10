@@ -1,0 +1,29 @@
+{
+    "architecture": "YOLO11s",
+    "checkpoint": "/shared/homes/u25656467/AutoVision_Model_Development/models/final_training/damage/yolo11s_negative_aware_final.pt",
+    "test_images": 374,
+    "precision": 0.749033513700343,
+    "recall": 0.6871731502998903,
+    "map50": 0.7418791506154082,
+    "map50_95": 0.5789979321356236,
+    "clean_holdout": [
+        {
+            "confidence": 0.25,
+            "false_positive_images": 10,
+            "total_images": 120,
+            "false_positive_rate": 0.08333333333333333
+        },
+        {
+            "confidence": 0.35,
+            "false_positive_images": 7,
+            "total_images": 120,
+            "false_positive_rate": 0.058333333333333334
+        },
+        {
+            "confidence": 0.5,
+            "false_positive_images": 1,
+            "total_images": 120,
+            "false_positive_rate": 0.008333333333333333
+        }
+    ]
+}

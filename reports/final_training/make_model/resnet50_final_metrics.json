@@ -1,0 +1,12 @@
+{
+    "architecture": "resnet50",
+    "pretrained": true,
+    "num_classes": 1102,
+    "best_epoch": 15,
+    "best_val_accuracy": 0.9068607408618857,
+    "test_loss": 0.355853163959136,
+    "test_accuracy": 0.9121759751410582,
+    "test_top5_accuracy": 0.9768582876768338,
+    "test_macro_f1": 0.9122580990494846,
+    "checkpoint": "/shared/homes/u25656467/AutoVision_Model_Development/models/final_training/make_model/resnet50_final_best.pt"
+}
