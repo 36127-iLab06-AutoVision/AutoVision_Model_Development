@@ -1,0 +1,1103 @@
+make_model,web_train,surveillance_train,combined_train
+Buick || EXCELLE GT,243,0,243
+Chevy || Sail sedan,230,0,230
+BMW || BMW 3 Series,227,88,315
+Benz || Benz E Class,218,105,323
+KIA || SPORTAGE,191,0,191
+MAZDA || ATENZA,191,0,191
+Chevy || Aveo sedan,189,0,189
+BMW || BMW 5 Series,187,96,283
+Audi || Audi A5 hatchback,183,0,183
+KIA || KIA K2 sedan,183,0,183
+Ford || New Focus hatchback,172,0,172
+Volvo || Volvo XC60,165,79,244
+Benz || Benz E Class coupe,160,0,160
+Audi || Audi A5 coupe,157,0,157
+Toyota || Camry,156,320,476
+Peugeot || Peugeot 307 hatchback,155,0,155
+Buick || Lacrosse,146,0,146
+Audi || Audi A8L,143,0,143
+BAW || BAW E Series hatchback,141,0,141
+Volkswagen || Golf,139,0,139
+Citroen || Citroen C5,137,203,340
+Peugeot || Peugeot 308CC,136,0,136
+Benz || Benz GLA Class,133,0,133
+Chevy || Cruze sedan,133,0,133
+Volvo || Volvo XC90 abroad version,133,0,133
+Audi || Audi A4L,132,0,132
+Benz || Benz GLK Class,132,258,390
+Volkswagen || Volkswagen CC,132,13,145
+smart || smart fortwo,132,0,132
+Ford || Fiesta sedan,130,0,130
+Yiqi || Xiali N7,130,0,130
+Changan || Yuexiang sedan,129,0,129
+Skoda || Octavia,129,73,202
+Honda || Civic,128,250,378
+Jeep || Wrangler,128,63,191
+Toyota || Corolla,126,131,257
+Mitsubishi || Pajero,125,84,209
+Roewe || Roewe 550,125,0,125
+Audi || Audi A5 convertible,124,0,124
+Audi || Audi Q5,123,194,317
+Dongnan || V3 Lingyue,123,0,123
+Nissan || Teana,123,369,492
+Buick || Regal,122,154,276
+Ford || New Focus sedan,121,0,121
+BMW || BMW X5,120,85,205
+Honda || Fit,120,211,331
+Volvo || Volvo C30,120,26,146
+BMW || BMW X1,119,217,336
+Besturn || Besturn B70,119,0,119
+Honda || Accord,118,259,377
+Audi || Audi Q7,117,0,117
+Citroen || c-Elysee sedan,117,0,117
+MAZDA || Ruiyi coupe,117,0,117
+Nissan || Qashqai,117,193,310
+Rolls-Royce || Wraith,117,0,117
+Shuanglong || Rexton W,117,0,117
+Volkswagen || Bora,117,265,382
+Hyundai || Elantra,116,73,189
+Volkswagen || Golf GTI,116,0,116
+BMW || BMW X3,115,307,422
+Chevy || Sail hatchback,115,0,115
+Haval || Haval H8,115,0,115
+Citroen || Quatre sedan,114,0,114
+MINI || MINI,114,0,114
+Jaguar || Jaguar XF,113,103,216
+Audi || Audi A3 hatchback,112,0,112
+Chevy || AVEO hatchback,112,0,112
+Haval || Haval H3,112,0,112
+LAND-ROVER || Discovery,112,297,409
+Subaru || Tribeca,112,47,159
+BMW || BMW Z4,111,60,171
+Peugeot || Peugeot 207 sedan,111,0,111
+Geely || Classic Imperial hatchback,110,0,110
+Toyota || Zelas,109,0,109
+Benz || Benz C Class,108,200,308
+Guangqichuanqi || Trumpchi GA3S horizon,108,0,108
+LAND-ROVER || Freelander,108,235,343
+Subaru || Outback,108,104,212
+Audi || Audi A6L,107,0,107
+Benz || Benz E Class convertible,107,0,107
+Chevy || Aveo,107,69,176
+Dongfengxiaokang || DFSK C37,107,0,107
+Infiniti || Infiniti QX80,107,0,107
+KIA || KIA VQ,107,0,107
+Peugeot || Peugeot 207 hatchback,107,0,107
+Toyota || Previa,107,39,146
+Volkswagen || Scirocco,107,117,224
+Volvo || Volvo S80L,107,0,107
+Dodge || Caliber,106,24,130
+Hyundai || Sonata,106,0,106
+MINI || MINI CLUBMAN,106,0,106
+Porsche || Porsche 911,106,0,106
+Volkswagen || Golf R,106,0,106
+Yiqi || Jiabao V80,106,0,106
+Chery || Cowin 1,105,0,105
+Haval || Haval H5,105,108,213
+Benz || Benz GLA Class AMG,104,0,104
+Hyundai || Santafe,104,42,146
+Renault || Koleos,104,121,225
+Volkswagen || Touareg,104,248,352
+Volvo || Volvo XC70,104,0,104
+Cadillac || Cadillac CTS,103,50,153
+Yingzhi || Enranger G3,103,0,103
+Benz || Benz C Class estate,102,0,102
+Ford || Fiesta hatchback,102,0,102
+Jianghuai || Heyue RS,102,0,102
+Nissan || Nissan GT-R,102,0,102
+Peugeot || Peugeot 408,102,250,352
+BMW || BMW 5 Series estate,101,0,101
+Ford || escort,101,0,101
+Geely || Geely SC3,101,35,136
+Jeep || Compass,101,223,324
+Ruiqi || Riich G6,101,0,101
+Skoda || Fabia,101,166,267
+Volkswagen || Polo hatchback,101,0,101
+Volkswagen || Sagitar,101,308,409
+LAND-ROVER || Range Rover Sport,100,0,100
+Lexus || Lexus RX,100,148,248
+MAZDA || Axela sedan,100,0,100
+BMW || BMW 3 Series estate,99,0,99
+Chery || Fulwin 2 hatchback,99,0,99
+KIA || Soul,98,0,98
+Mitsubishi || Outlander abroad version,98,142,240
+Honda || Odyssey,97,70,167
+Acura || Acura ILX,96,39,135
+Acura || Acura MDX,96,53,149
+Acura || Acura RDX,96,62,158
+Acura || Acura RL,96,45,141
+Acura || Acura TL,96,131,227
+Acura || Acura TLX,96,0,96
+Acura || Acura ZDX,96,48,144
+Alfa Romeo || 4C,96,0,96
+Alfa Romeo || Giulietta,96,0,96
+Alfa Romeo || MiTo,96,0,96
+Aston Martin || DB9,96,0,96
+Aston Martin || Rapide,96,0,96
+Aston Martin || V12 Vantage,96,0,96
+Aston Martin || Vanquish,96,0,96
+Audi || Audi A1,96,36,132
+Audi || Audi A6,96,0,96
+Audi || Audi Q3,96,60,156
+Audi || Audi R8,96,0,96
+Audi || Audi RS Q3,96,0,96
+Audi || Audi RS5,96,0,96
+Audi || Audi RS6,96,0,96
+Audi || Audi RS7,96,0,96
+Audi || Audi S7,96,0,96
+Audi || Audi S8,96,0,96
+Audi || Audi SQ5,96,0,96
+Audi || Audi TT RS,96,0,96
+Audi || Audi e-tron,96,0,96
+BMW || Active Tourer,96,0,96
+BMW || BMW 2 Series Active Tourer,96,0,96
+BMW || BMW 3 Series GT,96,0,96
+BMW || BMW 3 Series convertible,96,0,96
+BMW || BMW 5 Series GT,96,0,96
+BMW || BMW M5,96,0,96
+BMW || BMW X5 M,96,0,96
+BMW || BMW X6,96,130,226
+BMW || BMW X6 M,96,0,96
+BMW || BMW i3,96,0,96
+BMW || BMW i8,96,0,96
+BYD || BYD F0,96,134,230
+BYD || BYD F3,96,199,295
+BYD || BYD F6,96,68,164
+BYD || BYD L3,96,72,168
+BYD || BYD M6,96,0,96
+BYD || BYD S6,96,177,273
+BYD || BYD S7,96,0,96
+BYD || BYD e6,96,0,96
+BYD || Qin,96,0,96
+Baojun || Baojun 630,96,88,184
+Baojun || Lechi,96,0,96
+Beiqihuansu || Huansu S3,96,0,96
+Bentley || Flying Spur,96,0,96
+Bentley || Mulsanne,96,0,96
+Bentley || Super Sport,96,0,96
+Benz || Benz B Class,96,64,160
+Benz || Benz C Class AMG,96,0,96
+Benz || Benz CLA Class,96,0,96
+Benz || Benz CLA Class AMG,96,0,96
+Benz || Benz CLS Class,96,72,168
+Benz || Benz CLS Class AMG,96,0,96
+Benz || Benz E Class AMG,96,0,96
+Benz || Benz GL Class,96,89,185
+Benz || Benz M Class,96,0,96
+Benz || Benz M Class AMG,96,0,96
+Benz || Benz S Class,96,83,179
+Benz || Benz S Class AMG,96,0,96
+Benz || Benz SL Class,96,0,96
+Benz || Benz SL Class AMG,96,0,96
+Benz || Benz SLK Class,96,20,116
+Benz || Benz SLS Class AMG,96,0,96
+Benz || Wei Yanuo,96,0,96
+Besturn || Besturn B50,96,0,96
+Besturn || Besturn B90,96,0,96
+Besturn || Besturn X80,96,69,165
+Bugatti || Veyron,96,0,96
+Buick || Buick GL8 Business,96,0,96
+Buick || EXCELLE XT,96,0,96
+Buick || Envision,96,0,96
+Buick || Excelle,96,136,232
+Buick || encore,96,31,127
+Cadillac || Cadillac ATS,96,0,96
+Cadillac || Cadillac ATS-L,96,0,96
+Cadillac || Cadillac ELR,96,0,96
+Cadillac || Cadillac SRX,96,82,178
+Cadillac || Cadillac XTS,96,68,164
+Cadillac || Escalade,96,0,96
+Cadillac || Seville SLS,96,109,205
+Changan || Benben,96,124,220
+Changan || Changan CS35,96,68,164
+Changan || Changan CS75,96,0,96
+Changan || Changan CX20,96,89,185
+Changan || Yuexiang V3,96,68,164
+Changan || Yuexiang V5,96,0,96
+Chery || Chery QQ,96,0,96
+Chevy || Captiva,96,240,336
+Chevy || Corvette,96,0,96
+Chevy || Cruze abroad version,96,0,96
+Chevy || Malibu,96,131,227
+Chevy || Silverado,96,0,96
+Chevy || Sonic,96,0,96
+Chevy || Volt,96,0,96
+Chrysler || Chrysler 200,96,0,96
+Ciimo || Ciimo,96,0,96
+Citroen || Citroen C1,96,0,96
+Citroen || Citroen C3,96,0,96
+Citroen || Citroen C4L,96,56,152
+Citroen || Elysee,96,0,96
+Citroen || Grand C4 Picasso,96,0,96
+DS || DS 3,96,0,96
+DS || DS 4,96,0,96
+DS || DS 5,96,0,96
+DS || DS 6,96,0,96
+Dacia || Duster,96,0,96
+Dacia || Logan,96,0,96
+Denza || Denza,96,0,96
+Dodge || Challenger,96,0,96
+Dodge || Challenger SRT,96,0,96
+Dodge || Charger,96,0,96
+Dodge || Charger SRT,96,0,96
+Dodge || Dart,96,0,96
+Dodge || Durango,96,0,96
+Dodge || Journey,96,0,96
+Dodge || Viper,96,0,96
+Dongfengfengshen || Fengshen A30,96,0,96
+Dongfengfengshen || Fengshen CROSS,96,0,96
+Dongfengfengxing || Fengxing CM7,96,0,96
+Dongfengxiaokang || Fengguang,96,0,96
+Dongnan || V6 Lingyue,96,0,96
+Everus || Linian S1,96,31,127
+FIAT || Bravo,96,0,96
+FIAT || FIAT 500L,96,0,96
+FIAT || FIAT Idea,96,0,96
+FIAT || FIAT Panda,96,0,96
+FIAT || Feixiang,96,129,225
+FIAT || Freemont,96,0,96
+FIAT || Punto,96,0,96
+FIAT || Zhiyue,96,0,96
+Ferrari || California,96,0,96
+Ferrari || F12berlinetta,96,0,96
+Ferrari || Ferrari 458,96,0,96
+Ferrari || Ferrari FF,96,0,96
+Ferrari || LaFerrari,96,0,96
+Ford || Ecosport,96,68,164
+Ford || Edge,96,0,96
+Ford || Explorer,96,0,96
+Ford || Falcon,96,0,96
+Ford || Ford C-MAX,96,0,96
+Ford || Ford Flex,96,0,96
+Ford || Ford Fusion,96,0,96
+Ford || Kuga,96,73,169
+Ford || Mendeo,96,49,145
+Ford || Mendeo Zhisheng,96,0,96
+Ford || Mustang,96,0,96
+Ford || Territory,96,0,96
+Fuqiqiteng || Qiteng M70,96,0,96
+GAC || Xinglang,96,0,96
+GMC || Sierra,96,0,96
+GMC || Yukon,96,0,96
+Geely || Geely TX4,96,0,96
+Geely || Panda,96,157,253
+Geely || Vision,96,0,96
+GreatWall || Great Wall C30,96,108,204
+GreatWall || Great Wall C50,96,115,211
+GreatWall || Great Wall M2,96,0,96
+GreatWall || Great Wall M4,96,0,96
+Guangqichuanqi || Chuanqi GA3,96,0,96
+Guangqichuanqi || Chuanqi GS5,96,145,241
+Haima || Haifuxing,96,0,96
+Haima || Haima S5,96,0,96
+Haima || Haimaqishi,96,0,96
+Haima || Qiubite,96,146,242
+Haval || Haval H6,96,48,144
+Honda || City,96,222,318
+Honda || Crosstour,96,22,118
+Honda || Elysion,96,67,163
+Honda || Honda CR-V,96,68,164
+Honda || Honda CR-Z,96,0,96
+Honda || Honda Insight,96,0,96
+Honda || Vezel,96,0,96
+Huatai || Baolige,96,45,141
+Huatai || Shengdafei,96,0,96
+Hyundai || Elantra abroad version,96,0,96
+Hyundai || Equus,96,0,96
+Hyundai || Mistra,96,19,115
+Hyundai || Rena,96,51,147
+Hyundai || Sonata 8,96,0,96
+Hyundai || Veloster,96,0,96
+Hyundai || Verna,96,0,96
+Hyundai || i10,96,0,96
+Hyundai || i20,96,0,96
+Hyundai || i40,96,0,96
+Infiniti || ESQ,96,0,96
+Infiniti || Infiniti G Class,96,125,221
+Infiniti || Infiniti Q50L,96,0,96
+Infiniti || Infiniti Q60,96,0,96
+Infiniti || Infiniti Q70L,96,0,96
+Infiniti || Infiniti QX60,96,0,96
+Infiniti || Infiniti QX70,96,0,96
+Jaguar || Jaguar C-X75,96,0,96
+Jaguar || Jaguar F-TYPE,96,0,96
+Jaguar || Jaguar XE,96,0,96
+Jaguar || Jaguar XJ,96,41,137
+Jaguar || Jaguar XK,96,0,96
+Jeep || Cherokee,96,0,96
+Jeep || Grand Cherokee,96,131,227
+Jeep || Grand Cherokee SRT,96,0,96
+Jeep || Patriot,96,98,194
+Jianghuai || Heyue,96,446,542
+Jianghuai || Heyue A30,96,0,96
+Jianghuai || Ruifeng M5,96,0,96
+Jianghuai || Ruifeng S3,96,0,96
+Jinbei || Zhishang S30,96,0,96
+KIA || Borrego,96,23,119
+KIA || Forte,96,0,96
+KIA || KIA Ceed,96,0,96
+KIA || KIA Forte,96,0,96
+KIA || KIA K3S,96,0,96
+KIA || KIA K4,96,0,96
+KIA || KIA Picanto,96,0,96
+KIA || Kaizun,96,43,139
+KIA || Sorento,96,229,325
+KIA || Sportage R,96,0,96
+KTM || X-BOW,96,0,96
+Koenigsegg || Koenigsegg Agera,96,0,96
+LAND-ROVER || Evoque,96,0,96
+Lamborghini || Gallardo,96,0,96
+Lamborghini || Huracan,96,0,96
+Lamborghini || Veneno,96,0,96
+Lexus || Lexus CT,96,64,160
+Lexus || Lexus GS hybrid,96,0,96
+Lexus || Lexus GX,96,119,215
+Lexus || Lexus HS,96,0,96
+Lexus || Lexus IS,96,64,160
+Lexus || Lexus LF-A,96,0,96
+Lexus || Lexus LS,96,123,219
+Lexus || Lexus NX,96,0,96
+Lexus || Lexus RC,96,0,96
+Lifan || Lifan 330,96,0,96
+Lifan || Lifan 520,96,95,191
+Lifan || Lifan X60,96,68,164
+Lincoln || Lincoln MKS,96,0,96
+Lincoln || Lincoln MKT,96,0,96
+Lincoln || Lincoln MKX,96,0,96
+Lincoln || Lincoln MKZ,96,0,96
+Lotus || Elise,96,0,96
+Lotus || Evora,96,0,96
+Lotus || Exige,96,0,96
+Luxgen || 7 SUV,96,0,96
+Luxgen || Luxgen 5 Sedan,96,0,96
+Luxgen || You 6 SUV,96,0,96
+MAZDA || Mazda 3,96,191,287
+MAZDA || Mazda 3 abroad version,96,0,96
+MAZDA || Mazda 5,96,94,190
+MAZDA || Mazda CX-5,96,103,199
+MAZDA || Mazda CX-9,96,0,96
+MAZDA || Mazda CX7,96,119,215
+MAZDA || Ruiyi,96,0,96
+MG || MG3,96,0,96
+MG || MG5,96,0,96
+MINI || MINI CABRIO,96,0,96
+MINI || MINI CLUBVAN,96,0,96
+MINI || MINI COUNTRYMAN,96,0,96
+MINI || MINI COUPE,96,0,96
+MINI || MINI JCW,96,0,96
+MINI || MINI JCW COUNTRYMAN,96,0,96
+MINI || MINI JCW PACEMAN,96,0,96
+MINI || MINI PACEMAN,96,0,96
+MINI || MINI ROADSTER,96,0,96
+Maserati || Ghibli,96,0,96
+Maserati || GranCabrio,96,0,96
+Maserati || Quattroporte,96,31,127
+McLaren || McLaren 12C,96,0,96
+McLaren || McLaren 650S,96,0,96
+McLaren || McLaren P1,96,0,96
+Mitsubishi || ASX,96,76,172
+Mitsubishi || ASX abroad version,96,0,96
+Mitsubishi || Mitsubishi Lancer EX,96,0,96
+Mitsubishi || Mitsubishi Zinger,96,173,269
+Mitsubishi || Mitsubishi i,96,0,96
+Mitsubishi || Pajero Sport,96,0,96
+Nissan || Altima,96,0,96
+Nissan || Murano,96,13,109
+Nissan || Nissan 370Z,96,0,96
+Nissan || Nissan Juke,96,0,96
+Nissan || Pathfinder,96,0,96
+Nissan || Patrol,96,0,96
+Nissan || Pulsar,96,0,96
+Nissan || Quest,96,85,181
+Nissan || Sunshine,96,0,96
+Nissan || Tiida,96,227,323
+Nissan || Versa,96,0,96
+Opel || Antara,96,17,113
+Opel || Insignia,96,0,96
+Opel || Opel Adam,96,0,96
+Opel || Opel CORSA,96,0,96
+Opel || Opel Cascada,96,0,96
+Opel || Opel Mokka,96,0,96
+Opel || Zafira,96,0,96
+Pagani || Huayra,96,0,96
+Pagani || Zonda,96,0,96
+Peugeot || Peugeot 2008,96,0,96
+Peugeot || Peugeot 208,96,0,96
+Peugeot || Peugeot 301,96,31,127
+Peugeot || Peugeot 308 abroad version,96,0,96
+Peugeot || Peugeot 4008,96,0,96
+Peugeot || Peugeot 508,96,201,297
+Peugeot || Peugeot 508 abroad version,96,0,96
+Peugeot || Peugeot RCZ,96,0,96
+Porsche || Boxster,96,0,96
+Porsche || Canyenne,96,49,145
+Porsche || Cayman,96,0,96
+Porsche || Macan,96,0,96
+Porsche || Panamera,96,48,144
+Porsche || Porsche 918,96,0,96
+Renault || Laguna,96,0,96
+Renault || Latitude,96,0,96
+Renault || Megan Aa,96,23,119
+Renault || Reno Captur,96,0,96
+Renault || Reno Twingo,96,0,96
+Renault || Scenic,96,0,96
+Renault || Tower Siman,96,0,96
+Roewe || Roewe 350,96,105,201
+Roewe || Roewe 950,96,0,96
+Roewe || Roewe E50,96,0,96
+Rolls-Royce || Ghost,96,0,96
+Rolls-Royce || Phantom,96,0,96
+SAAB || SAAB D70,96,0,96
+Seat || Alhambra,96,0,96
+Seat || Ibiza,96,0,96
+Seat || Seat EXEO,96,0,96
+Seat || Seat LEON,96,0,96
+Seat || Seat Mii,96,0,96
+Shuanglong || Korando,96,0,96
+Shuanglong || Kyron,96,41,137
+Shuanglong || Rodius,96,21,117
+Skoda || Octavia abroad version,96,0,96
+Skoda || Rapid,96,72,168
+Skoda || Rapid Spaceback,96,0,96
+Skoda || Superb,96,0,96
+Skoda || Superb Derivative,96,0,96
+Subaru || Forester,96,125,221
+Subaru || Legacy,96,166,262
+Subaru || Subaru BRZ,96,31,127
+Subaru || Subaru WRX,96,0,96
+Suzuki || Alivio,96,0,96
+Suzuki || Alto,96,121,217
+Suzuki || Fengyu,96,0,96
+Suzuki || Swift,96,0,96
+Suzuki || Tianyu SX4 hatchback,96,0,96
+TESLA || MODEL S,96,0,96
+TESLA || TESLA Roadster,96,0,96
+Toyota || Alphard,96,117,213
+Toyota || Avensis,96,0,96
+Toyota || FJ Cruiser,96,42,138
+Toyota || Highlander,96,159,255
+Toyota || Highlander abroad version,96,0,96
+Toyota || Levin,96,0,96
+Toyota || Prius,96,45,141
+Toyota || Reiz,96,116,212
+Toyota || Sequoia,96,0,96
+Toyota || Toyota 4 Rinner,96,0,96
+Toyota || Toyota 86,96,0,96
+Toyota || Toyota Auris,96,0,96
+Toyota || Toyota Aygo,96,0,96
+Toyota || Toyota IQ,96,0,96
+Toyota || Toyota Tacoma,96,0,96
+Toyota || Toyota Verso,96,0,96
+Toyota || Undra,96,0,96
+Toyota || Venza,96,0,96
+Toyota || YARiS L,96,0,96
+Vauxhall || Vauxhall Adam,96,0,96
+Vauxhall || Vauxhall Astra,96,0,96
+Vauxhall || Vauxhall Insignia,96,0,96
+Vauxhall || Vauxhall VXR8,96,0,96
+Venucia || Venucia D50,96,98,194
+Venucia || Venucia R30,96,0,96
+Venucia || Venucia R50X,96,0,96
+Volkswagen || Amarok Pickup,96,0,96
+Volkswagen || Beetle,96,51,147
+Volkswagen || Cross Lavida,96,31,127
+Volkswagen || Jetta abroad version,96,0,96
+Volkswagen || Lavide,96,90,186
+Volkswagen || Multivan,96,13,109
+Volkswagen || Passat,96,20,116
+Volkswagen || Passat abroad version,96,0,96
+Volkswagen || Sharan,96,97,193
+Volkswagen || Tiguan,96,25,121
+Volkswagen || Touran,96,181,277
+Volkswagen || Volkswagen Eos,96,0,96
+Volkswagen || Volkswagen XL1,96,0,96
+Volkswagen || Volkswagen up,96,0,96
+Volvo || Volvo S60,96,100,196
+Volvo || Volvo V60,96,67,163
+Yiqi || Junpai D60,96,0,96
+Yiqi || Senya M80,96,0,96
+Yiqi || Weizhi V2,96,0,96
+Yiqi || Weizhi V5,96,0,96
+Zhonghua || Zhonghua H220,96,0,96
+Zhonghua || Zhonghua H330,96,103,199
+Zhonghua || Zhonghua H530,96,78,174
+Zhonghua || Zhonghua Junjie CROSS,96,0,96
+Zhonghua || Zhonghua Junjie FRV,96,0,96
+Zhonghua || Zhonghua V5,96,70,166
+Zhonghua || Zhonghua Zunchi,96,0,96
+Zotye || Zotye 5008,96,0,96
+Zotye || Zotye T600,96,0,96
+Zotye || Zotye Z100,96,0,96
+Zxauto || Grandtiger TUV,96,0,96
+Audi || Audi A7,95,68,163
+BAW || BAW BJ40,95,0,95
+BMW || BMW 1 Series M,95,0,95
+BMW || BMW 2 Series,95,0,95
+BMW || BMW 7 Series,95,73,168
+BMW || BMW X4,95,0,95
+BYD || BYD G5,95,0,95
+Baojun || Baojun 610,95,0,95
+Baojun || Baojun 730,95,0,95
+Beiqihuansu || Huansu S2,95,0,95
+Benz || AMG GT,95,0,95
+Benz || Benz A Class,95,62,157
+Benz || Benz G Class,95,0,95
+Benz || Benz R Class,95,110,205
+Benz || Wei Ting,95,77,172
+Brabus || Brabus G Class,95,0,95
+Buick || Enclave,95,101,196
+Changan Business || Changan Star,95,0,95
+Changan Business || Oulove,95,0,95
+Changan || Benben MINI,95,0,95
+Chery || Arrizo 7,95,0,95
+Chery || Chery A1,95,0,95
+Chery || Tiggo 3,95,0,95
+Chery || Tiggo 5,95,0,95
+Chevy || Lova,95,95,190
+Chevy || Trax,95,0,95
+Chrysler || Chrysler 300C,95,83,178
+Citroen || C4 Aircross,95,0,95
+Citroen || Citroen C4,95,17,112
+DS || DS 5LS,95,0,95
+Dongfengfengshen || Fengshen A60,95,33,128
+Dongfengfengxing || Jingyi S50,95,0,95
+Dongfengfengxing || Jingyi X5,95,0,95
+Dongfengfengxing || Lingzhi,95,0,95
+Ford || Ford F-150,95,0,95
+Futian || Mengpaike E,95,0,95
+GAC || Saboo G5,95,0,95
+GAC || Saboo GX5,95,0,95
+Geely || Geely GX7,95,103,198
+Geely || Ziyoujian,95,40,135
+Haige || Haige H5C,95,0,95
+Haima || Family M5,95,0,95
+Haima || Haydo,95,139,234
+Haval || Haval H2,95,0,95
+Honda || Jade,95,28,123
+Huatai || Lusheng E70,95,0,95
+Hyundai || Genesis,95,0,95
+Hyundai || Grand SantaFe,95,0,95
+Hyundai || Grandeur,95,48,143
+Hyundai || Rohens Coupe,95,80,175
+Hyundai || Tucson,95,67,162
+Hyundai || ix25,95,0,95
+Hyundai || ix35,95,77,172
+Infiniti || Infiniti Q50,95,0,95
+Jeep || Renegade,95,0,95
+Jianghuai || Ruifeng S5,95,0,95
+KIA || KIA K3,95,0,95
+KIA || KIA K5,95,0,95
+KIA || KIA venga,95,0,95
+LAND-ROVER || Range Rover,95,44,139
+Lamborghini || Aventador,95,0,95
+Lexus || Lexus ES,95,52,147
+Lexus || Lexus LX,95,100,195
+Lifan || Lifan 320,95,130,225
+Lifan || Lifan 530,95,0,95
+Lifan || Lifan 720,95,0,95
+Lincoln || Lincoln MKC,95,0,95
+Lincoln || Navigator,95,0,95
+Lufeng || Landwind X5,95,0,95
+Lufeng || Landwind X8,95,195,290
+MAZDA || Mazda MX-5,95,0,95
+Mitsubishi || Mitsubishi Lancer,95,0,95
+Nissan || Ma Chi,95,24,119
+Nissan || Nissan NV200,95,188,283
+Nissan || X-Trail,95,87,182
+Opel || Meriva,95,0,95
+Peugeot || Peugeot 3008,95,80,175
+Renault || Wind Lang,95,30,125
+Roewe || Roewe W5,95,70,165
+SAAB || SAAB D50,95,0,95
+Skoda || Haorui,95,272,367
+Skoda || Yeti,95,0,95
+Skoda || Yeti abroad version,95,0,95
+Suzuki || Cultus,95,93,188
+Suzuki || Kazishi,95,27,122
+Suzuki || Splash,95,0,95
+Suzuki || Yuyan,95,157,252
+Toyota || Crown,95,130,225
+Toyota || Prado,95,92,187
+Toyota || Toyota RAV4,95,186,281
+Toyota || Vios,95,57,152
+Toyota || 丰田Avalon,95,25,120
+Venucia || Venucia R50,95,91,186
+Volkswagen || Gran Lavida,95,107,202
+Volkswagen || Magotan,95,217,312
+Volkswagen || Magotan estate,95,0,95
+Volkswagen || Phaeton,95,39,134
+Volkswagen || Tiguan abroad version,95,242,337
+Volvo || Volvo C70,95,0,95
+Volvo || Volvo S60L,95,0,95
+Wuling || Wulinghongguang,95,89,184
+Zhonghua || Zhonghua H230,95,0,95
+Aston Martin || Virage,94,0,94
+Audi || Audi RS4,94,0,94
+BYD || BYD F3R,94,0,94
+BYD || BYD G6,94,23,117
+Benz || Sprinter,94,0,94
+Brabus || Brabus S Class,94,0,94
+Buick || Park Avenue,94,44,138
+Chery || Chery QQ3,94,0,94
+Chery || Chery X1,94,0,94
+Chery || Cowin 5,94,0,94
+Chery || Eastar,94,64,158
+Citroen || Cactus,94,0,94
+Citroen || Citroen C2,94,79,173
+Citroen || Quatre hatchback,94,0,94
+Citroen || Triomphe,94,87,181
+Dongfengfengshen || Fengshen S30,94,0,94
+Dongnan || V5 Lingzhi,94,0,94
+Ford || Classic Focus sedan,94,0,94
+Geely || Geely GC7,94,27,121
+GreatWall || Great Wall C20R,94,0,94
+GreatWall || Great Wall V80,94,0,94
+Haima || Haima S7,94,23,117
+Honda || Crider,94,29,123
+Huatai || Huatai B11,94,0,94
+Hyundai || Avante,94,60,154
+Hyundai || Elantra Yuedong,94,0,94
+Hyundai || Rohens,94,0,94
+Isuzu || D-MAX,94,0,94
+Jianghuai || Binyue,94,0,94
+Jinbei || Dahaishi,94,0,94
+KIA || Shuma,94,0,94
+LAND-ROVER || Defender,94,0,94
+Lexus || Lexus GS,94,114,208
+Lifan || Lifan 620,94,97,191
+MAZDA || Mazda 6,94,215,309
+Nissan || Paladin,94,41,135
+Ruiqi || Riich G3,94,0,94
+Shangqidatong || MAXUS G10,94,0,94
+Shangqidatong || MAXUS V80xs,94,68,162
+Toyota || Huaguan,94,344,438
+Toyota || Lcruiser,94,0,94
+Toyota || Yaris,94,81,175
+Volkswagen || Jetta,94,509,603
+WeaLink || WeaLink X5,94,0,94
+Wuling || Wulingzhiguang,94,0,94
+Yiqi || Xiali N5,94,0,94
+Zhonghua || Zhonghua H320,94,0,94
+Zotye || Zotye T200,94,0,94
+Zotye || Zotye Z300,94,142,236
+Acura || Acura RLX,93,0,93
+Benz || Benz SLK Class AMG,93,0,93
+Changan Business || Changan Ounuo,93,0,93
+Chery || Chery E5,93,0,93
+Dongfengfengxing || Jingyi,93,0,93
+Dongfengfengxing || Jingyi X3,93,0,93
+Ford || Expedition,93,0,93
+GMC || Savana,93,0,93
+GreatWall || Wingle 6,93,0,93
+Guangqichuanqi || Chuanqi GA5,93,179,272
+Haima || Haima M8,93,0,93
+Honda || Spirior,93,56,149
+HongQi || Hong Qi H7,93,0,93
+Jianghuai || Tongyue,93,0,93
+Jianghuai || Yueyue,93,0,93
+MAZDA || Mazda 2,93,149,242
+MAZDA || Mazda 8,93,155,248
+Mitsubishi || Mitsubishi Galant,93,74,167
+Nissan || Livina,93,0,93
+Ruiqi || Ruiqi G5,93,0,93
+Spyker N.V. || Spyker C8,93,0,93
+Suzuki || Bei Douxing,93,130,223
+Suzuki || Jimny,93,108,201
+Toyota || EZ,93,38,131
+Volkswagen || Santana,93,0,93
+Volvo || Volvo S80,93,46,139
+Volvo || Volvo V40,93,0,93
+Zhonghua || Zhonghua Junjie,93,31,124
+Zhonghua || Zhonghua Junjie FSV,93,0,93
+BYD || Si Rui,92,20,112
+BYD || Su Rui,92,48,140
+Chery || Chery E3,92,0,92
+Chevy || CHEVY Trax,92,0,92
+Chevy || Spark,92,0,92
+Dongfengfengshen || Fengshen H30,92,0,92
+FIAT || FIAT 500,92,25,117
+Geely || Geely EC8,92,0,92
+GreatWall || Xuanli CROSS,92,0,92
+Haima || Haima M3,92,45,137
+Haima || Premacy,92,128,220
+Jianghuai || Ruifeng,92,98,190
+Jianghuai || Ruiying,92,21,113
+Jonway || Yongyuan A380,92,0,92
+MG || MG7,92,0,92
+Maserati || Maserati GT,92,0,92
+Nissan || Leaf,92,0,92
+Roewe || Roewe 750,92,113,205
+Subaru || Subaru XV,92,141,233
+Suzuki || Grand Vitara,92,60,152
+Volkswagen || Volkswagen Fox,92,0,92
+Volvo || Volvo S40,92,59,151
+WeaLink || WeaLink V5,92,0,92
+Zxauto || Zxauto C3,92,0,92
+Aston Martin || V8 Vantage,91,0,91
+BYD || BYD G3,91,0,91
+Beiqiweiwang || Weiwang 205,91,0,91
+Beiqiweiwang || Weiwang M20,91,0,91
+Changan || Zhishang XT,91,0,91
+Chery || Cowin 2,91,0,91
+Chery || Tiggo,91,49,140
+Chevy || Camaro,91,0,91
+Chevy || Epica,91,221,312
+Chevy || Sail SPRINGO,91,0,91
+Dodge || Rampage,91,0,91
+GreatWall || Wingle 5,91,0,91
+GreatWall || Xuanli,91,36,127
+Haima || Fumeilai,91,0,91
+Jiangling || Yuhu,91,0,91
+Jinbei || Geruisi,91,0,91
+KIA || New Carens,91,0,91
+LAND-ROVER || Land Rover DC100,91,0,91
+Lancia || Lancia Ypsilon,91,0,91
+Lotus || Lotus L5,91,61,152
+Nissan || Sylphy,91,0,91
+Peugeot || CROSS 307,91,0,91
+Peugeot || Peugeot 207CC,91,0,91
+Shuanglong || Actyon,91,81,172
+Volkswagen || Passat Lingyu,91,0,91
+Wuling || Wulingrongguang,91,0,91
+BAW || BAW E Series sedan,90,0,90
+Changan || Ruiping,90,14,104
+Geely || Geely SX7,90,0,90
+Huatai || Tekala,90,0,90
+Infiniti || Infiniti QX50,90,0,90
+KIA || RIO,90,13,103
+Karry || Youyou,90,77,167
+Luxgen || MASTER CEO,90,0,90
+Renault || Reno ZOE,90,0,90
+Shuanghuan || Shuanghuan SCEO,90,81,171
+Venucia || Chenfeng,90,0,90
+Changan || Yidong,89,112,201
+FIAT || FIAT Uno,89,0,89
+Futian || Midi,89,0,89
+GMC || Terrain,89,0,89
+Geely || Geely GX2,89,0,89
+Volkswagen || Cross Polo,89,0,89
+Volvo || Volvo V40 CrossCountry,89,0,89
+Volvo || Volvo XC Classic,89,0,89
+Zxauto || Grandtiger G3,89,0,89
+Chery || Cowin 3,88,0,88
+Mitsubishi || Mitsubishi Fortis,88,0,88
+Ruiqi || Riich M1,88,0,88
+Audi || Audi quattro,87,0,87
+Beiqiweiwang || Weiwang 306,87,0,87
+Dodge || Avenger,87,0,87
+GreatWall || Kuxiong,87,0,87
+Suzuki || Tianyushangyue,87,0,87
+Zotye || Zotye M300,87,35,122
+Aston Martin || DBS,86,0,86
+Ford || Ford Ka,86,0,86
+Ford || Super Duty,86,0,86
+GreatWall || Lingao,86,0,86
+Hyundai || Wagon,86,0,86
+Jianghuai || Ruiling,86,0,86
+KIA || Cerato,86,139,225
+Wiesmann || Wiesmann GT,86,0,86
+Zotye || Zotye Z200HB,86,0,86
+Audi || Audi S1,85,0,85
+Buick || Regal GS,85,0,85
+Dongfeng || Junfeng CV03,85,0,85
+FIAT || Doblo,85,0,85
+Ford || Focus ST,85,0,85
+Haima(Zhengzhou) || Haima Prince,85,108,193
+Jinbei || Haishi,85,48,133
+Karry || Youya,85,58,143
+MG || MG3 SW,85,0,85
+Mitsubishi || Mitsubishi XR-PHEV,85,0,85
+Renault || Reno Alpine,85,0,85
+SAAB || SAAB D60,85,0,85
+Shuanglong || Rexton,85,23,108
+BYD || BYD G3R,84,0,84
+Chrysler || Chrysler 300C SRT,84,0,84
+GAC || GX6,84,0,84
+GAC || Xingwang,84,0,84
+Geely || King Kong sedan,84,0,84
+Hyundai || Accent,84,117,201
+Mustang || Mustang F12,84,0,84
+Nissan || Yida,84,0,84
+Peugeot || Peugeot 308,84,208,292
+Ruiqi || Riich M5,84,0,84
+Volkswagen || Caravelle,84,0,84
+Benz || Benz A Class AMG,83,0,83
+Lifan || Lifan 630,83,0,83
+Luxgen || 7 MPV,83,0,83
+Shuanglong || Chairman,83,0,83
+Zotye || Zotye Z200,83,0,83
+Aston Martin || Cygnet,82,0,82
+Beiqi New Energy || BAW E150 EV,82,0,82
+Chery || Chery A3 sedan,82,0,82
+Chevy || Cruze hatchback,82,0,82
+Geely || Classic Imperial sedan,81,0,81
+Honda || Honda HR-V,81,0,81
+Hyundai || Veracruz,81,124,205
+Peugeot || Peugeot 108,81,0,81
+MAZDA || Mazda 3 Xingcheng hatchback,80,0,80
+Audi || Audi S4,79,0,79
+BMW || BMW 3 Series coupe,79,0,79
+Changan Business || Ruixing,79,0,79
+Peugeot || Peugeot 308SW,79,0,79
+Volkswagen || Polo abroad version,79,0,79
+Chevy || Colorado,78,0,78
+Ford || Classic Focus hatchback,78,0,78
+Ford || S-MAX,78,127,205
+Volkswagen || Scirocco R,78,0,78
+Yiqi || Weizhi,78,43,121
+Dacia || Sandero,77,0,77
+Toyota || Toyota FT-86,77,0,77
+Acura || Acura NSX,76,0,76
+BMW || BMW 4 Series convertible,76,0,76
+BMW || BMW 6 Series coupe,76,0,76
+Benz || Benz V Class,76,0,76
+Dongfengfengdu || Shuaike,76,58,134
+Geely || Geely SC5-RV,76,0,76
+GreatWall || Great Wall M1,76,0,76
+Hyundai || Tucson abroad vresion,76,0,76
+Nissan || Lannia Concept,76,0,76
+Shuanghuan || Nobel,76,0,76
+Suzuki || Landy,76,0,76
+Honda || Honda NSX,75,0,75
+Mitsubishi || Grandis,75,142,217
+Oley || Oley sedan,75,0,75
+SAAB || SAAB 95,75,0,75
+Yiqi || Senya S80,75,0,75
+Nissan || Sentra,74,0,74
+Subaru || Impreza hatchback,74,0,74
+Brabus || Brabus M Class,73,0,73
+Chevy || CHEVY Tahoe,73,0,73
+Chevy || Equinox,73,0,73
+Ford || Transit,73,0,73
+Jianghuai || Heyue iEV,73,0,73
+Mustang || Mustang F99,73,0,73
+Renault || Cleo,73,0,73
+Aston Martin || ONE-77,72,0,72
+Chrysler || Grand Voager,72,0,72
+Lifan || Lifan X50,72,0,72
+Nissan || Titan,72,0,72
+Seat || Seat ALTEA,72,0,72
+Toyota || Toyota Hilux,72,0,72
+Chevy || CHEVY SS,71,0,71
+Dongnan || Xiwang,71,0,71
+Hyundai || Moinca,71,0,71
+MINI || MINI JCW COUPE,71,0,71
+Chery || Chery A3 hatchback,70,0,70
+Ferrari || Ferrari 599,70,0,70
+Honda || Honda FCX,70,0,70
+Jianghuai || Tongyue RS,70,0,70
+Audi || Audi TT coupe,69,0,69
+Beiqiweiwang || Weiwang 307,69,0,69
+Changan Business || Changan Star 7,69,0,69
+Chery || Eastar Cross,69,0,69
+Fisker || Karma,69,0,69
+Futian || Tunland,69,0,69
+Jianghuai || Ruifeng M3,69,0,69
+Benz || Benz G Class AMG,68,0,68
+Changan || Zhixiang,68,0,68
+Jaguar || Jaguar E-TYPE,68,0,68
+Jianghuai || Xingrui,68,13,81
+Lancia || Lancia Delta,68,0,68
+MG || MG6 hatchback,68,0,68
+Nissan || Navara,68,0,68
+Vauxhall || Vauxhall Cascada,68,0,68
+Volkswagen || Cross Coupe,68,0,68
+Volkswagen || NMC,68,0,68
+Volkswagen || Sagitar GLI,68,0,68
+Buick || Buick Riviera,67,0,67
+Chevy || Impala,67,0,67
+Dongfengfengxing || Jingyi SUV,67,0,67
+Jinbei || New Haishi,67,0,67
+Toyota || Saina,67,0,67
+Zhonghua || Zhonghua Junjie Wagon,67,0,67
+smart || smart forfour,67,0,67
+Hyundai || i30,66,64,130
+Lancia || Lancia Flavia,66,0,66
+Maserati || Alfieri,66,0,66
+Mitsubishi || Evo,66,0,66
+Scion || Scion FR-S,66,0,66
+Subaru || Impreza sedan,66,0,66
+Citroen || C-Zero,65,0,65
+Ferrari || Sergio,65,0,65
+Peugeot || Peugeot 307 sedan,65,0,65
+Ford || Ford Transit,64,0,64
+Benz || Benz S Class hybird,63,0,63
+Cheetah || Cheetah CS7,63,0,63
+GMC || Acadia,63,0,63
+Benz || Coupe SUV,62,0,62
+Chery || Chery A5,62,0,62
+Futian || Fengjing G7,62,0,62
+GAC || Xingwang CL,62,0,62
+Geely || Jinying,62,0,62
+Toyota || Toyota FT-1,62,0,62
+AC Schnitzer || AC Schnitzer X6,61,0,61
+Benz || Benz CL Class AMG,61,0,61
+FIAT || Palio,61,45,106
+GreatWall || Jingling,61,51,112
+Volkswagen || CrossBlue,61,0,61
+Audi || Audi RS3,60,0,60
+Benz || Benz F800,60,0,60
+Benz || Benz GL Class AMG,60,0,60
+Buick || Buick GL8 Luxury Business,60,0,60
+Cheetah || Feiteng,60,0,60
+Haima(Zhengzhou) || Haimaaishang,60,0,60
+Hyundai || Accent abroad version,60,0,60
+Lexus || Lexus IS convertible,60,0,60
+Nissan || Bilian,60,0,60
+Skoda || Citigo,60,0,60
+Volkswagen || Santana Vista,60,0,60
+Brabus || Brabus E Class,59,0,59
+Brabus || Brabus SLK Class,59,0,59
+Changan || Changan CS30 sedan,59,0,59
+Citroen || Citroen GT,59,0,59
+Huanghai || Dachaishen,59,0,59
+Jinbei || Jinbei S50,59,24,83
+Mitsubishi || Mitsubishi Colt,59,0,59
+Nissan || Nissan Cube,59,0,59
+Scion || Scion iQ,59,0,59
+Volkswagen || Caddy abroad version,59,67,126
+Alfa Romeo || 8C,58,0,58
+Citroen || C3 Picasso,58,56,114
+GAC || GP150,58,0,58
+Mitsuoka || Himiko,58,0,58
+Nissan || IDX,58,0,58
+Opel || GTC hatchback,58,0,58
+Renault || Reno Wind,58,0,58
+Volvo || Volvo XC Coupe,58,0,58
+Zxauto || Qijian A9,58,0,58
+BMW || BMW 6 Series convertible,57,0,57
+Futian || Mengpaike S,57,0,57
+Chery || Chery QQme,56,0,56
+KIA || KIA K2 hatchback,56,0,56
+MAZDA || Takeri,56,0,56
+Morgan || Morgan Plus 8,56,0,56
+Chevy || CHEVY Orlando,55,0,55
+Lexus || Lexus LF-LC,55,0,55
+MAZDA || Axela hatchback,55,0,55
+Audi || Audi A3 sedan,54,0,54
+Chery || Fulwin 2 sedan,54,0,54
+Hafei || Lubao,54,68,122
+Huanghai || Qisheng V3,54,0,54
+Porsche || Carrera GT,54,0,54
+smart || smart forjeremy,54,0,54
+Audi || Audi S5 convertible,53,0,53
+BMW || BMW 1 Series coupe,53,0,53
+BMW || BMW 1 Series hatchback,53,0,53
+BMW || BMW M3 coupe,53,0,53
+Changan || Benben LOVE,53,0,53
+FIAT || Linea,53,0,53
+Huanghai || Huanghai N1,53,0,53
+KIA || KIA K5 hybrid,53,0,53
+Lifan || Lifan 521i,53,0,53
+Peugeot || Peugeot 107,53,0,53
+Scion || Scion tC,53,0,53
+Volkswagen || Touareg hybrid,53,0,53
+Audi || Audi TTS coupe,52,0,52
+BMW || EfficientDynamics,52,0,52
+Baihc || Yusheng 007,52,0,52
+Benz || Sprinter abroad version,52,0,52
+Brabus || Brabus CLS Class,52,0,52
+Cheetah || Cheetah Q6,52,0,52
+Huatai || Xinshengdafei,52,0,52
+MAZDA || Mazda 3 Xingcheng sedan,52,0,52
+Peugeot || Peugeot 5008,52,0,52
+Suzuki || Liana hatchback,52,0,52
+Volvo || Volvo V70,52,0,52
+Yiqi || Jiabao V70,52,0,52
+Chrysler || Chrysler Delta,51,0,51
+Chrysler || Prowler,51,0,51
+Dongfeng || Yufeng,51,0,51
+Ford || Fiesta ST,51,0,51
+Haima || Haima 3,51,70,121
+Lorinser || Lorinser G Class,51,0,51
+BMW || BMW M4 coupe,50,0,50
+Citroen || Quatre Cross,50,0,50
+Dacia || Dokker,50,0,50
+Scion || Scion xB,50,0,50
+Vauxhall || Vauxhall Corsa,50,0,50
+BMW || BMW 6 Series,49,0,49
+Geely || King Kong CROSS,49,0,49
+Lexus || Lexus LF-Gh,49,0,49
+MAZDA || Hazumi,49,0,49
+Renault || Reno Twizy,49,0,49
+Seat || Seat IBE,49,0,49
+Skoda || Roomster,49,0,49
+Audi || Audi S5 coupe,48,0,48
+BMW || BMW 4 Series coupe,48,0,48
+Geely || Imperial hatchback,48,0,48
+HongQi || Hong Qi L5,48,0,48
+MINI || MINI Superleggera,48,0,48
+Porsche || Porsche 919,48,0,48
+Bentley || Brooklands,47,0,47
+FIAT || FIAT Fiorino Qubo,47,0,47
+Futian || Fukuda,47,0,47
+Hafei || Minyi,47,0,47
+Toyota || Toyota Matrix,47,0,47
+Volvo || Volvo Coupe,47,0,47
+Dodge || Ram,46,0,46
+Dongfengxiaokang || DFSK K07II,46,0,46
+Hyundai || ix20,46,0,46
+Lancia || Lancia Thema,46,0,46
+Volkswagen || Golf convertible,46,0,46
+Mitsubishi || Mirage,45,0,45
+Zotye || Jiangnan TT,45,0,45
+Audi || Crosslane Coupe,44,0,44
+BMW || Zagato Coupe,44,0,44
+Citroen || Survolt,44,0,44
+Fisker || Surf,44,0,44
+GMC || GMC CANYON,44,0,44
+Honda || Honda ONE,44,0,44
+Honda || Honda S2000,44,0,44
+Karry || Youpai,44,0,44
+Lamborghini || Reventon,44,0,44
+Lorinser || Lorinser S Class,44,0,44
+Mitsuoka || Orochi,44,0,44
+Nissan || Sports Sedan,44,0,44
+Renault || Reno Symbol,44,0,44
+Scion || Scion xD,44,0,44
+Volkswagen || T-ROC,44,0,44
+AC Schnitzer || AC Schnitzer 5 Class,43,0,43
+Changhe || Ideal,43,48,91
+Chevy || CHEVY Traverse,43,0,43
+Ford || Ford B-MAX,43,0,43
+Ford || Ranger,43,0,43
+GAC || E Mei,43,0,43
+Geely || Geely SC7,43,0,43
+Hafei || Saima,43,0,43
+Infiniti || Essence,43,0,43
+Iveco || Power Daily,43,0,43
+Lexus || Lexus LF-NX,43,0,43
+Lifan || Fengshun,43,0,43
+Nissan || Rogue,43,0,43
+Subaru || Viziv,43,0,43
+Volkswagen || Golf estate,43,0,43
+Wiesmann || Wiesmann Roadster,43,0,43
+Aston Martin || Lagonda,42,0,42
+BMW || ConnectedDrive,42,0,42
+Bentley || Arnage,42,0,42
+Citroen || c-Elysee hatchback,42,0,42
+Dongfengxiaokang || DFSK V27,42,0,42
+Ford || Ford F-350,42,0,42
+GAC || Caiyun 300,42,0,42
+Geely || Geely GC9,42,0,42
+Hyundai || Sonata abroad version,42,0,42
+Iveco || Campagnola,42,0,42
+KIA || Sedona,42,0,42
+Mustang || Mustang F16,42,0,42
+Volkswagen || Volkswagen R36,42,0,42
+Alfa Romeo || Disco Volante,41,0,41
+Audi || Audi R18,41,0,41
+Audi || Audi S3 sedan,41,0,41
+Brabus || Brabus smart fortwo,41,0,41
+Ford || Ford F-650,41,0,41
+KIA || KIA K9,41,0,41
+Lexus || Lexus LF-CC,41,0,41
+Renault || Reno Twin-Run,41,0,41
+CHTC || Tuteng T2,40,0,40
+Daihatsu || Xenia,40,0,40
+Hyundai || Nuvis,40,0,40
+Skoda || Octavia RS,40,0,40
+Toyota || Toyota Urban Cruiser,40,0,40
+Yiqi || Weizi,40,22,62
+Zotye || Zotye V10,40,0,40

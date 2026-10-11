@@ -1,0 +1,2 @@
+epoch,train_loss,train_accuracy,web_val_loss,web_val_accuracy,web_val_top5_accuracy,web_val_macro_f1,surveillance_val_loss,surveillance_val_accuracy,surveillance_val_top5_accuracy,surveillance_val_macro_f1,selection_score
+1,0.7147324006908046,0.8861748900830484,0.44636985758745973,0.8884540117416829,0.9726027397260274,0.8876174682144831,2.7441397607326508,0.552734375,0.751953125,0.5748259602033187,0.7312217142089008

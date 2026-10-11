@@ -1,0 +1,18 @@
+{
+    "existing_web_classes": 1102,
+    "surveillance_rows_usable": 44441,
+    "surveillance_rows_matched": 43739,
+    "surveillance_rows_unmatched": 702,
+    "surveillance_classes_matched": 274,
+    "surveillance_classes_unmatched": 7,
+    "existing_classes_with_surveillance_support": 274,
+    "row_match_rate": 0.984203775792624,
+    "existing_class_coverage": 0.24863883847549909,
+    "surveillance_train_rows": 27560,
+    "surveillance_val_rows": 3066,
+    "surveillance_official_test_rows": 13113,
+    "mixed_train_rows": 125201,
+    "mixed_val_rows": 15295,
+    "frozen_web_test_rows": 12229,
+    "seed": 42
+}
